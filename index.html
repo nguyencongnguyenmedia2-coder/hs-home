@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HOA SEN HOME | TUSLO &amp; LUSHINE — E-Catalogue Thiết Bị Nhà Tắm &amp; Nhà Bếp 2026</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+
+<body>
+
+  <!-- TOP ANNOUNCEMENT BAR -->
+  <div class="top-bar">
+    <div class="top-bar-left">
+      <span class="top-pill">XUẤT BẢN 06/2026</span>
+      <span class="top-bar-desc"><strong>HOA SEN HOME</strong> — Hệ Thống Siêu Thị Vật Liệu Xây Dựng &amp; Nội Thất (25
+        Năm Kinh Nghiệm Tập Đoàn Hoa Sen)</span>
+    </div>
+    <div class="top-bar-right">
+      <span class="top-bar-stat">📄 <strong>51</strong> Trang PDF (97 Trang)</span>
+      <span class="top-bar-stat top-bar-divider">•</span>
+      <span class="top-bar-stat">🏺 <strong>203</strong> Sản phẩm chính hãng</span>
+      <span class="top-bar-stat top-bar-divider">•</span>
+      <span class="top-bar-stat">✨ <strong>11</strong> Combo phòng tắm</span>
+      <span class="top-bar-mobile-hotline">📞 Hotline: <strong>1800 1515</strong></span>
+    </div>
+  </div>
+
+  <!-- STICKY SITE HEADER -->
+  <header class="site-header">
+    <div class="header-main">
+      <a href="#top" class="brand-cluster" onclick="app.resetAllFilters()">
+        <div class="brand-emblem">
+          <span>HS</span>
+          <span>2026</span>
+        </div>
+        <div class="brand-titles">
+          <h1>TUSLO <span class="divider">|</span> LUSHINE</h1>
+          <p>HOA SEN HOME • DIGITAL SHOWROOM &amp; E-CATALOGUE 2026</p>
+        </div>
+      </a>
+
+      <!-- Global Search Bar -->
+      <div class="header-search" id="headerSearchWrap">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="globalSearchInput"
+          placeholder="Tìm theo mã (T005, E003, C013, D012, K014...), tên, kích thước, chất liệu..."
+          autocomplete="off" />
+        <button class="search-clear" id="searchClearBtn" title="Xóa tìm kiếm">✕</button>
+        <span class="search-shortcut">Ctrl + K</span>
+        <div class="search-suggestions-dropdown" id="searchSuggestionsDropdown"></div>
+      </div>
+
+      <!-- Quick Section Navigation -->
+      <div class="header-actions">
+        <button class="nav-btn active" onclick="app.scrollToSection('showroomSection')">
+          🏺 Sản phẩm <span class="badge-count" id="headerTotalBadge">203</span>
+        </button>
+        <button class="nav-btn" onclick="app.scrollToSection('combosSection')">
+          🛋️ 11 Combo
+        </button>
+        <button class="nav-btn" onclick="app.scrollToSection('techShowcaseSection')">
+          🔬 Công nghệ 2026
+        </button>
+        <button class="nav-btn" onclick="app.scrollToSection('lookbookSection')">
+          🏛️ Phối cảnh 3D
+        </button>
+        <button class="nav-btn" onclick="app.scrollToSection('catalogueExplorerSection')">
+          📖 51 Trang Gốc
+        </button>
+        <button class="nav-btn" onclick="app.openConfiguratorModal()">
+          🧭 Phối Bộ
+        </button>
+        <button class="nav-btn" onclick="app.openStatsModal()">
+          📊 Thống kê
+        </button>
+        <button class="nav-btn primary" onclick="app.openQuoteModal()">
+          🧾 Báo Giá <span class="badge-count" id="headerQuoteBadge">0</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Quick Category Strip -->
+    <div class="category-strip">
+      <div class="category-strip-inner" id="headerCategoryStrip">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </header>
+
+  <!-- HERO BANNER & BRAND SHOWCASE -->
+  <section class="hero-section" id="top">
+    <div class="hero-container">
+      <div class="hero-left">
+        <div class="hero-eyebrow">
+          <span>★ HOA SEN HOME OFFICIAL CATALOGUE 2026</span>
+        </div>
+        <h2 class="hero-title">
+          Chạm Vào Sự Tiện Nghi <br />
+          <span>TUSLO Phòng Tắm &amp; LUSHINE Nhà Bếp</span>
+        </h2>
+        <p class="hero-subtitle">
+          Dữ liệu số hóa 100% từ Catalogue Thiết Bị Nhà Tắm &amp; Nhà Bếp 2026: tra cứu tức thì toàn bộ 203 sản phẩm, 53
+          bản vẽ kỹ thuật, 11 Combo nhà tắm đồng bộ và 51 trang dàn trang gốc.
+        </p>
+
+        <div class="hero-stats-grid">
+          <div class="hero-stat-card">
+            <div class="stat-num" id="statTotalProducts">203</div>
+            <div class="stat-label">Sản phẩm trích xuất 100%</div>
+          </div>
+          <div class="hero-stat-card">
+            <div class="stat-num">14</div>
+            <div class="stat-label">Danh mục TUSLO &amp; LUSHINE</div>
+          </div>
+          <div class="hero-stat-card">
+            <div class="stat-num">11</div>
+            <div class="stat-label">Combo phòng tắm đồng bộ</div>
+          </div>
+          <div class="hero-stat-card">
+            <div class="stat-num">51</div>
+            <div class="stat-label">Trang PDF / 97 trang in</div>
+          </div>
+        </div>
+
+        <div class="hero-quick-filters" id="heroQuickFilters">
+          <button class="qf-btn active" data-qf="all" onclick="app.applyQuickFilter('all')">✨ Tất cả (203)</button>
+          <button class="qf-btn" data-qf="col2026" onclick="app.applyQuickFilter('col2026')">🏆 2026 Collection</button>
+          <button class="qf-btn" data-qf="bestseller" onclick="app.applyQuickFilter('bestseller')">🔥 Bán chạy (Best
+            Seller)</button>
+          <button class="qf-btn" data-qf="luxury" onclick="app.applyQuickFilter('luxury')">💎 Dòng Luxury</button>
+          <button class="qf-btn" data-qf="pro" onclick="app.applyQuickFilter('pro')">⚡ Dòng Pro</button>
+          <button class="qf-btn" data-qf="drawing" onclick="app.applyQuickFilter('drawing')">📐 Có bản vẽ kỹ thuật
+            (53)</button>
+          <button class="qf-btn" data-qf="ar" onclick="app.applyQuickFilter('ar')">📱 Trải nghiệm AR</button>
+          <button class="qf-btn" data-qf="lushine" onclick="app.applyQuickFilter('lushine')">🍽️ Thiết bị bếp LUSHINE
+            (29)</button>
+        </div>
+
+        <!-- 4 Cam Kết Vàng Hoa Sen Home (Trang PDF 1 & 2) -->
+        <div class="brand-commitments-bar">
+          <div class="commitment-pill" onclick="app.openPageInExplorer(2)"
+            title="Xem Trang PDF 2 — Cam kết thương hiệu Hoa Sen Home">
+            <span class="c-icon">🛡️</span>
+            <div>
+              <strong>Đúng tiêu chuẩn</strong>
+              <span>Kiểm định chất lượng quốc tế</span>
+            </div>
+          </div>
+          <div class="commitment-pill" onclick="app.openPageInExplorer(2)"
+            title="Xem Trang PDF 2 — Cam kết thương hiệu Hoa Sen Home">
+            <span class="c-icon">💎</span>
+            <div>
+              <strong>Đúng chất lượng</strong>
+              <span>Bảo chứng bởi Tập đoàn Hoa Sen</span>
+            </div>
+          </div>
+          <div class="commitment-pill" onclick="app.openPageInExplorer(2)"
+            title="Xem Trang PDF 2 — Cam kết thương hiệu Hoa Sen Home">
+            <span class="c-icon">🧾</span>
+            <div>
+              <strong>Đủ hóa đơn</strong>
+              <span>Minh bạch chứng từ VAT 100%</span>
+            </div>
+          </div>
+          <div class="commitment-pill" onclick="app.openPageInExplorer(2)"
+            title="Xem Trang PDF 2 — Cam kết thương hiệu Hoa Sen Home">
+            <span class="c-icon">🔧</span>
+            <div>
+              <strong>Được bảo hành</strong>
+              <span>Hậu mãi toàn hệ thống Hoa Sen Home</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="hero-visual-grid">
+        <div class="hero-feature-box" onclick="app.openPageInExplorer(14)">
+          <img src="assets/banners/tech_xa_xoay.jpg" alt="Công nghệ xả xoáy 360" />
+          <div>
+            <h3>Men Sứ Nano &amp; Xả Xoáy 360°</h3>
+            <p>Men sứ Nano Ceramic nung 1280°C kháng khuẩn, hệ thống xả Super Vortex &amp; S-Trap mạnh mẽ, êm ái.</p>
+          </div>
+        </div>
+        <div class="hero-feature-box" onclick="app.selectCategory('Bồn cầu thông minh')">
+          <img src="assets/banners/smart_toilet_intro.jpg" alt="Bồn cầu thông minh" />
+          <div>
+            <h3>Bồn Cầu Thông Minh Luxury</h3>
+            <p>Bộ tứ E001, E002, E003, E004 tích hợp công nghệ đỉnh cao: Radar tự mở nắp, khử trùng UV, bọt kháng khuẩn, sấy ấm.</p>
+          </div>
+        </div>
+        <div class="hero-feature-box" onclick="app.selectCategory('Tủ chậu lavabo')">
+          <img src="assets/products/C013_Luxury.jpg" alt="Tủ gương lavabo 2026" />
+          <div>
+            <h3>Tủ Gương Lavabo 2026 Collection</h3>
+            <p>Gỗ tự nhiên đa lớp chống ẩm, mặt đá Arma Stone Corian liền khối &amp; gương LED cảm ứng vẫy tay/Radar.
+            </p>
+          </div>
+        </div>
+        <div class="hero-feature-box" onclick="app.selectCategory('Chậu rửa chén')">
+          <img src="assets/products/D012.jpg" alt="Chậu rửa chén Lushine" />
+          <div>
+            <h3>Chậu Bếp &amp; Vòi Bếp LUSHINE</h3>
+            <p>Chậu sóng siêu âm UV D012, chậu đá nhân tạo Granite, mạ PVD vân đá &amp; vòi bếp cảm ứng hiển thị nhiệt
+              độ.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- MAIN CONTENT -->
+  <main class="main-container">
+
+    <!-- 14 CATEGORIES OVERVIEW GRID -->
+    <section class="category-overview-section">
+      <div class="section-header-bar">
+        <h2>🗂️ Danh Mục Sản Phẩm Toàn Catalogue (14 Danh Mục)</h2>
+        <div style="display:flex; gap:8px;">
+          <button class="nav-btn" onclick="app.filterByBrand('ALL')" id="brandBtnALL">Tất cả thương hiệu (203)</button>
+          <button class="nav-btn" onclick="app.filterByBrand('TUSLO')" id="brandBtnTUSLO">🛁 TUSLO Phòng Tắm
+            (174)</button>
+          <button class="nav-btn" onclick="app.filterByBrand('LUSHINE')" id="brandBtnLUSHINE">🍽️ LUSHINE Nhà Bếp
+            (29)</button>
+        </div>
+      </div>
+      <div class="cat-cards-grid" id="categoryCardsGrid">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+    <!-- SHOWROOM FILTER + PRODUCT LISTING -->
+    <div class="filter-drawer-backdrop" id="filterDrawerBackdrop" onclick="app.closeMobileFilter()"></div>
+    <section class="showroom-layout" id="showroomSection">
+      <!-- LEFT FILTER SIDEBAR -->
+      <aside class="filter-sidebar" id="filterSidebar">
+        <div class="filter-header">
+          <h3>⚙️ Bộ Lọc Chuyên Sâu</h3>
+          <div style="display:flex; align-items:center; gap:8px;">
+            <button class="reset-btn" onclick="app.resetAllFilters()">Đặt lại</button>
+            <button class="filter-drawer-close-btn" id="filterDrawerCloseBtn" onclick="app.closeMobileFilter()"
+              title="Đóng bộ lọc">✕</button>
+          </div>
+        </div>
+
+        <!-- Filter: Brand -->
+        <div class="filter-group">
+          <div class="filter-group-title">
+            <span>Thương hiệu</span>
+          </div>
+          <div class="filter-options-list" id="filterBrandList">
+            <!-- Populated by JS -->
+          </div>
+        </div>
+
+        <!-- Filter: Collection Tier -->
+        <div class="filter-group">
+          <div class="filter-group-title">
+            <span>Bộ sưu tập / Phân khúc</span>
+          </div>
+          <div class="filter-options-list" id="filterCollectionList">
+            <!-- Populated by JS -->
+          </div>
+        </div>
+
+        <!-- Filter: Price Range -->
+        <div class="filter-group">
+          <div class="filter-group-title">
+            <span>Khoảng giá niêm yết</span>
+          </div>
+          <div class="price-range-inputs">
+            <div class="price-range-labels">
+              <span>0 ₫</span>
+              <span id="priceSliderLabel">Tối đa: 65.000.000 ₫</span>
+            </div>
+            <input type="range" id="maxPriceSlider" min="50000" max="65000000" step="50000" value="65000000" />
+          </div>
+          <div class="price-presets" id="pricePresetsGrid">
+            <button class="price-preset-btn active" data-range="all" onclick="app.setPricePreset('all')">Tất cả mức
+              giá</button>
+            <button class="price-preset-btn" data-range="0-500000" onclick="app.setPricePreset('0-500000')">&lt; 500.000
+              ₫</button>
+            <button class="price-preset-btn" data-range="500000-2000000"
+              onclick="app.setPricePreset('500000-2000000')">500K – 2 Triệu</button>
+            <button class="price-preset-btn" data-range="2000000-5000000"
+              onclick="app.setPricePreset('2000000-5000000')">2 – 5 Triệu</button>
+            <button class="price-preset-btn" data-range="5000000-15000000"
+              onclick="app.setPricePreset('5000000-15000000')">5 – 15 Triệu</button>
+            <button class="price-preset-btn" data-range="15000000-999999999"
+              onclick="app.setPricePreset('15000000-999999999')">&gt; 15 Triệu</button>
+          </div>
+        </div>
+
+        <!-- Filter: Special Attributes / Badges -->
+        <div class="filter-group">
+          <div class="filter-group-title">
+            <span>Đặc điểm &amp; Nhãn nổi bật</span>
+          </div>
+          <div class="filter-options-list">
+            <div class="filter-Export-check">
+              <label><input type="checkbox" id="chkBestseller" onchange="app.onCheckboxFilterChange()" /> 🔥 Sản phẩm
+                Bán chạy</label>
+            </div>
+            <div class="filter-Export-check">
+              <label><input type="checkbox" id="chk2026" onchange="app.onCheckboxFilterChange()" /> 🏆 2026
+                Collection</label>
+            </div>
+            <div class="filter-Export-check">
+              <label><input type="checkbox" id="chkHasDrawing" onchange="app.onCheckboxFilterChange()" /> 📐 Có bản vẽ
+                kỹ thuật</label>
+            </div>
+            <div class="filter-Export-check">
+              <label><input type="checkbox" id="chkHasAR" onchange="app.onCheckboxFilterChange()" /> 📱 Hỗ trợ Trải
+                nghiệm AR</label>
+            </div>
+            <div class="filter-Export-check">
+              <label><input type="checkbox" id="chkInCombo" onchange="app.onCheckboxFilterChange()" /> 🛋️ Có trong 11
+                Combo</label>
+            </div>
+          </div>
+        </div>
+
+        <!-- Filter: Water Mode -->
+        <div class="filter-group">
+          <div class="filter-group-title">
+            <span>Chế độ nước (Vòi &amp; Sen)</span>
+          </div>
+          <select class="filter-select" id="filterWaterSelect" onchange="app.onSelectFilterChange()">
+            <option value="ALL">Tất cả sản phẩm</option>
+            <option value="Nóng lạnh">🔴🔵 Chế độ Nóng lạnh</option>
+            <option value="Lạnh">🔵 Chế độ Nước lạnh</option>
+          </select>
+        </div>
+
+        <!-- Filter: PDF Page -->
+        <div class="filter-group">
+          <div class="filter-group-title">
+            <span>Lọc theo Trang PDF / Catalogue</span>
+          </div>
+          <select class="filter-select" id="filterPageSelect" onchange="app.onSelectFilterChange()">
+            <option value="ALL">Tất cả trang sản phẩm</option>
+          </select>
+        </div>
+
+        <!-- Sticky Drawer Bottom Apply Button for Mobile -->
+        <div class="filter-drawer-footer">
+          <button class="filter-apply-btn" onclick="app.closeMobileFilter()">
+            ✓ Xem <span id="filterApplyCount">203</span> sản phẩm
+          </button>
+        </div>
+      </aside>
+
+      <!-- RIGHT PRODUCT LISTING AREA -->
+      <div class="products-stage">
+        <div class="products-toolbar">
+          <div class="toolbar-left">
+            <button class="mobile-filter-btn" id="mobileFilterToggleBtn" onclick="app.toggleMobileFilter()"
+              title="Mở bộ lọc nâng cao">
+              <span>⚙️ Bộ Lọc</span>
+              <span class="filter-count-badge" id="mobileFilterCount">0</span>
+            </button>
+            <div class="result-counter">
+              Hiển thị <strong id="visibleProductCount">203</strong> / <span id="totalProductCount">203</span> sản phẩm
+            </div>
+            <div class="active-chips" id="activeFilterChips">
+              <!-- Active filter tags -->
+            </div>
+          </div>
+
+          <div class="toolbar-right">
+            <select class="sort-select" id="sortSelect" onchange="app.onSortChange()">
+              <option value="catalogue">📖 Thứ tự trang Catalogue (Mặc định)</option>
+              <option value="price-asc">💰 Giá niêm yết: Thấp → Cao</option>
+              <option value="price-desc">💎 Giá niêm yết: Cao → Thấp</option>
+              <option value="code-asc">🔤 Mã sản phẩm: A → Z</option>
+              <option value="tier-desc">👑 Phân khúc: Luxury → Standard</option>
+            </select>
+
+            <div class="view-switcher">
+              <button class="view-btn active" id="viewBtnGrid" onclick="app.setViewMode('grid')">⊞ Lưới</button>
+              <button class="view-btn" id="viewBtnList" onclick="app.setViewMode('list')">☰ Danh sách</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- PRODUCTS CONTAINER -->
+        <div class="products-grid" id="productsContainer">
+          <!-- Rendered by JS -->
+        </div>
+      </div>
+    </section>
+
+    <!-- DEDICATED SECTION: 11 BATHROOM COMBOS -->
+    <section class="special-section" id="combosSection">
+      <div class="section-header-bar">
+        <div>
+          <h2>🛋️ 11 Combo Thiết Bị Nhà Tắm Đồng Bộ TUSLO (Trang PDF 41 – 46 | Cat 77 – 88)</h2>
+          <p style="font-size:0.86rem; color:var(--text-secondary);">
+            Nhấn vào từng sản phẩm thành phần trong Combo để xem thông số chi tiết, hoặc nhấn "Xem trên trang Catalogue
+            gốc" để xem phối cảnh phòng tắm.
+          </p>
+        </div>
+        <div style="display:flex; gap:8px; flex-wrap:wrap;" id="comboTierFilterBar">
+          <button class="nav-btn active" data-tier="ALL" onclick="app.filterCombos('ALL')">Tất cả (11)</button>
+          <button class="nav-btn" data-tier="Eco" onclick="app.filterCombos('Eco')">Eco (2)</button>
+          <button class="nav-btn" data-tier="Plus" onclick="app.filterCombos('Plus')">Plus (4)</button>
+          <button class="nav-btn" data-tier="Premium" onclick="app.filterCombos('Premium')">Premium (3)</button>
+          <button class="nav-btn" data-tier="Signature" onclick="app.filterCombos('Signature')">Signature (2)</button>
+        </div>
+      </div>
+
+      <div class="combos-grid" id="combosGridContainer">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+    <!-- DEDICATED SECTION: CORE TECHNOLOGY & MATERIAL SHOWCASE -->
+    <section class="special-section" id="techShowcaseSection">
+      <div class="section-header-bar">
+        <div>
+          <h2>🔬 Công Nghệ Cốt Lõi &amp; Điểm Nhấn Thiết Kế TUSLO &amp; LUSHINE 2026</h2>
+          <p style="font-size:0.86rem; color:var(--text-secondary);">
+            Tổng hợp các trang giới thiệu công nghệ, vật liệu và giải pháp đột phá trong Catalogue 2026. Nhấn vào từng
+            công nghệ để xem trang dàn trang gốc hoặc lọc ngay các sản phẩm ứng dụng công nghệ đó.
+          </p>
+        </div>
+        <div style="display:flex; gap:8px;">
+          <button class="nav-btn" onclick="app.openPageInExplorer(4)">📖 Câu chuyện Thương hiệu (T.4–10)</button>
+          <button class="nav-btn primary" onclick="app.openPageInExplorer(35)">📖 Giới thiệu LUSHINE (T.35–36)</button>
+        </div>
+      </div>
+
+      <div class="tech-showcase-grid" id="techShowcaseGrid">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+    <!-- DEDICATED SECTION: 3D LIFESTYLE LOOKBOOK & SPACE INSPIRATION -->
+    <section class="special-section" id="lookbookSection">
+      <div class="section-header-bar">
+        <div>
+          <h2>🏛️ Lookbook Phối Cảnh 3D &amp; Cảm Hứng Không Gian Sống (Trang PDF 5 – 10 &amp; 47 – 49)</h2>
+          <p style="font-size:0.86rem; color:var(--text-secondary);">
+            Trọn bộ 9 phối cảnh kiến trúc phòng tắm TUSLO &amp; gian bếp LUSHINE nguyên bản trong Catalogue 2026. Nhấn
+            vào từng thiết bị gắn thẻ trong không gian để xem thông số hoặc phóng to toàn màn hình.
+          </p>
+        </div>
+        <div style="display:flex; gap:8px; flex-wrap:wrap;" id="lookbookFilterBar">
+          <button class="nav-btn active" data-lb="ALL" onclick="app.filterLookbook('ALL')">✨ Tất cả không gian
+            (9)</button>
+          <button class="nav-btn" data-lb="BATH" onclick="app.filterLookbook('BATH')">🛁 Phòng tắm TUSLO (6)</button>
+          <button class="nav-btn" data-lb="KITCHEN" onclick="app.filterLookbook('KITCHEN')">🍽️ Gian bếp LUSHINE
+            (3)</button>
+        </div>
+      </div>
+
+      <div class="lookbook-grid" id="lookbookGrid">
+        <!-- Populated by JS -->
+      </div>
+    </section>
+
+    <!-- DEDICATED SECTION: 51-PAGE ORIGINAL CATALOGUE SPREAD EXPLORER -->
+    <section class="special-section" id="catalogueExplorerSection">
+      <div class="catalogue-explorer">
+        <div class="explorer-controls">
+          <div>
+            <h2 style="font-size:1.25rem; color:var(--gold-light);">📖 Trình Duyệt Catalogue Gốc 51 Trang PDF (97 Trang
+              In)</h2>
+            <p style="font-size:0.82rem; color:#cbd5e1;" id="explorerPageTitle">
+              Trang PDF 1 / 51 — Bìa trước Catalogue
+            </p>
+          </div>
+
+          <div style="display:flex; align-items:center; gap:8px; flex-wrap:wrap;">
+            <button class="nav-btn" onclick="app.stepExplorerPage(-1)">◀ Trang trước</button>
+            <select class="sort-select" id="explorerPageSelect"
+              onchange="app.goToExplorerPage(parseInt(this.value, 10))">
+              <!-- Populated by JS -->
+            </select>
+            <button class="nav-btn" onclick="app.stepExplorerPage(1)">Trang sau ▶</button>
+
+            <div class="view-switcher" style="margin-left:8px;">
+              <button class="view-btn active" onclick="app.setExplorerZoom(100)" id="zoomBtn100">100%</button>
+              <button class="view-btn" onclick="app.setExplorerZoom(135)" id="zoomBtn135">135%</button>
+              <button class="view-btn" onclick="app.setExplorerZoom(175)" id="zoomBtn175">175%</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Mục Lục Nhanh Catalogue (Đối chiếu Trang PDF 4 / Cat 03–04) -->
+        <div class="explorer-toc-bar" id="explorerTocBar">
+          <!-- Populated by JS -->
+        </div>
+
+        <div class="explorer-workspace">
+          <!-- Left: 51 Page Thumbnails -->
+          <div class="page-thumbs-list" id="explorerThumbsList">
+            <!-- Populated by JS -->
+          </div>
+
+          <!-- Center: Spread Image + Interactive Product Hotspots -->
+          <div class="page-canvas-wrap">
+            <div class="spread-stage" id="explorerSpreadStage" style="width: 100%;">
+              <img id="explorerSpreadImage" src="assets/pages/page_01.jpg" alt="Catalogue Page" />
+              <div id="explorerHotspotsLayer"></div>
+            </div>
+          </div>
+
+          <!-- Right: Products & Combos on this Page -->
+          <div class="page-products-panel">
+            <h3
+              style="font-size:0.95rem; color:var(--gold-light); margin-bottom:10px; border-bottom:1px solid rgba(255,255,255,0.12); padding-bottom:8px;">
+              📦 Sản phẩm trên trang này (<span id="explorerPageProdCount">0</span>)
+            </h3>
+            <div id="explorerPageProductsList">
+              <!-- Populated by JS -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- FLOATING COMPARISON TRAY -->
+  <div class="compare-tray" id="compareTray">
+    <div>
+      <strong style="color:var(--gold-light);">⚖️ So sánh sản phẩm (<span id="compareCount">0</span>/4)</strong>
+    </div>
+    <div class="compare-tray-items" id="compareTrayItems"></div>
+    <div style="display:flex; gap:8px;">
+      <button class="nav-btn primary" onclick="app.openCompareModal()">So sánh ngay</button>
+      <button class="nav-btn" onclick="app.clearComparison()">Xóa</button>
+    </div>
+  </div>
+
+  <!-- PRODUCT DETAIL MODAL -->
+  <div class="modal-backdrop" id="productDetailModal" onclick="if(event.target===this) app.closeProductModal()">
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <div id="modalHeaderTitle" style="font-weight:800; font-size:1.1rem;">Chi tiết sản phẩm</div>
+        <button class="modal-close" onclick="app.closeProductModal()">✕</button>
+      </div>
+      <div class="modal-body" id="productModalBody">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- PRODUCT COMPARISON MODAL -->
+  <div class="modal-backdrop" id="compareModal" onclick="if(event.target===this) app.closeCompareModal()">
+    <div class="modal-dialog" style="max-width:1280px;">
+      <div class="modal-header">
+        <div style="font-weight:800; font-size:1.1rem;">⚖️ Bảng Đối Chiếu &amp; So Sánh Chi Tiết Sản Phẩm</div>
+        <button class="modal-close" onclick="app.closeCompareModal()">✕</button>
+      </div>
+      <div class="modal-body" id="compareModalBody">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- STATISTICS & DATA EXPORT MODAL -->
+  <div class="modal-backdrop" id="statsModal" onclick="if(event.target===this) app.closeStatsModal()">
+    <div class="modal-dialog" style="max-width:1100px;">
+      <div class="modal-header">
+        <div style="font-weight:800; font-size:1.1rem;">📊 Báo Cáo Thống Kê Toàn Catalogue &amp; Xuất Dữ Liệu (CSV /
+          JSON)</div>
+        <button class="modal-close" onclick="app.closeStatsModal()">✕</button>
+      </div>
+      <div class="modal-body" id="statsModalBody">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- COMBO DETAIL MODAL -->
+  <div class="modal-backdrop" id="comboDetailModal" onclick="if(event.target===this) app.closeComboModal()">
+    <div class="modal-dialog" style="max-width:1180px;">
+      <div class="modal-header">
+        <div id="comboModalHeaderTitle" style="font-weight:800; font-size:1.1rem;">🛋️ Chi tiết Combo</div>
+        <button class="modal-close" onclick="app.closeComboModal()">✕</button>
+      </div>
+      <div class="modal-body" id="comboModalBody">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- FULLSCREEN LIGHTBOX ZOOM MODAL -->
+  <div class="modal-backdrop" id="lightboxModal" onclick="if(event.target===this) app.closeLightbox()"
+    style="z-index:2500;">
+    <div class="modal-dialog"
+      style="max-width:92vw; max-height:92vh; background:#090c10; border:1px solid var(--gold-primary);">
+      <div class="modal-header" style="background:#090c10; border-bottom:1px solid rgba(255,255,255,0.12);">
+        <div id="lightboxTitle" style="font-weight:800; font-size:1rem; color:var(--gold-light);">🔍 Phóng to hình ảnh /
+          bản vẽ</div>
+        <button class="modal-close" onclick="app.closeLightbox()">✕</button>
+      </div>
+      <div class="modal-body"
+        style="display:flex; justify-content:center; align-items:center; background:#fff; padding:20px; max-height:82vh; overflow:auto;">
+        <img id="lightboxImg" src="" alt="Zoomed Image" style="max-width:100%; max-height:76vh; object-fit:contain;" />
+      </div>
+    </div>
+  </div>
+
+  <!-- SMART ROOM CONFIGURATOR & PACKAGE BUILDER MODAL -->
+  <div class="modal-backdrop" id="configuratorModal" onclick="if(event.target===this) app.closeConfiguratorModal()">
+    <div class="modal-dialog" style="max-width:1260px;">
+      <div class="modal-header">
+        <div style="font-weight:800; font-size:1.1rem;">🧭 Trợ Lý Phối Bộ Thiết Bị Phòng Tắm &amp; Nhà Bếp Theo Ngân
+          Sách (TUSLO &amp; LUSHINE 2026)</div>
+        <button class="modal-close" onclick="app.closeConfiguratorModal()">✕</button>
+      </div>
+      <div class="modal-body" id="configuratorModalBody">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- AR 3D EXPERIENCE & ROOM SIMULATION MODAL -->
+  <div class="modal-backdrop" id="arModal" onclick="if(event.target===this) app.closeARModal()">
+    <div class="modal-dialog" style="max-width:1180px;">
+      <div class="modal-header">
+        <div id="arModalTitle" style="font-weight:800; font-size:1.1rem;">📱 Trải Nghiệm Thực Tế Ảo Tăng Cường (AR 3D)
+          Trong Không Gian Sống</div>
+        <button class="modal-close" onclick="app.closeARModal()">✕</button>
+      </div>
+      <div class="modal-body" id="arModalBody">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- QUOTATION / BOQ BUILDER MODAL -->
+  <div class="modal-backdrop" id="quoteModal" onclick="if(event.target===this) app.closeQuoteModal()">
+    <div class="modal-dialog" style="max-width:1220px;">
+      <div class="modal-header">
+        <div style="font-weight:800; font-size:1.1rem;">🧾 Lập Bảng Báo Giá &amp; Dự Toán Công Trình — TUSLO &amp;
+          LUSHINE 2026</div>
+        <button class="modal-close" onclick="app.closeQuoteModal()">✕</button>
+      </div>
+      <div class="modal-body" id="quoteModalBody">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- FLOATING QUOTATION & BACK-TO-TOP UTILITIES -->
+  <div class="floating-utilities">
+    <button class="quote-fab" id="quoteFloatingBtn" onclick="app.openQuoteModal()"
+      title="Mở Bảng Báo Giá & Dự Toán Công Trình">
+      <span>🧾 Báo giá công trình</span>
+      <span id="quoteFabSummary"
+        style="background:rgba(0,0,0,0.28); padding:2px 9px; border-radius:99px; font-size:0.78rem;">0 món</span>
+    </button>
+    <button class="back-top-fab" id="backToTopBtn" onclick="window.scrollTo({top:0, behavior:'smooth'})"
+      title="Lên đầu trang">
+      ↑
+    </button>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div>
+        <h3 style="color:#fff; font-size:1.05rem; margin-bottom:6px;">CÔNG TY CỔ PHẦN HOA SEN HOME</h3>
+        <p style="font-size:0.84rem; max-width:540px;">
+          Khu thương mại dịch vụ tại Tầng 3, Tháp B2, Khu chung cư phức hợp lô M2 (Sarimi) - Số 72 Đường Nguyễn Cơ
+          Thạch, Khu phố 35, Phường An Khánh, TP. Hồ Chí Minh, Việt Nam.
+        </p>
+        <p style="font-size:0.84rem; margin-top:4px;">Điện thoại: 0934 811 307 • Tổng đài tư vấn: <strong
+            style="color:var(--gold-light);">1800 1515</strong> • Website: <a href="https://www.hoasenhome.vn"
+            target="_blank" rel="noopener" style="color:var(--gold-light);">www.hoasenhome.vn</a></p>
+        <p style="font-size:0.8rem; margin-top:4px; color:#cbd5e1;">SẢN PHẨM ĐƯỢC BẢO CHỨNG CHẤT LƯỢNG BỞI TẬP ĐOÀN HOA
+          SEN • Xuất bản: 06/2026</p>
+      </div>
+      <div style="text-align:right;">
+        <div style="color:var(--gold-light); font-weight:800; font-size:0.95rem;">E-CATALOGUE TUSLO &amp; LUSHINE 2026
+        </div>
+        <p style="font-size:0.82rem; margin-top:4px;">Trích xuất 100% dữ liệu từ 51 trang PDF gốc • 203 Sản phẩm • 11
+          Combo</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Load Embedded Dataset + Application Logic -->
+  <script src="data/catalogue_data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+
+</html>

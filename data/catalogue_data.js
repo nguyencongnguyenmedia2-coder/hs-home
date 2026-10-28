@@ -1,0 +1,16345 @@
+window.CATALOGUE_DATA = {
+  "metadata": {
+    "ten_catalogue": "HOA SEN HOME | TUSLO & LUSHINE - CATALOGUE THIẾT BỊ NHÀ TẮM & NHÀ BẾP 2026",
+    "file_nguon": "THIET_BI_NHA_TAM_NHA_BEP_2026_1.pdf",
+    "tong_so_trang_pdf": 51,
+    "tong_so_trang_catalogue": 97,
+    "tong_so_san_pham": 203,
+    "tong_so_combo": 11,
+    "tong_so_danh_muc": 14,
+    "thuong_hieu": [
+      {
+        "ten": "TUSLO",
+        "linh_vuc": "Thiết bị vệ sinh & Phòng tắm cao cấp",
+        "slogan": "Chạm vào sự tiện nghi",
+        "so_san_pham": 174
+      },
+      {
+        "ten": "LUSHINE",
+        "linh_vuc": "Thiết bị nhà bếp (Chậu rửa chén & Vòi bếp)",
+        "slogan": "Tinh hoa gian bếp hiện đại",
+        "so_san_pham": 29
+      }
+    ],
+    "nha_phan_phoi": "HOA SEN HOME - Hệ thống Siêu thị Vật liệu Xây dựng & Nội thất (25 năm kinh nghiệm Tập đoàn Hoa Sen)"
+  },
+  "categories": [
+    {
+      "id": "bon-cau-1-khoi",
+      "ten": "Bồn cầu 1 khối",
+      "thuong_hieu": "TUSLO",
+      "icon": "🚽",
+      "mo_ta": "Bồn cầu nguyên khối sứ Nano Ceramic, công nghệ xả xoáy V1/V2/V3 & đa điểm M1 siêu sạch.",
+      "so_luong": 17,
+      "so_luong_mo_rong": 17,
+      "gia_thap_nhat": 3024000,
+      "gia_cao_nhat": 6696000,
+      "gia_trung_binh": 4612235,
+      "trang_pdf": [
+        12,
+        13,
+        14
+      ],
+      "anh_dai_dien": "assets/products/T005.jpg"
+    },
+    {
+      "id": "bon-cau-thong-minh",
+      "ten": "Bồn cầu thông minh",
+      "thuong_hieu": "TUSLO",
+      "icon": "✨",
+      "mo_ta": "Bồn cầu thông minh Luxury tích hợp đến 27 tính năng: cảm biến Radar, khử trùng UV, sấy ấm, xả Smart Vortex.",
+      "so_luong": 4,
+      "so_luong_mo_rong": 4,
+      "gia_thap_nhat": 21060000,
+      "gia_cao_nhat": 63180000,
+      "gia_trung_binh": 36855000,
+      "trang_pdf": [
+        16
+      ],
+      "anh_dai_dien": "assets/products/E004_Luxury.jpg"
+    },
+    {
+      "id": "tu-chau-lavabo",
+      "ten": "Tủ chậu lavabo",
+      "thuong_hieu": "TUSLO",
+      "icon": "🪞",
+      "mo_ta": "Bộ tủ gương & lavabo Luxury chống ẩm, gương LED cảm ứng vẫy tay / Radar và 2026 Collection.",
+      "so_luong": 11,
+      "so_luong_mo_rong": 11,
+      "gia_thap_nhat": 5616000,
+      "gia_cao_nhat": 33696000,
+      "gia_trung_binh": 14373818,
+      "trang_pdf": [
+        18
+      ],
+      "anh_dai_dien": "assets/products/C007_Luxury.jpg"
+    },
+    {
+      "id": "lavabo",
+      "ten": "Lavabo",
+      "thuong_hieu": "TUSLO",
+      "icon": "💧",
+      "mo_ta": "Chậu rửa lavabo âm bàn, treo tường và đặt bàn sứ tráng men Nano cao cấp.",
+      "so_luong": 18,
+      "so_luong_mo_rong": 18,
+      "gia_thap_nhat": 980000,
+      "gia_cao_nhat": 3132000,
+      "gia_trung_binh": 1752444,
+      "trang_pdf": [
+        20,
+        21
+      ],
+      "anh_dai_dien": "assets/products/L047.jpg"
+    },
+    {
+      "id": "voi-lavabo",
+      "ten": "Vòi lavabo",
+      "thuong_hieu": "TUSLO",
+      "icon": "🚰",
+      "mo_ta": "Vòi chậu lavabo thân đồng thau mạ tinh thể Chrome 4 lớp & mạ PVD cao cấp.",
+      "so_luong": 18,
+      "so_luong_mo_rong": 24,
+      "gia_thap_nhat": 950000,
+      "gia_cao_nhat": 3024000,
+      "gia_trung_binh": 1786722,
+      "trang_pdf": [
+        23
+      ],
+      "anh_dai_dien": "assets/products/F011.jpg"
+    },
+    {
+      "id": "voi-cam-ung",
+      "ten": "Vòi cảm ứng",
+      "thuong_hieu": "TUSLO",
+      "icon": "👋",
+      "mo_ta": "Vòi lavabo cảm ứng hồng ngoại & nhận dạng chuyển động tay thông minh Luxury.",
+      "so_luong": 6,
+      "so_luong_mo_rong": 9,
+      "gia_thap_nhat": 5076000,
+      "gia_cao_nhat": 10368000,
+      "gia_trung_binh": 6822666,
+      "trang_pdf": [
+        24
+      ],
+      "anh_dai_dien": "assets/products/F020_Luxury.jpg"
+    },
+    {
+      "id": "sen-tam",
+      "ten": "Sen tắm",
+      "thuong_hieu": "TUSLO",
+      "icon": "🚿",
+      "mo_ta": "Sen dây, sen cây nóng lạnh, sen phím đàn Luxury và bộ sen vòi bồn tắm thân đồng thau.",
+      "so_luong": 20,
+      "so_luong_mo_rong": 36,
+      "gia_thap_nhat": 864000,
+      "gia_cao_nhat": 14904000,
+      "gia_trung_binh": 4095738,
+      "trang_pdf": [
+        26,
+        27,
+        30
+      ],
+      "anh_dai_dien": "assets/products/S020.jpg"
+    },
+    {
+      "id": "guong",
+      "ten": "Gương",
+      "thuong_hieu": "TUSLO",
+      "icon": "🖼️",
+      "mo_ta": "Gương phòng tắm tráng bạc chống ố mốc và gương khung đèn LED cảm ứng.",
+      "so_luong": 6,
+      "so_luong_mo_rong": 6,
+      "gia_thap_nhat": 313200,
+      "gia_cao_nhat": 1965000,
+      "gia_trung_binh": 1115733,
+      "trang_pdf": [
+        28
+      ],
+      "anh_dai_dien": "assets/products/M001.jpg"
+    },
+    {
+      "id": "bon-tam",
+      "ten": "Bồn tắm",
+      "thuong_hieu": "TUSLO",
+      "icon": "🛁",
+      "mo_ta": "Bồn tắm đặt sàn Acrylic/Corian, bồn tắm massage sục khí Air Bubble và buồng tắm đứng kính cường lực.",
+      "so_luong": 5,
+      "so_luong_mo_rong": 7,
+      "gia_thap_nhat": 8856000,
+      "gia_cao_nhat": 33480000,
+      "gia_trung_binh": 22420800,
+      "trang_pdf": [
+        30
+      ],
+      "anh_dai_dien": "assets/products/B004_Luxury.jpg"
+    },
+    {
+      "id": "bon-tieu-nam",
+      "ten": "Bồn tiểu nam",
+      "thuong_hieu": "TUSLO",
+      "icon": "🚹",
+      "mo_ta": "Bồn tiểu nam treo tường sứ Nano và van xả tiểu cảm ứng / nút nhấn bằng đồng.",
+      "so_luong": 4,
+      "so_luong_mo_rong": 4,
+      "gia_thap_nhat": 896000,
+      "gia_cao_nhat": 3564000,
+      "gia_trung_binh": 2629700,
+      "trang_pdf": [
+        31
+      ],
+      "anh_dai_dien": "assets/products/A052_Luxury.jpg"
+    },
+    {
+      "id": "phu-kien-nha-tam",
+      "ten": "Phụ kiện nhà tắm",
+      "thuong_hieu": "TUSLO",
+      "icon": "🧻",
+      "mo_ta": "Giá treo khăn thông minh khử trùng, thanh vắt khăn, lô giấy, hộp xà phòng cảm ứng, kệ kính, thoát sàn Inox 304.",
+      "so_luong": 35,
+      "so_luong_mo_rong": 65,
+      "gia_thap_nhat": 216000,
+      "gia_cao_nhat": 4104000,
+      "gia_trung_binh": 877274,
+      "trang_pdf": [
+        33,
+        34
+      ],
+      "anh_dai_dien": "assets/products/A041.jpg"
+    },
+    {
+      "id": "phu-kien-khac",
+      "ten": "Phụ kiện khác",
+      "thuong_hieu": "TUSLO",
+      "icon": "🔧",
+      "mo_ta": "Vòi xịt vệ sinh, bát sen, tay sen, thanh trượt, máy sấy tay Pro, nắp rửa cơ, bộ xả & van cấp nước.",
+      "so_luong": 30,
+      "so_luong_mo_rong": 37,
+      "gia_thap_nhat": 49680,
+      "gia_cao_nhat": 5949000,
+      "gia_trung_binh": 628842,
+      "trang_pdf": [
+        33,
+        34
+      ],
+      "anh_dai_dien": "assets/products/A006.jpg"
+    },
+    {
+      "id": "chau-rua-chen",
+      "ten": "Chậu rửa chén",
+      "thuong_hieu": "LUSHINE",
+      "icon": "🍽️",
+      "mo_ta": "Chậu rửa chén LUSHINE Inox 304, mạ PVD vân đá, Đá nhân tạo Granite và Chậu thông minh sóng siêu âm UV.",
+      "so_luong": 15,
+      "so_luong_mo_rong": 15,
+      "gia_thap_nhat": 1922400,
+      "gia_cao_nhat": 38232000,
+      "gia_trung_binh": 8692560,
+      "trang_pdf": [
+        37,
+        38
+      ],
+      "anh_dai_dien": "assets/products/D006.jpg"
+    },
+    {
+      "id": "voi-bep",
+      "ten": "Vòi bếp",
+      "thuong_hieu": "LUSHINE",
+      "icon": "🍳",
+      "mo_ta": "Vòi rửa chén LUSHINE nóng lạnh, dây rút linh hoạt, tích hợp vòi nước tinh khiết và cảm ứng hiển thị nhiệt độ.",
+      "so_luong": 14,
+      "so_luong_mo_rong": 14,
+      "gia_thap_nhat": 1188000,
+      "gia_cao_nhat": 12852000,
+      "gia_trung_binh": 3486857,
+      "trang_pdf": [
+        40
+      ],
+      "anh_dai_dien": "assets/products/K009.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "sp-001-t005",
+      "stt": 1,
+      "ma_san_pham": "T005",
+      "ma_goc": "T005",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Standard",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "3,024,000 VNĐ",
+      "gia_so": 3024000,
+      "kich_thuoc": "715*370*740mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "nhựa POM, xả xoáy V2, Rimless"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 715*370*740mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: nhựa POM, xả xoáy V2, Rimless",
+        "Nắp bệ ngồi: Nhựa PP",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "715*370*740mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "nhựa POM, xả xoáy V2, Rimless",
+        "Nắp bệ ngồi": "Nhựa PP",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "BÁN CHẠY",
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 12,
+      "trang_catalogue": "19",
+      "hinh_anh": "assets/products/T005.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T005_drawing.jpg",
+      "bbox_page": {
+        "x": 2.1,
+        "y": 2.61,
+        "w": 45.36,
+        "h": 20.19
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-02",
+          "ma_combo": "Eco 02",
+          "ten_combo": "Combo Tuslo Eco 02 — “Đủ Đầy Tiện Nghi, Đầu Tư Hợp Lý”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        }
+      ]
+    },
+    {
+      "id": "sp-002-t006",
+      "stt": 2,
+      "ma_san_pham": "T006",
+      "ma_goc": "T006",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Standard",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "3,024,000 VNĐ",
+      "gia_so": 3024000,
+      "kich_thuoc": "670*355*685mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "nhựa POM, xả xoáy V2, Rimless"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 670*355*685mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: nhựa POM, xả xoáy V2, Rimless",
+        "Nắp bệ ngồi: Nhựa PP",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "670*355*685mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "nhựa POM, xả xoáy V2, Rimless",
+        "Nắp bệ ngồi": "Nhựa PP",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "BÁN CHẠY",
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 12,
+      "trang_catalogue": "19",
+      "hinh_anh": "assets/products/T006.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T006_drawing.jpg",
+      "bbox_page": {
+        "x": 2.1,
+        "y": 25.89,
+        "w": 45.36,
+        "h": 20.43
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-01",
+          "ma_combo": "Eco 01",
+          "ten_combo": "Combo Tuslo Eco 01 — “Đủ Để Bắt Đầu, Đẹp Để Ở Lâu”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        }
+      ]
+    },
+    {
+      "id": "sp-003-t002",
+      "stt": 3,
+      "ma_san_pham": "T002",
+      "ma_goc": "T002",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Standard",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "3,456,000 VNĐ",
+      "gia_so": 3456000,
+      "kich_thuoc": "685*380*775mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "nhựa POM, xả xoáy V3, Rimless"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 685*380*775mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: nhựa POM, xả xoáy V3, Rimless",
+        "Nắp bệ ngồi: Nhựa UF",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "685*380*775mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "nhựa POM, xả xoáy V3, Rimless",
+        "Nắp bệ ngồi": "Nhựa UF",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 12,
+      "trang_catalogue": "19",
+      "hinh_anh": "assets/products/T002.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T002_drawing.jpg",
+      "bbox_page": {
+        "x": 2.1,
+        "y": 49.29,
+        "w": 45.36,
+        "h": 20.55
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-004-t003",
+      "stt": 4,
+      "ma_san_pham": "T003",
+      "ma_goc": "T003",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Standard",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "3,456,000 VNĐ",
+      "gia_so": 3456000,
+      "kich_thuoc": "696*427*738mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "nhựa POM, xả xoáy V1, Rimless"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 696*427*738mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: nhựa POM, xả xoáy V1, Rimless",
+        "Nắp bệ ngồi: Nhựa UF",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "696*427*738mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "nhựa POM, xả xoáy V1, Rimless",
+        "Nắp bệ ngồi": "Nhựa UF",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 12,
+      "trang_catalogue": "19",
+      "hinh_anh": "assets/products/T003.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T003_drawing.jpg",
+      "bbox_page": {
+        "x": 2.1,
+        "y": 73.05,
+        "w": 45.36,
+        "h": 20.79
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-005-t009_pro",
+      "stt": 5,
+      "ma_san_pham": "T009 Pro",
+      "ma_goc": "T009",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "4,104,000 VNĐ",
+      "gia_so": 4104000,
+      "kich_thuoc": "750*390*630mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "nhựa POM, Xả xoáy đa điểm M1"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 750*390*630mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: nhựa POM, Xả xoáy đa điểm M1",
+        "Nắp bệ ngồi: Nhựa UF",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "750*390*630mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "nhựa POM, Xả xoáy đa điểm M1",
+        "Nắp bệ ngồi": "Nhựa UF",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 12,
+      "trang_catalogue": "20",
+      "hinh_anh": "assets/products/T009_Pro.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T009_Pro_drawing.jpg",
+      "bbox_page": {
+        "x": 52.08,
+        "y": 2.61,
+        "w": 45.78,
+        "h": 20.19
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-006-t010_pro",
+      "stt": 6,
+      "ma_san_pham": "T010 Pro",
+      "ma_goc": "T010",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "4,104,000 VNĐ",
+      "gia_so": 4104000,
+      "kich_thuoc": "660*420*660mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "nhựa POM, xả xoáy V2"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 660*420*660mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: nhựa POM, xả xoáy V2",
+        "Nắp bệ ngồi: Nhựa UF",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "660*420*660mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "nhựa POM, xả xoáy V2",
+        "Nắp bệ ngồi": "Nhựa UF",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "BÁN CHẠY",
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 12,
+      "trang_catalogue": "20",
+      "hinh_anh": "assets/products/T010_Pro.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T010_Pro_drawing.jpg",
+      "bbox_page": {
+        "x": 52.08,
+        "y": 25.89,
+        "w": 45.78,
+        "h": 20.43
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-02",
+          "ma_combo": "Plus 02",
+          "ten_combo": "Combo Tuslo Plus 02 — “Một Lần Chọn, Trải Nghiệm Dài Lâu”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-007-t019_pro",
+      "stt": 7,
+      "ma_san_pham": "T019 Pro",
+      "ma_goc": "T019",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "4,104,000 VNĐ",
+      "gia_so": 4104000,
+      "kich_thuoc": "710*395*715mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "Nhựa ABS & POM, Xả xoáy V2"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 710*395*715mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: Nhựa ABS & POM, Xả xoáy V2",
+        "Nắp bệ ngồi: Nhựa PP",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "710*395*715mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "Nhựa ABS & POM, Xả xoáy V2",
+        "Nắp bệ ngồi": "Nhựa PP",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "BÁN CHẠY",
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 12,
+      "trang_catalogue": "20",
+      "hinh_anh": "assets/products/T019_Pro.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T019_Pro_drawing.jpg",
+      "bbox_page": {
+        "x": 52.08,
+        "y": 49.29,
+        "w": 45.78,
+        "h": 20.55
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-01",
+          "ma_combo": "Plus 01",
+          "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-008-t013_pro",
+      "stt": 8,
+      "ma_san_pham": "T013 Pro",
+      "ma_goc": "T013",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "4,320,000 VNĐ",
+      "gia_so": 4320000,
+      "kich_thuoc": "670*360*730mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "nhựa ABS, Xả xoáy đa điểm M1"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 670*360*730mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: nhựa ABS, Xả xoáy đa điểm M1",
+        "Nắp bệ ngồi: Nhựa UF",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "670*360*730mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "nhựa ABS, Xả xoáy đa điểm M1",
+        "Nắp bệ ngồi": "Nhựa UF",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 12,
+      "trang_catalogue": "20",
+      "hinh_anh": "assets/products/T013_Pro.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T013_Pro_drawing.jpg",
+      "bbox_page": {
+        "x": 52.08,
+        "y": 73.05,
+        "w": 45.78,
+        "h": 20.79
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-04",
+          "ma_combo": "Plus 04",
+          "ten_combo": "Combo Tuslo Plus 04 — “Không Gian Xứng Đáng Với Ngôi Nhà Của Bạn”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-009-t014_pro",
+      "stt": 9,
+      "ma_san_pham": "T014 Pro",
+      "ma_goc": "T014",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "4,320,000 VNĐ",
+      "gia_so": 4320000,
+      "kich_thuoc": "690*390*690mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "Nhựa ABS, Xả xoáy đa điểm M1"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 690*390*690mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: Nhựa ABS, Xả xoáy đa điểm M1",
+        "Nắp bệ ngồi: Nhựa PP",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "690*390*690mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "Nhựa ABS, Xả xoáy đa điểm M1",
+        "Nắp bệ ngồi": "Nhựa PP",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 13,
+      "trang_catalogue": "21",
+      "hinh_anh": "assets/products/T014_Pro.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T014_Pro_drawing.jpg",
+      "bbox_page": {
+        "x": 2.1,
+        "y": 2.61,
+        "w": 45.36,
+        "h": 20.19
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-03",
+          "ma_combo": "Plus 03",
+          "ten_combo": "Combo Tuslo Plus 03 — “Đẹp Hôm Nay, Hợp Mãi Về Sau”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-010-t007_pro",
+      "stt": 10,
+      "ma_san_pham": "T007 Pro",
+      "ma_goc": "T007",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "4,428,000 VNĐ",
+      "gia_so": 4428000,
+      "kich_thuoc": "660*370*705mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "nhựa POM, xả xoáy V1"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 660*370*705mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: nhựa POM, xả xoáy V1",
+        "Nắp bệ ngồi: Nhựa UF",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "660*370*705mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "nhựa POM, xả xoáy V1",
+        "Nắp bệ ngồi": "Nhựa UF",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 13,
+      "trang_catalogue": "21",
+      "hinh_anh": "assets/products/T007_Pro.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T007_Pro_drawing.jpg",
+      "bbox_page": {
+        "x": 2.1,
+        "y": 25.89,
+        "w": 45.36,
+        "h": 20.43
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-011-t015_pro",
+      "stt": 11,
+      "ma_san_pham": "T015 Pro",
+      "ma_goc": "T015",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "4,428,000 VNĐ",
+      "gia_so": 4428000,
+      "kich_thuoc": "695*385*800mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "Nhựa ABS, Xả xoáy đa điểm M1"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 695*385*800mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: Nhựa ABS, Xả xoáy đa điểm M1",
+        "Nắp bệ ngồi: Nhựa UF",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "695*385*800mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "Nhựa ABS, Xả xoáy đa điểm M1",
+        "Nắp bệ ngồi": "Nhựa UF",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 13,
+      "trang_catalogue": "21",
+      "hinh_anh": "assets/products/T015_Pro.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T015_Pro_drawing.jpg",
+      "bbox_page": {
+        "x": 2.1,
+        "y": 49.29,
+        "w": 45.36,
+        "h": 20.55
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-012-t016_pro",
+      "stt": 12,
+      "ma_san_pham": "T016 Pro",
+      "ma_goc": "T016",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "4,860,000 VNĐ",
+      "gia_so": 4860000,
+      "kich_thuoc": "710*425*730mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "Nhựa ABS, Xả xoáy đa điểm M1"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 710*425*730mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: Nhựa ABS, Xả xoáy đa điểm M1",
+        "Nắp bệ ngồi: Nhựa PP",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "710*425*730mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "Nhựa ABS, Xả xoáy đa điểm M1",
+        "Nắp bệ ngồi": "Nhựa PP",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 13,
+      "trang_catalogue": "21",
+      "hinh_anh": "assets/products/T016_Pro.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T016_Pro_drawing.jpg",
+      "bbox_page": {
+        "x": 2.1,
+        "y": 73.05,
+        "w": 45.36,
+        "h": 20.79
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-013-t023_luxury",
+      "stt": 13,
+      "ma_san_pham": "T023 Luxury",
+      "ma_goc": "T023",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "4,968,000 VNĐ",
+      "gia_so": 4968000,
+      "kich_thuoc": "670*390*690mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "nhựa ABS, Xả xoáy V1, Rimless"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 670*390*690mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: nhựa ABS, Xả xoáy V1, Rimless",
+        "Nắp bệ ngồi: Nhựa PP",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "670*390*690mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "nhựa ABS, Xả xoáy V1, Rimless",
+        "Nắp bệ ngồi": "Nhựa PP",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "BÁN CHẠY",
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 13,
+      "trang_catalogue": "22",
+      "hinh_anh": "assets/products/T023_Luxury.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T023_Luxury_drawing.jpg",
+      "bbox_page": {
+        "x": 52.08,
+        "y": 2.61,
+        "w": 45.78,
+        "h": 20.19
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        }
+      ]
+    },
+    {
+      "id": "sp-014-t022_luxury",
+      "stt": 14,
+      "ma_san_pham": "T022 Luxury",
+      "ma_goc": "T022",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "5,940,000 VNĐ",
+      "gia_so": 5940000,
+      "kich_thuoc": "700*370*700mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "Nhựa ABS, Xả xoáy V2"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 700*370*700mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: Nhựa ABS, Xả xoáy V2",
+        "Nắp bệ ngồi: Nhựa PP",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "700*370*700mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "Nhựa ABS, Xả xoáy V2",
+        "Nắp bệ ngồi": "Nhựa PP",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 13,
+      "trang_catalogue": "22",
+      "hinh_anh": "assets/products/T022_Luxury.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T022_Luxury_drawing.jpg",
+      "bbox_page": {
+        "x": 52.08,
+        "y": 25.89,
+        "w": 45.78,
+        "h": 20.43
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-015-t011_luxury",
+      "stt": 15,
+      "ma_san_pham": "T011 Luxury",
+      "ma_goc": "T011",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "6,588,000 VNĐ",
+      "gia_so": 6588000,
+      "kich_thuoc": "665*375*735mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "Nhựa ABS, Xả xoáy V2"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 665*375*735mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: Nhựa ABS, Xả xoáy V2",
+        "Nắp bệ ngồi: Nhựa PP",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "665*375*735mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "Nhựa ABS, Xả xoáy V2",
+        "Nắp bệ ngồi": "Nhựa PP",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 13,
+      "trang_catalogue": "22",
+      "hinh_anh": "assets/products/T011_Luxury.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T011_Luxury_drawing.jpg",
+      "bbox_page": {
+        "x": 52.08,
+        "y": 49.29,
+        "w": 45.78,
+        "h": 20.55
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-016-t012_luxury",
+      "stt": 16,
+      "ma_san_pham": "T012 Luxury",
+      "ma_goc": "T012",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "6,588,000 VNĐ",
+      "gia_so": 6588000,
+      "kich_thuoc": "655*370*670mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "Nhựa ABS, Xả xoáy V2"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 655*370*670mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: Nhựa ABS, Xả xoáy V2",
+        "Nắp bệ ngồi: Nhựa PP",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "655*370*670mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "Nhựa ABS, Xả xoáy V2",
+        "Nắp bệ ngồi": "Nhựa PP",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 13,
+      "trang_catalogue": "22",
+      "hinh_anh": "assets/products/T012_Luxury.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T012_Luxury_drawing.jpg",
+      "bbox_page": {
+        "x": 52.08,
+        "y": 73.05,
+        "w": 45.78,
+        "h": 20.79
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-017-t021_luxury",
+      "stt": 17,
+      "ma_san_pham": "T021 Luxury",
+      "ma_goc": "T021",
+      "ten_san_pham": "Bồn cầu nguyên khối",
+      "danh_muc": "Bồn cầu 1 khối",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu 1 khối Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "6,696,000 VNĐ",
+      "gia_so": 6696000,
+      "kich_thuoc": "700*395*705mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [
+        "Nhựa ABS, Xả xoáy đa điểm M1"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 700*395*705mm",
+        "Thân: Sứ tráng men nano",
+        "Bộ xả: Nhựa ABS, Xả xoáy đa điểm M1",
+        "Nắp bệ ngồi: Nhựa PP",
+        "S-trap: 300mm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "700*395*705mm",
+        "Thân": "Sứ tráng men nano",
+        "Bộ xả": "Nhựa ABS, Xả xoáy đa điểm M1",
+        "Nắp bệ ngồi": "Nhựa PP",
+        "S-trap": "300mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 14,
+      "trang_catalogue": "23",
+      "hinh_anh": "assets/products/T021_Luxury.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/T021_Luxury_drawing.jpg",
+      "bbox_page": {
+        "x": 2.94,
+        "y": 2.61,
+        "w": 44.1,
+        "h": 19.96
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-018-e004_luxury",
+      "stt": 18,
+      "ma_san_pham": "E004 Luxury",
+      "ma_goc": "E004",
+      "ten_san_pham": "Bồn cầu thông minh",
+      "danh_muc": "Bồn cầu thông minh",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu thông minh Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "42,120,000 VNĐ",
+      "gia_so": 42120000,
+      "kich_thuoc": "708*418*470mm",
+      "chat_lieu": "Sứ tráng men Nano Ceramic",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 708*418*470mm",
+        "S-Trap: 305mm",
+        "Lượng nước sử dụng: 5L (hiệu suất cấp 2)",
+        "Điện áp: 220V (50Hz)",
+        "Chế độ xả: Super Vortex",
+        "Yêu cầu áp lực nước: 0.2 - 0.75 MPa (áp lực tĩnh)",
+        "Tích hợp 19/27 chức năng thông minh cao cấp (Tự động mở nắp, Rửa trước/sau, Làm nóng nước tức thời, Sấy khô khí ấm, Khử mùi tự động, Bộ lọc nước đầu vào, Cảm biến chân)"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "708*418*470mm",
+        "S-Trap": "305mm",
+        "Lượng nước sử dụng": "5L (hiệu suất cấp 2)",
+        "Điện áp": "220V (50Hz)",
+        "Chế độ xả": "Super Vortex",
+        "Yêu cầu áp lực nước": "0.2 - 0.75 MPa (áp lực tĩnh)"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết",
+        "Luxury Flagship"
+      ],
+      "trang_pdf": 16,
+      "trang_catalogue": "27",
+      "hinh_anh": "assets/products/E004_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 8.74,
+        "y": 49.89,
+        "w": 38.13,
+        "h": 50.11
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-019-e001_luxury",
+      "stt": 19,
+      "ma_san_pham": "E001 Luxury",
+      "ma_goc": "E001",
+      "ten_san_pham": "Bồn cầu thông minh",
+      "danh_muc": "Bồn cầu thông minh",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu thông minh Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "21,060,000 VNĐ",
+      "gia_so": 21060000,
+      "kich_thuoc": "707*470*414mm",
+      "chat_lieu": "Sứ tráng men Nano Ceramic",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 707*470*414mm",
+        "S-Trap: 300mm",
+        "Lượng nước sử dụng: 4.8L",
+        "Điện áp: 220V (50Hz)",
+        "Chế độ xả: Super Vortex",
+        "Yêu cầu áp lực nước: 0.09 MPa (áp lực động, lưu lượng ≥ 18 L/phút)",
+        "Tích hợp 7/27 chức năng thông minh thiết yếu (Sưởi ấm & điều chỉnh nhiệt độ bệ ngồi, Tự động xả khi rời bệ ngồi, Xả khi mất điện, Đèn LED ban đêm, Điều khiển từ xa, Xả cảm biến chân)"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "707*470*414mm",
+        "S-Trap": "300mm",
+        "Lượng nước sử dụng": "4.8L",
+        "Điện áp": "220V (50Hz)",
+        "Chế độ xả": "Super Vortex",
+        "Yêu cầu áp lực nước": "0.09 MPa (áp lực động, lưu lượng ≥ 18 L/phút)"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 16,
+      "trang_catalogue": "28",
+      "hinh_anh": "assets/products/E001_Luxury.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/E001_Luxury_drawing.jpg",
+      "bbox_page": {
+        "x": 53.34,
+        "y": 5.35,
+        "w": 44.52,
+        "h": 21.38
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-020-e002_luxury",
+      "stt": 20,
+      "ma_san_pham": "E002 Luxury",
+      "ma_goc": "E002",
+      "ten_san_pham": "Bồn cầu thông minh",
+      "danh_muc": "Bồn cầu thông minh",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu thông minh Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "21,060,000 VNĐ",
+      "gia_so": 21060000,
+      "kich_thuoc": "712*394*456mm",
+      "chat_lieu": "Sứ tráng men Nano Ceramic",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 712*394*456mm",
+        "S-Trap: 300mm",
+        "Lượng nước sử dụng: 4.8L",
+        "Điện áp: 220V (50Hz)",
+        "Chế độ xả: Super Vortex",
+        "Yêu cầu áp lực nước: Không giới hạn áp lực nước",
+        "Tích hợp 8/27 chức năng thông minh (Tự động làm ướt lòng bồn cầu, Xả nước áp suất thấp, Sưởi ấm & điều chỉnh nhiệt độ bệ ngồi, Tự động xả, Xả khi mất điện, Đèn LED đêm, Xả cảm biến chân)"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "712*394*456mm",
+        "S-Trap": "300mm",
+        "Lượng nước sử dụng": "4.8L",
+        "Điện áp": "220V (50Hz)",
+        "Chế độ xả": "Super Vortex",
+        "Yêu cầu áp lực nước": "Không giới hạn áp lực nước"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 16,
+      "trang_catalogue": "28",
+      "hinh_anh": "assets/products/E002_Luxury.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/E002_Luxury_drawing.jpg",
+      "bbox_page": {
+        "x": 53.34,
+        "y": 35.63,
+        "w": 44.52,
+        "h": 21.38
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-021-e003_luxury",
+      "stt": 21,
+      "ma_san_pham": "E003 Luxury",
+      "ma_goc": "E003",
+      "ten_san_pham": "Bồn cầu thông minh",
+      "danh_muc": "Bồn cầu thông minh",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn cầu thông minh Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "63,180,000 VNĐ",
+      "gia_so": 63180000,
+      "kich_thuoc": "715*430*500mm",
+      "chat_lieu": "Sứ tráng men Nano Ceramic",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Tích hợp 25/27 chức năng thông minh đỉnh cao (Rửa dao động, Nước khử trùng, Ghi nhớ người dùng, Xả tự động Radar, Xả áp suất thấp, Làm nóng nước tức thời, Sấy khô khí ấm)"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 715*430*500mm",
+        "S-Trap: 300mm",
+        "Lượng nước sử dụng: 3.8L (hiệu suất cấp 1)",
+        "Điện áp: 220V (50Hz)",
+        "Chế độ xả: Super Vortex",
+        "Yêu cầu áp lực nước: Không giới hạn áp lực nước (tích hợp bình chứa)",
+        "Tích hợp 25/27 chức năng thông minh đỉnh cao (Rửa dao động, Nước khử trùng, Ghi nhớ người dùng, Xả tự động Radar, Xả áp suất thấp, Làm nóng nước tức thời, Sấy khô khí ấm)"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "715*430*500mm",
+        "S-Trap": "300mm",
+        "Lượng nước sử dụng": "3.8L (hiệu suất cấp 1)",
+        "Điện áp": "220V (50Hz)",
+        "Chế độ xả": "Super Vortex",
+        "Yêu cầu áp lực nước": "Không giới hạn áp lực nước (tích hợp bình chứa)"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết",
+        "Luxury Flagship"
+      ],
+      "trang_pdf": 16,
+      "trang_catalogue": "28",
+      "hinh_anh": "assets/products/E003_Luxury.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/E003_Luxury_drawing.jpg",
+      "bbox_page": {
+        "x": 53.34,
+        "y": 67.7,
+        "w": 44.52,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-022-c007_luxury",
+      "stt": 22,
+      "ma_san_pham": "C007 Luxury",
+      "ma_goc": "C007",
+      "ten_san_pham": "Bộ tủ gương & lavabo",
+      "danh_muc": "Tủ chậu lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Bộ tủ gương & lavabo",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "5,616,000 VNĐ",
+      "gia_so": 5616000,
+      "kich_thuoc": "Tủ lavabo: 580*476*430mm",
+      "chat_lieu": "Gỗ Plywood, Lavabo sứ tráng men",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Gương LED cảm ứng vẫy tay"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Tủ lavabo: 580*476*430mm",
+        "Tủ gương: 500*162*724mm",
+        "Lavabo: 605*485*210mm",
+        "Chất liệu: Gỗ Plywood, Lavabo sứ tráng men",
+        "Gương LED cảm ứng vẫy tay"
+      ],
+      "thong_so_chi_tiet": {
+        "Tủ lavabo": "580*476*430mm",
+        "Tủ gương": "500*162*724mm",
+        "Lavabo": "605*485*210mm",
+        "Chất liệu": "Gỗ Plywood, Lavabo sứ tráng men"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "BÁN CHẠY",
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 18,
+      "trang_catalogue": "31",
+      "hinh_anh": "assets/products/C007_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 4.37,
+        "y": 2.61,
+        "w": 12.85,
+        "h": 40.27
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        }
+      ]
+    },
+    {
+      "id": "sp-023-c009_luxury",
+      "stt": 23,
+      "ma_san_pham": "C009 Luxury",
+      "ma_goc": "C009",
+      "ten_san_pham": "Bộ tủ gương & lavabo",
+      "danh_muc": "Tủ chậu lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Bộ tủ gương & lavabo",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "6,156,000 VNĐ",
+      "gia_so": 6156000,
+      "kich_thuoc": "Tủ lavabo: 580*476*450mm",
+      "chat_lieu": "Gỗ Plywood, Lavabo sứ tráng men",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Gương LED cảm ứng vẫy tay"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Tủ lavabo: 580*476*450mm",
+        "Tủ gương: 500*162*775mm",
+        "Lavabo: 605*485*210mm",
+        "Chất liệu: Gỗ Plywood, Lavabo sứ tráng men",
+        "Gương LED cảm ứng vẫy tay"
+      ],
+      "thong_so_chi_tiet": {
+        "Tủ lavabo": "580*476*450mm",
+        "Tủ gương": "500*162*775mm",
+        "Lavabo": "605*485*210mm",
+        "Chất liệu": "Gỗ Plywood, Lavabo sứ tráng men"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "BÁN CHẠY",
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 18,
+      "trang_catalogue": "31",
+      "hinh_anh": "assets/products/C009_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 18.65,
+        "y": 2.61,
+        "w": 13.1,
+        "h": 40.27
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-024-c010_luxury",
+      "stt": 24,
+      "ma_san_pham": "C010 Luxury",
+      "ma_goc": "C010",
+      "ten_san_pham": "Bộ tủ gương & lavabo",
+      "danh_muc": "Tủ chậu lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Bộ tủ gương & lavabo",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "7,344,000 VNĐ",
+      "gia_so": 7344000,
+      "kich_thuoc": "Tủ lavabo: 550*478*435mm",
+      "chat_lieu": "Gỗ Plywood, Lavabo sứ tráng men",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Gương LED cảm ứng vẫy tay"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Tủ lavabo: 550*478*435mm",
+        "Tủ gương: 500*160*650mm",
+        "Lavabo: 595*495*210mm",
+        "Chất liệu: Gỗ Plywood, Lavabo sứ tráng men",
+        "Gương LED cảm ứng vẫy tay"
+      ],
+      "thong_so_chi_tiet": {
+        "Tủ lavabo": "550*478*435mm",
+        "Tủ gương": "500*160*650mm",
+        "Lavabo": "595*495*210mm",
+        "Chất liệu": "Gỗ Plywood, Lavabo sứ tráng men"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "BÁN CHẠY",
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 18,
+      "trang_catalogue": "31",
+      "hinh_anh": "assets/products/C010_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 33.09,
+        "y": 2.61,
+        "w": 13.27,
+        "h": 40.27
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-025-c001_luxury",
+      "stt": 25,
+      "ma_san_pham": "C001 Luxury",
+      "ma_goc": "C001",
+      "ten_san_pham": "Bộ tủ gương & lavabo",
+      "danh_muc": "Tủ chậu lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Bộ tủ gương & lavabo",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "7,776,000 VNĐ",
+      "gia_so": 7776000,
+      "kich_thuoc": "Tủ lavabo: 780*478*480mm",
+      "chat_lieu": "Gỗ Plywood, phủ laminate, lavabo sứ tráng men",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Gương LED cảm ứng radar, hộc khăn giấy"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Tủ lavabo: 780*478*480mm",
+        "Tủ gương: 750*160*700mm",
+        "Lavabo: 815*495mm",
+        "Chất liệu: Gỗ Plywood, phủ laminate, lavabo sứ tráng men",
+        "Gương LED cảm ứng radar, hộc khăn giấy"
+      ],
+      "thong_so_chi_tiet": {
+        "Tủ lavabo": "780*478*480mm",
+        "Tủ gương": "750*160*700mm",
+        "Lavabo": "815*495mm",
+        "Chất liệu": "Gỗ Plywood, phủ laminate, lavabo sứ tráng men"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 18,
+      "trang_catalogue": "31",
+      "hinh_anh": "assets/products/C001_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 4.62,
+        "y": 52.5,
+        "w": 12.01,
+        "h": 38.37
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-026-c003_luxury",
+      "stt": 26,
+      "ma_san_pham": "C003 Luxury",
+      "ma_goc": "C003",
+      "ten_san_pham": "Bộ tủ gương & lavabo",
+      "danh_muc": "Tủ chậu lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Bộ tủ gương & lavabo",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "13,392,000 VNĐ",
+      "gia_so": 13392000,
+      "kich_thuoc": "Tủ lavabo: 780*480*480mm",
+      "chat_lieu": "Gỗ Plywood, phủ laminate, lavabo sứ tráng men",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Gương LED cảm ứng radar"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Tủ lavabo: 780*480*480mm",
+        "Tủ gương: 750*160*700mm",
+        "Lavabo: 815*495mm",
+        "Chất liệu: Gỗ Plywood, phủ laminate, lavabo sứ tráng men",
+        "Gương LED cảm ứng radar"
+      ],
+      "thong_so_chi_tiet": {
+        "Tủ lavabo": "780*480*480mm",
+        "Tủ gương": "750*160*700mm",
+        "Lavabo": "815*495mm",
+        "Chất liệu": "Gỗ Plywood, phủ laminate, lavabo sứ tráng men"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 18,
+      "trang_catalogue": "31",
+      "hinh_anh": "assets/products/C003_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 19.15,
+        "y": 52.5,
+        "w": 12.1,
+        "h": 38.37
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-027-c004_luxury",
+      "stt": 27,
+      "ma_san_pham": "C004 Luxury",
+      "ma_goc": "C004",
+      "ten_san_pham": "Bộ tủ gương & lavabo",
+      "danh_muc": "Tủ chậu lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Bộ tủ gương & lavabo",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "14,040,000 VNĐ",
+      "gia_so": 14040000,
+      "kich_thuoc": "Tủ lavabo: 970*470*480mm",
+      "chat_lieu": "Gỗ Plywood, phủ laminate, lavabo sứ tráng men",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Gương LED cảm ứng vẫy tay"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Tủ lavabo: 970*470*480mm",
+        "Tủ gương: 900*150*650mm",
+        "Lavabo: 1000*480mm",
+        "Chất liệu: Gỗ Plywood, phủ laminate, lavabo sứ tráng men",
+        "Gương LED cảm ứng vẫy tay"
+      ],
+      "thong_so_chi_tiet": {
+        "Tủ lavabo": "970*470*480mm",
+        "Tủ gương": "900*150*650mm",
+        "Lavabo": "1000*480mm",
+        "Chất liệu": "Gỗ Plywood, phủ laminate, lavabo sứ tráng men"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 18,
+      "trang_catalogue": "31",
+      "hinh_anh": "assets/products/C004_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 32.59,
+        "y": 52.5,
+        "w": 14.03,
+        "h": 38.37
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-028-c005_luxury",
+      "stt": 28,
+      "ma_san_pham": "C005 Luxury",
+      "ma_goc": "C005",
+      "ten_san_pham": "Bộ tủ gương & lavabo",
+      "danh_muc": "Tủ chậu lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Bộ tủ gương & lavabo",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "14,040,000 VNĐ",
+      "gia_so": 14040000,
+      "kich_thuoc": "Tủ lavabo: 752*476*550mm",
+      "chat_lieu": "Gỗ Plywood, phủ laminate, lavabo sứ tráng men",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Tủ lavabo: 752*476*550mm",
+        "Tủ gương: 735*149*650mm",
+        "Lavabo: 795*494mm",
+        "Chất liệu: Gỗ Plywood, phủ laminate, lavabo sứ tráng men"
+      ],
+      "thong_so_chi_tiet": {
+        "Tủ lavabo": "752*476*550mm",
+        "Tủ gương": "735*149*650mm",
+        "Lavabo": "795*494mm",
+        "Chất liệu": "Gỗ Plywood, phủ laminate, lavabo sứ tráng men"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 18,
+      "trang_catalogue": "32",
+      "hinh_anh": "assets/products/C005_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 54.43,
+        "y": 2.97,
+        "w": 12.35,
+        "h": 39.91
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-029-c006_luxury",
+      "stt": 29,
+      "ma_san_pham": "C006 Luxury",
+      "ma_goc": "C006",
+      "ten_san_pham": "Bộ tủ gương & lavabo",
+      "danh_muc": "Tủ chậu lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Bộ tủ gương & lavabo",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "16,848,000 VNĐ",
+      "gia_so": 16848000,
+      "kich_thuoc": "Tủ lavabo: 782*480*430mm",
+      "chat_lieu": "Gỗ Plywood + Solid wood, phủ laminate",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Gương LED cảm ứng vẫy tay"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Tủ lavabo: 782*480*430mm",
+        "Tủ gương: 750*160*700mm",
+        "Lavabo sứ tráng men: 795*494mm",
+        "Chất liệu: Gỗ Plywood + Solid wood, phủ laminate",
+        "Lavabo sứ tráng men",
+        "Gương LED cảm ứng vẫy tay"
+      ],
+      "thong_so_chi_tiet": {
+        "Tủ lavabo": "782*480*430mm",
+        "Tủ gương": "750*160*700mm",
+        "Lavabo sứ tráng men": "795*494mm",
+        "Chất liệu": "Gỗ Plywood + Solid wood, phủ laminate"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 18,
+      "trang_catalogue": "32",
+      "hinh_anh": "assets/products/C006_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 68.88,
+        "y": 2.97,
+        "w": 12.43,
+        "h": 39.91
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-030-c011_luxury",
+      "stt": 30,
+      "ma_san_pham": "C011 Luxury",
+      "ma_goc": "C011",
+      "ten_san_pham": "Bộ tủ gương & lavabo",
+      "danh_muc": "Tủ chậu lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Bộ tủ gương & lavabo 2026",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "2026 Collection",
+      "gia_niem_yet": "18,144,000 VNĐ",
+      "gia_so": 18144000,
+      "kich_thuoc": "Tủ lavabo: 800*500*532mm",
+      "chat_lieu": "Gỗ tự nhiên đa lớp chống ẩm",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Tủ lavabo: 800*500*532mm",
+        "Tủ gương: 750*700*150mm",
+        "Chất liệu: Gỗ tự nhiên đa lớp chống ẩm",
+        "Lavabo đá nhân tạo Arma Stone (Corian) liền khối",
+        "Cánh tủ giảm chấn chống va đập",
+        "Gương thông minh tích hợp kệ lưu trữ"
+      ],
+      "thong_so_chi_tiet": {
+        "Tủ lavabo": "800*500*532mm",
+        "Tủ gương": "750*700*150mm",
+        "Chất liệu": "Gỗ tự nhiên đa lớp chống ẩm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "2026 COLLECTION",
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 18,
+      "trang_catalogue": "32",
+      "hinh_anh": "assets/products/C011_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 82.48,
+        "y": 2.97,
+        "w": 13.94,
+        "h": 39.91
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-031-c012_luxury",
+      "stt": 31,
+      "ma_san_pham": "C012 Luxury",
+      "ma_goc": "C012",
+      "ten_san_pham": "Bộ tủ gương & lavabo",
+      "danh_muc": "Tủ chậu lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Bộ tủ gương & lavabo 2026",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "2026 Collection",
+      "gia_niem_yet": "21,060,000 VNĐ",
+      "gia_so": 21060000,
+      "kich_thuoc": "Tủ lavabo: 1000*500*492mm",
+      "chat_lieu": "Thân gỗ tự nhiên đa lớp chống ẩm",
+      "be_mat": "Sơn hoàn thiện màu Millennium Pink S166",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Tủ lavabo: 1000*500*492mm",
+        "Tủ gương: 950*150*700mm",
+        "Thân gỗ tự nhiên đa lớp chống ẩm",
+        "Lavabo đá nhân tạo Arma Stone (Corian) liền khối",
+        "Thân tủ gỗ tự nhiên đa lớp chống ẩm cao cấp",
+        "Sơn hoàn thiện màu Millennium Pink S166",
+        "Gương kính nổi cao cấp độ nét cao"
+      ],
+      "thong_so_chi_tiet": {
+        "Tủ lavabo": "1000*500*492mm",
+        "Tủ gương": "950*150*700mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "2026 COLLECTION",
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 18,
+      "trang_catalogue": "32",
+      "hinh_anh": "assets/products/C012_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 53.76,
+        "y": 52.03,
+        "w": 14.7,
+        "h": 38.84
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-032-c013_luxury",
+      "stt": 32,
+      "ma_san_pham": "C013 Luxury",
+      "ma_goc": "C013",
+      "ten_san_pham": "Bộ tủ gương & lavabo",
+      "danh_muc": "Tủ chậu lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Bộ tủ gương & lavabo 2026",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "2026 Collection",
+      "gia_niem_yet": "33,696,000 VNĐ",
+      "gia_so": 33696000,
+      "kich_thuoc": "Tủ lavabo: 1200*550*362mm",
+      "chat_lieu": "Thân gỗ tự nhiên đa lớp chống ẩm",
+      "be_mat": "Sơn hoàn thiện màu Apricot (màu hạnh đào)",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Tủ lavabo: 1200*550*362mm",
+        "Gương LED tròn: Ø700*30mm",
+        "Thân gỗ tự nhiên đa lớp chống ẩm",
+        "Lavabo mặt bàn kính cường lực màu Apricot đồng bộ",
+        "Sơn hoàn thiện màu Apricot (màu hạnh đào)",
+        "Gương thông minh thân thiện môi trường"
+      ],
+      "thong_so_chi_tiet": {
+        "Tủ lavabo": "1200*550*362mm",
+        "Gương LED tròn": "Ø700*30mm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "2026 COLLECTION",
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 18,
+      "trang_catalogue": "32",
+      "hinh_anh": "assets/products/C013_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 72.91,
+        "y": 52.03,
+        "w": 18.23,
+        "h": 38.84
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-033-l047",
+      "stt": 33,
+      "ma_san_pham": "L047",
+      "ma_goc": "L047",
+      "ten_san_pham": "Lavabo âm bàn",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo âm bàn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "980,000 VNĐ",
+      "gia_so": 980000,
+      "kich_thuoc": "555*395*220mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 555*395*220mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "555*395*220mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 20,
+      "trang_catalogue": "35",
+      "hinh_anh": "assets/products/L047.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L047_drawing.jpg",
+      "bbox_page": {
+        "x": 2.1,
+        "y": 2.97,
+        "w": 46.45,
+        "h": 17.22
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-034-l048",
+      "stt": 34,
+      "ma_san_pham": "L048",
+      "ma_goc": "L048",
+      "ten_san_pham": "Lavabo treo tường",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo treo tường",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,242,000 VNĐ",
+      "gia_so": 1242000,
+      "kich_thuoc": "470*430*360mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 470*430*360mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "470*430*360mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 20,
+      "trang_catalogue": "35",
+      "hinh_anh": "assets/products/L048.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L048_drawing.jpg",
+      "bbox_page": {
+        "x": 2.1,
+        "y": 22.33,
+        "w": 46.45,
+        "h": 16.87
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-035-l049",
+      "stt": 35,
+      "ma_san_pham": "L049",
+      "ma_goc": "L049",
+      "ten_san_pham": "Lavabo treo tường",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo treo tường",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,350,000 VNĐ",
+      "gia_so": 1350000,
+      "kich_thuoc": "480*385*352mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 480*385*352mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "480*385*352mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 20,
+      "trang_catalogue": "35",
+      "hinh_anh": "assets/products/L049.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L049_drawing.jpg",
+      "bbox_page": {
+        "x": 2.1,
+        "y": 40.98,
+        "w": 46.45,
+        "h": 16.99
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-01",
+          "ma_combo": "Eco 01",
+          "ten_combo": "Combo Tuslo Eco 01 — “Đủ Để Bắt Đầu, Đẹp Để Ở Lâu”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        }
+      ]
+    },
+    {
+      "id": "sp-036-l050",
+      "stt": 36,
+      "ma_san_pham": "L050",
+      "ma_goc": "L050",
+      "ten_san_pham": "Lavabo treo tường",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo treo tường",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,350,000 VNĐ",
+      "gia_so": 1350000,
+      "kich_thuoc": "480*425*375mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 480*425*375mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "480*425*375mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 20,
+      "trang_catalogue": "35",
+      "hinh_anh": "assets/products/L050.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L050_drawing.jpg",
+      "bbox_page": {
+        "x": 2.1,
+        "y": 59.98,
+        "w": 46.45,
+        "h": 16.63
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-037-l006",
+      "stt": 37,
+      "ma_san_pham": "L006",
+      "ma_goc": "L006",
+      "ten_san_pham": "Lavabo đặt bàn",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo đặt bàn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,350,000 VNĐ",
+      "gia_so": 1350000,
+      "kich_thuoc": "420*420*130mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 420*420*130mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "420*420*130mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 20,
+      "trang_catalogue": "35",
+      "hinh_anh": "assets/products/L006.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L006_drawing.jpg",
+      "bbox_page": {
+        "x": 2.1,
+        "y": 75.43,
+        "w": 45.36,
+        "h": 19.84
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-02",
+          "ma_combo": "Plus 02",
+          "ten_combo": "Combo Tuslo Plus 02 — “Một Lần Chọn, Trải Nghiệm Dài Lâu”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-038-l005",
+      "stt": 38,
+      "ma_san_pham": "L005",
+      "ma_goc": "L005",
+      "ten_san_pham": "Lavabo đặt bàn",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo đặt bàn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,404,000 VNĐ",
+      "gia_so": 1404000,
+      "kich_thuoc": "500*385*140mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 500*385*140mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "500*385*140mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 20,
+      "trang_catalogue": "36",
+      "hinh_anh": "assets/products/L005.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L005_drawing.jpg",
+      "bbox_page": {
+        "x": 52.5,
+        "y": 2.97,
+        "w": 46.2,
+        "h": 17.82
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-04",
+          "ma_combo": "Plus 04",
+          "ten_combo": "Combo Tuslo Plus 04 — “Không Gian Xứng Đáng Với Ngôi Nhà Của Bạn”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-039-l008",
+      "stt": 39,
+      "ma_san_pham": "L008",
+      "ma_goc": "L008",
+      "ten_san_pham": "Lavabo đặt bàn",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo đặt bàn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,404,000 VNĐ",
+      "gia_so": 1404000,
+      "kich_thuoc": "500*390*145mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 500*390*145mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "500*390*145mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 20,
+      "trang_catalogue": "36",
+      "hinh_anh": "assets/products/L008.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L008_drawing.jpg",
+      "bbox_page": {
+        "x": 52.5,
+        "y": 21.62,
+        "w": 46.2,
+        "h": 17.82
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-040-l003",
+      "stt": 40,
+      "ma_san_pham": "L003",
+      "ma_goc": "L003",
+      "ten_san_pham": "Lavabo treo tường",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo treo tường",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,512,000 VNĐ",
+      "gia_so": 1512000,
+      "kich_thuoc": "465*460*350mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 465*460*350mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "465*460*350mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 20,
+      "trang_catalogue": "36",
+      "hinh_anh": "assets/products/L003.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L003_drawing.jpg",
+      "bbox_page": {
+        "x": 52.5,
+        "y": 39.79,
+        "w": 45.36,
+        "h": 18.65
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-02",
+          "ma_combo": "Eco 02",
+          "ten_combo": "Combo Tuslo Eco 02 — “Đủ Đầy Tiện Nghi, Đầu Tư Hợp Lý”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        }
+      ]
+    },
+    {
+      "id": "sp-041-l007",
+      "stt": 41,
+      "ma_san_pham": "L007",
+      "ma_goc": "L007",
+      "ten_san_pham": "Lavabo đặt bàn",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo đặt bàn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,620,000 VNĐ",
+      "gia_so": 1620000,
+      "kich_thuoc": "600*390*130mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 600*390*130mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "600*390*130mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 20,
+      "trang_catalogue": "36",
+      "hinh_anh": "assets/products/L007.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L007_drawing.jpg",
+      "bbox_page": {
+        "x": 52.24,
+        "y": 58.8,
+        "w": 45.61,
+        "h": 18.17
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-042-l009",
+      "stt": 42,
+      "ma_san_pham": "L009",
+      "ma_goc": "L009",
+      "ten_san_pham": "Lavabo đặt bàn",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo đặt bàn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,620,000 VNĐ",
+      "gia_so": 1620000,
+      "kich_thuoc": "600*380*145mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 600*380*145mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "600*380*145mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 20,
+      "trang_catalogue": "36",
+      "hinh_anh": "assets/products/L009.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L009_drawing.jpg",
+      "bbox_page": {
+        "x": 52.5,
+        "y": 77.21,
+        "w": 46.2,
+        "h": 18.05
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-043-l010",
+      "stt": 43,
+      "ma_san_pham": "L010",
+      "ma_goc": "L010",
+      "ten_san_pham": "Lavabo đặt bàn/treo tường",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo đặt bàn / treo tường",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,620,000 VNĐ",
+      "gia_so": 1620000,
+      "kich_thuoc": "460*420*155mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 460*420*155mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "460*420*155mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 21,
+      "trang_catalogue": "37",
+      "hinh_anh": "assets/products/L010.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L010_drawing.jpg",
+      "bbox_page": {
+        "x": 2.94,
+        "y": 2.61,
+        "w": 44.52,
+        "h": 17.82
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-044-l011",
+      "stt": 44,
+      "ma_san_pham": "L011",
+      "ma_goc": "L011",
+      "ten_san_pham": "Lavabo đặt bàn/treo tường",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo đặt bàn / treo tường",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,620,000 VNĐ",
+      "gia_so": 1620000,
+      "kich_thuoc": "510*400*140mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 510*400*140mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "510*400*140mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 21,
+      "trang_catalogue": "37",
+      "hinh_anh": "assets/products/L011.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L011_drawing.jpg",
+      "bbox_page": {
+        "x": 2.94,
+        "y": 20.79,
+        "w": 45.36,
+        "h": 18.65
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-03",
+          "ma_combo": "Plus 03",
+          "ten_combo": "Combo Tuslo Plus 03 — “Đẹp Hôm Nay, Hợp Mãi Về Sau”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-045-l012",
+      "stt": 45,
+      "ma_san_pham": "L012",
+      "ma_goc": "L012",
+      "ten_san_pham": "Lavabo đặt bàn",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo đặt bàn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,620,000 VNĐ",
+      "gia_so": 1620000,
+      "kich_thuoc": "550*420*140mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 550*420*140mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "550*420*140mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 21,
+      "trang_catalogue": "37",
+      "hinh_anh": "assets/products/L012.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L012_drawing.jpg",
+      "bbox_page": {
+        "x": 2.94,
+        "y": 39.79,
+        "w": 44.94,
+        "h": 18.65
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-046-l013_pro",
+      "stt": 46,
+      "ma_san_pham": "L013 Pro",
+      "ma_goc": "L013",
+      "ten_san_pham": "Lavabo đặt bàn",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo đặt bàn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "2,268,000 VNĐ",
+      "gia_so": 2268000,
+      "kich_thuoc": "500*385*140mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 500*385*140mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "500*385*140mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 21,
+      "trang_catalogue": "37",
+      "hinh_anh": "assets/products/L013_Pro.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L013_Pro_drawing.jpg",
+      "bbox_page": {
+        "x": 2.94,
+        "y": 58.44,
+        "w": 44.1,
+        "h": 18.53
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-047-l015_pro",
+      "stt": 47,
+      "ma_san_pham": "L015 Pro",
+      "ma_goc": "L015",
+      "ten_san_pham": "Lavabo đặt bàn/treo tường",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo đặt bàn / treo tường",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "2,268,000 VNĐ",
+      "gia_so": 2268000,
+      "kich_thuoc": "500*350*130mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 500*350*130mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "500*350*130mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 21,
+      "trang_catalogue": "37",
+      "hinh_anh": "assets/products/L015_Pro.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L015_Pro_drawing.jpg",
+      "bbox_page": {
+        "x": 2.69,
+        "y": 76.61,
+        "w": 44.35,
+        "h": 18.17
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-048-l014_pro",
+      "stt": 48,
+      "ma_san_pham": "L014 Pro",
+      "ma_goc": "L014",
+      "ten_san_pham": "Lavabo đặt bàn",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo đặt bàn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "2,376,000 VNĐ",
+      "gia_so": 2376000,
+      "kich_thuoc": "600*380*145mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 600*380*145mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "600*380*145mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 21,
+      "trang_catalogue": "38",
+      "hinh_anh": "assets/products/L014_Pro.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L014_Pro_drawing.jpg",
+      "bbox_page": {
+        "x": 53.34,
+        "y": 2.61,
+        "w": 45.36,
+        "h": 18.17
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-049-l036_pro",
+      "stt": 49,
+      "ma_san_pham": "L036 Pro",
+      "ma_goc": "L036",
+      "ten_san_pham": "Lavabo treo tường",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo treo tường",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "2,808,000 VNĐ",
+      "gia_so": 2808000,
+      "kich_thuoc": "505*420*375mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 505*420*375mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "505*420*375mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 21,
+      "trang_catalogue": "38",
+      "hinh_anh": "assets/products/L036_Pro.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L036_Pro_drawing.jpg",
+      "bbox_page": {
+        "x": 53.08,
+        "y": 19.6,
+        "w": 45.61,
+        "h": 19.84
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-01",
+          "ma_combo": "Plus 01",
+          "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-050-l037_pro",
+      "stt": 50,
+      "ma_san_pham": "L037 Pro",
+      "ma_goc": "L037",
+      "ten_san_pham": "Lavabo treo tường",
+      "danh_muc": "Lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Lavabo treo tường",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "3,132,000 VNĐ",
+      "gia_so": 3132000,
+      "kich_thuoc": "505*420*375mm",
+      "chat_lieu": "Sứ tráng men nano cao cấp",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 505*420*375mm",
+        "Chất liệu: Sứ tráng men nano cao cấp",
+        "(*) Không bao gồm bộ xả, nút nhấn"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "505*420*375mm",
+        "Chất liệu": "Sứ tráng men nano cao cấp"
+      },
+      "ghi_chu": "Không bao gồm bộ xả, nút nhấn",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 21,
+      "trang_catalogue": "38",
+      "hinh_anh": "assets/products/L037_Pro.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/L037_Pro_drawing.jpg",
+      "bbox_page": {
+        "x": 53.08,
+        "y": 39.79,
+        "w": 45.61,
+        "h": 18.65
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-051-f011",
+      "stt": 51,
+      "ma_san_pham": "F011",
+      "ma_goc": "F011",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "950,000 VNĐ",
+      "gia_so": 950000,
+      "kich_thuoc": "152*Ø47*154mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 152*Ø47*154mm",
+        "Chất liệu: Thân đồng thau",
+        "Chế độ nước: Lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "152*Ø47*154mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "41",
+      "hinh_anh": "assets/products/F011.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 3.78,
+        "y": 3.33,
+        "w": 13.44,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-01",
+          "ma_combo": "Eco 01",
+          "ten_combo": "Combo Tuslo Eco 01 — “Đủ Để Bắt Đầu, Đẹp Để Ở Lâu”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        }
+      ]
+    },
+    {
+      "id": "sp-052-f017",
+      "stt": 52,
+      "ma_san_pham": "F017",
+      "ma_goc": "F017",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "993,000 VNĐ",
+      "gia_so": 993000,
+      "kich_thuoc": "143*Ø47*154mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 143*Ø47*154mm",
+        "Chất liệu: Thân đồng thau",
+        "Chế độ nước: Lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "143*Ø47*154mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "41",
+      "hinh_anh": "assets/products/F017.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 19.15,
+        "y": 3.33,
+        "w": 13.19,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-02",
+          "ma_combo": "Eco 02",
+          "ten_combo": "Combo Tuslo Eco 02 — “Đủ Đầy Tiện Nghi, Đầu Tư Hợp Lý”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        }
+      ]
+    },
+    {
+      "id": "sp-053-f016",
+      "stt": 53,
+      "ma_san_pham": "F016",
+      "ma_goc": "F016",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,058,000 VNĐ",
+      "gia_so": 1058000,
+      "kich_thuoc": "147*Ø52*131mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 147*Ø52*131mm",
+        "Chất liệu: Thân đồng thau",
+        "Chế độ nước: Lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "147*Ø52*131mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "41",
+      "hinh_anh": "assets/products/F016.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 34.27,
+        "y": 3.33,
+        "w": 13.19,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-01",
+          "ma_combo": "Plus 01",
+          "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-054-f010",
+      "stt": 54,
+      "ma_san_pham": "F010",
+      "ma_goc": "F010",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,188,000 VNĐ",
+      "gia_so": 1188000,
+      "kich_thuoc": "157*Ø50*151mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 157*Ø50*151mm",
+        "Chất liệu: Thân đồng thau",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "157*Ø50*151mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "41",
+      "hinh_anh": "assets/products/F010.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 3.78,
+        "y": 26.37,
+        "w": 13.44,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        }
+      ]
+    },
+    {
+      "id": "sp-055-f012",
+      "stt": 55,
+      "ma_san_pham": "F012",
+      "ma_goc": "F012",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,188,000 VNĐ",
+      "gia_so": 1188000,
+      "kich_thuoc": "131*Ø48*160mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 131*Ø48*160mm",
+        "Chất liệu: Thân đồng thau",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "131*Ø48*160mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "41",
+      "hinh_anh": "assets/products/F012.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 19.15,
+        "y": 26.37,
+        "w": 13.19,
+        "h": 23.16
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-056-f014",
+      "stt": 56,
+      "ma_san_pham": "F014",
+      "ma_goc": "F014",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,188,000 VNĐ",
+      "gia_so": 1188000,
+      "kich_thuoc": "144*Ø45*145mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 144*Ø45*145mm",
+        "Chất liệu: Thân đồng thau",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "144*Ø45*145mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "41",
+      "hinh_anh": "assets/products/F014.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 34.27,
+        "y": 26.37,
+        "w": 13.19,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-03",
+          "ma_combo": "Plus 03",
+          "ten_combo": "Combo Tuslo Plus 03 — “Đẹp Hôm Nay, Hợp Mãi Về Sau”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-057-f018",
+      "stt": 57,
+      "ma_san_pham": "F018",
+      "ma_goc": "F018",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,296,000 VNĐ",
+      "gia_so": 1296000,
+      "kich_thuoc": "146*Ø47.5*152mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 146*Ø47.5*152mm",
+        "Chất liệu: Thân đồng thau",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "146*Ø47.5*152mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "41",
+      "hinh_anh": "assets/products/F018.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 3.78,
+        "y": 49.65,
+        "w": 13.44,
+        "h": 23.4
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-058-f001_luxury",
+      "stt": 58,
+      "ma_san_pham": "F001 Luxury",
+      "ma_goc": "F001",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo lạnh Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "1,404,000 VNĐ",
+      "gia_so": 1404000,
+      "kich_thuoc": "122*Ø45*159mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 122*Ø45*159mm",
+        "Chất liệu: Thân đồng thau",
+        "Chế độ nước: Lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "122*Ø45*159mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "41",
+      "hinh_anh": "assets/products/F001_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 19.15,
+        "y": 49.65,
+        "w": 13.19,
+        "h": 23.4
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-059-f002_luxury",
+      "stt": 59,
+      "ma_san_pham": "F002 Luxury",
+      "ma_goc": "F002",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo nóng lạnh Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "1,404,000 VNĐ",
+      "gia_so": 1404000,
+      "kich_thuoc": "162.3*Ø55*148.6mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Mạ tinh thể 4 lớp",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 162.3*Ø55*148.6mm",
+        "Chất liệu: Thân đồng thau",
+        "Mạ tinh thể 4 lớp",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "162.3*Ø55*148.6mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "41",
+      "hinh_anh": "assets/products/F002_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 34.27,
+        "y": 49.65,
+        "w": 13.19,
+        "h": 23.4
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-060-f005_luxury",
+      "stt": 60,
+      "ma_san_pham": "F005 Luxury",
+      "ma_goc": "F005",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo nóng lạnh Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "2,160,000 VNĐ",
+      "gia_so": 2160000,
+      "kich_thuoc": "175*Ø45*215mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 175*Ø45*215mm",
+        "Chất liệu: Thân đồng thau",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "175*Ø45*215mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "41",
+      "hinh_anh": "assets/products/F005_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 3.78,
+        "y": 73.05,
+        "w": 13.44,
+        "h": 23.52
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-061-f013",
+      "stt": 61,
+      "ma_san_pham": "F013",
+      "ma_goc": "F013",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo cổ cao nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,836,000 VNĐ",
+      "gia_so": 1836000,
+      "kich_thuoc": "155*Ø50*249mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 155*Ø50*249mm",
+        "Chất liệu: Thân đồng thau",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "155*Ø50*249mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "41",
+      "hinh_anh": "assets/products/F013.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 19.15,
+        "y": 73.05,
+        "w": 13.19,
+        "h": 23.52
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-062-f015",
+      "stt": 62,
+      "ma_san_pham": "F015",
+      "ma_goc": "F015",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo cổ cao nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,944,000 VNĐ",
+      "gia_so": 1944000,
+      "kich_thuoc": "192*Ø55*271mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 192*Ø55*271mm",
+        "Chất liệu: Thân đồng thau",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "192*Ø55*271mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "41",
+      "hinh_anh": "assets/products/F015.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 34.27,
+        "y": 73.05,
+        "w": 13.19,
+        "h": 23.52
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-04",
+          "ma_combo": "Plus 04",
+          "ten_combo": "Combo Tuslo Plus 04 — “Không Gian Xứng Đáng Với Ngôi Nhà Của Bạn”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-063-f003_luxury",
+      "stt": 63,
+      "ma_san_pham": "F003 Luxury",
+      "ma_goc": "F003",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo cổ cao Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "2,160,000 VNĐ",
+      "gia_so": 2160000,
+      "kich_thuoc": "167*Ø44*260mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Mạ tinh thể 4 lớp",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 167*Ø44*260mm",
+        "Chất liệu: Thân đồng thau",
+        "Mạ tinh thể 4 lớp",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "167*Ø44*260mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "42",
+      "hinh_anh": "assets/products/F003_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 53.76,
+        "y": 3.33,
+        "w": 13.02,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-064-f004_luxury",
+      "stt": 64,
+      "ma_san_pham": "F004 Luxury",
+      "ma_goc": "F004",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo cổ cao Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "2,160,000 VNĐ",
+      "gia_so": 2160000,
+      "kich_thuoc": "162.3*Ø55*219.7mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Mạ PVD cao cấp",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 162.3*Ø55*219.7mm",
+        "Chất liệu: Thân đồng thau",
+        "Mạ PVD cao cấp",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "162.3*Ø55*219.7mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "42",
+      "hinh_anh": "assets/products/F004_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 69.04,
+        "y": 3.33,
+        "w": 13.1,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-065-f006_luxury",
+      "stt": 65,
+      "ma_san_pham": "F006 Luxury",
+      "ma_goc": "F006",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo nóng lạnh Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "2,160,000 VNĐ",
+      "gia_so": 2160000,
+      "kich_thuoc": "175.3*Ø53.5*174.70mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Mạ tinh thể 4 lớp",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 175.3*Ø53.5*174.70mm",
+        "Chất liệu: Thân đồng thau",
+        "Mạ tinh thể 4 lớp",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "175.3*Ø53.5*174.70mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "42",
+      "hinh_anh": "assets/products/F006_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 84.41,
+        "y": 3.33,
+        "w": 13.44,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-066-f008_luxury",
+      "stt": 66,
+      "ma_san_pham": "F008 Luxury",
+      "ma_goc": "F008",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo cổ cao Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "3,024,000 VNĐ",
+      "gia_so": 3024000,
+      "kich_thuoc": "132*Ø47.5*320mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Mạ tinh thể 4 lớp",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 132*Ø47.5*320mm",
+        "Chất liệu: Thân đồng thau",
+        "Mạ tinh thể 4 lớp",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "132*Ø47.5*320mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "42",
+      "hinh_anh": "assets/products/F008_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 53.76,
+        "y": 26.73,
+        "w": 13.02,
+        "h": 22.81
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-067-f007_luxury",
+      "stt": 67,
+      "ma_san_pham": "F007 Luxury",
+      "ma_goc": "F007",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo cổ cao Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "3,024,000 VNĐ",
+      "gia_so": 3024000,
+      "kich_thuoc": "132*Ø47.5*320mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Mạ tinh thể 4 lớp",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 132*Ø47.5*320mm",
+        "Chất liệu: Thân đồng thau",
+        "Mạ tinh thể 4 lớp",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "132*Ø47.5*320mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "42",
+      "hinh_anh": "assets/products/F007_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 69.04,
+        "y": 26.73,
+        "w": 13.1,
+        "h": 22.81
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-068-f009_luxury",
+      "stt": 68,
+      "ma_san_pham": "F009 Luxury",
+      "ma_goc": "F009",
+      "ten_san_pham": "Vòi lavabo",
+      "danh_muc": "Vòi lavabo",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi lavabo cổ cao xoay 360° Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "3,024,000 VNĐ",
+      "gia_so": 3024000,
+      "kich_thuoc": "190.8*Ø56*311mm",
+      "chat_lieu": "Thân đồng thau",
+      "be_mat": "Mạ tinh thể 4 lớp",
+      "cong_nghe": [
+        "Thân vòi xoay 360°"
+      ],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 190.8*Ø56*311mm",
+        "Chất liệu: Thân đồng thau",
+        "Thân vòi xoay 360°",
+        "Mạ tinh thể 4 lớp",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "190.8*Ø56*311mm",
+        "Chất liệu": "Thân đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 23,
+      "trang_catalogue": "42",
+      "hinh_anh": "assets/products/F009_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 84.41,
+        "y": 26.73,
+        "w": 13.44,
+        "h": 22.81
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-02",
+          "ma_combo": "Plus 02",
+          "ten_combo": "Combo Tuslo Plus 02 — “Một Lần Chọn, Trải Nghiệm Dài Lâu”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-069-f020_luxury",
+      "stt": 69,
+      "ma_san_pham": "F020 Luxury",
+      "ma_goc": "F020",
+      "ten_san_pham": "Vòi lavabo cảm ứng",
+      "danh_muc": "Vòi cảm ứng",
+      "danh_muc_phu": [
+        "Vòi lavabo"
+      ],
+      "loai_phu": "Vòi lavabo cảm ứng nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "5,076,000 VNĐ",
+      "gia_so": 5076000,
+      "kich_thuoc": "166*Ø52*137mm",
+      "chat_lieu": "Hợp kim kẽm",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Vòi cảm ứng hồng ngoại"
+      ],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 166*Ø52*137mm",
+        "Chất liệu: Hợp kim kẽm",
+        "Vòi cảm ứng hồng ngoại",
+        "Nguồn điện: AC/DC",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "166*Ø52*137mm",
+        "Chất liệu": "Hợp kim kẽm",
+        "Nguồn điện": "AC/DC",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 24,
+      "trang_catalogue": "44",
+      "hinh_anh": "assets/products/F020_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 54.18,
+        "y": 2.38,
+        "w": 13.44,
+        "h": 25.54
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-070-f022_luxury",
+      "stt": 70,
+      "ma_san_pham": "F022 Luxury",
+      "ma_goc": "F022",
+      "ten_san_pham": "Vòi lavabo cảm ứng",
+      "danh_muc": "Vòi cảm ứng",
+      "danh_muc_phu": [
+        "Vòi lavabo"
+      ],
+      "loai_phu": "Vòi lavabo cảm ứng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "5,188,000 VNĐ",
+      "gia_so": 5188000,
+      "kich_thuoc": "166*Ø52*148mm",
+      "chat_lieu": "Thân đồng",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Vòi cảm ứng hồng ngoại"
+      ],
+      "che_do_nuoc": "Lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 166*Ø52*148mm",
+        "Chất liệu: Thân đồng",
+        "Vòi cảm ứng hồng ngoại",
+        "Nguồn điện: AC/DC",
+        "Chế độ nước: Lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "166*Ø52*148mm",
+        "Chất liệu": "Thân đồng",
+        "Nguồn điện": "AC/DC",
+        "Chế độ nước": "Lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 24,
+      "trang_catalogue": "44",
+      "hinh_anh": "assets/products/F022_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 69.55,
+        "y": 2.38,
+        "w": 13.44,
+        "h": 25.54
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-071-f019_luxury",
+      "stt": 71,
+      "ma_san_pham": "F019 Luxury",
+      "ma_goc": "F019",
+      "ten_san_pham": "Vòi lavabo cảm ứng",
+      "danh_muc": "Vòi cảm ứng",
+      "danh_muc_phu": [
+        "Vòi lavabo"
+      ],
+      "loai_phu": "Vòi lavabo cảm ứng nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "5,508,000 VNĐ",
+      "gia_so": 5508000,
+      "kich_thuoc": "66.25*Ø48.5*178.4mm",
+      "chat_lieu": "Hợp kim kẽm",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Vòi cảm ứng hồng ngoại"
+      ],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 66.25*Ø48.5*178.4mm",
+        "Chất liệu: Hợp kim kẽm",
+        "Vòi cảm ứng hồng ngoại",
+        "Nguồn điện: AC/DC",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "66.25*Ø48.5*178.4mm",
+        "Chất liệu": "Hợp kim kẽm",
+        "Nguồn điện": "AC/DC",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 24,
+      "trang_catalogue": "44",
+      "hinh_anh": "assets/products/F019_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 84.67,
+        "y": 2.38,
+        "w": 13.44,
+        "h": 25.54
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-072-f021_luxury",
+      "stt": 72,
+      "ma_san_pham": "F021 Luxury",
+      "ma_goc": "F021",
+      "ten_san_pham": "Vòi lavabo cảm ứng",
+      "danh_muc": "Vòi cảm ứng",
+      "danh_muc_phu": [
+        "Vòi lavabo"
+      ],
+      "loai_phu": "Vòi lavabo cảm ứng nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "7,344,000 VNĐ",
+      "gia_so": 7344000,
+      "kich_thuoc": "137*Ø30*164mm",
+      "chat_lieu": "Thân đồng",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Vòi cảm ứng hồng ngoại"
+      ],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 137*Ø30*164mm",
+        "Chất liệu: Thân đồng",
+        "Vòi cảm ứng hồng ngoại",
+        "Nguồn điện: AC/DC",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "137*Ø30*164mm",
+        "Chất liệu": "Thân đồng",
+        "Nguồn điện": "AC/DC",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 24,
+      "trang_catalogue": "44",
+      "hinh_anh": "assets/products/F021_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 54.18,
+        "y": 31.83,
+        "w": 13.44,
+        "h": 24.35
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-073-f023_luxury",
+      "stt": 73,
+      "ma_san_pham": "F023 Luxury",
+      "ma_goc": "F023",
+      "ten_san_pham": "Vòi lavabo cảm ứng",
+      "danh_muc": "Vòi cảm ứng",
+      "danh_muc_phu": [
+        "Vòi lavabo"
+      ],
+      "loai_phu": "Vòi lavabo cảm ứng nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "7,452,000 VNĐ",
+      "gia_so": 7452000,
+      "kich_thuoc": "260*Ø42*120mm",
+      "chat_lieu": "Hợp kim kẽm",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Vòi cảm ứng nhận dạng chuyển động tay & hồng ngoại"
+      ],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 260*Ø42*120mm",
+        "Chất liệu: Hợp kim kẽm",
+        "Vòi cảm ứng nhận dạng chuyển động tay & hồng ngoại",
+        "Nguồn điện: AC/DC",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "260*Ø42*120mm",
+        "Chất liệu": "Hợp kim kẽm",
+        "Nguồn điện": "AC/DC",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 24,
+      "trang_catalogue": "44",
+      "hinh_anh": "assets/products/F023_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 69.55,
+        "y": 31.83,
+        "w": 13.44,
+        "h": 24.35
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-074-f024_luxury",
+      "stt": 74,
+      "ma_san_pham": "F024 Luxury",
+      "ma_goc": "F024",
+      "ten_san_pham": "Vòi lavabo cảm ứng",
+      "danh_muc": "Vòi cảm ứng",
+      "danh_muc_phu": [
+        "Vòi lavabo"
+      ],
+      "loai_phu": "Vòi lavabo cảm ứng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "10,368,000 VNĐ",
+      "gia_so": 10368000,
+      "kich_thuoc": "175*Ø45*220mm",
+      "chat_lieu": "Thân đồng",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Vòi cảm ứng hồng ngoại"
+      ],
+      "che_do_nuoc": "Lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 175*Ø45*220mm",
+        "Chất liệu: Thân đồng",
+        "Vòi cảm ứng hồng ngoại",
+        "Nguồn điện: AC/DC",
+        "Chế độ nước: Lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "175*Ø45*220mm",
+        "Chất liệu": "Thân đồng",
+        "Nguồn điện": "AC/DC",
+        "Chế độ nước": "Lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 24,
+      "trang_catalogue": "44",
+      "hinh_anh": "assets/products/F024_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 84.67,
+        "y": 31.83,
+        "w": 13.44,
+        "h": 24.35
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-075-s020",
+      "stt": 75,
+      "ma_san_pham": "S020",
+      "ma_goc": "S020",
+      "ten_san_pham": "Sen dây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen dây lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "864,000 VNĐ",
+      "gia_so": 864000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "mạ Chrome",
+      "cong_nghe": [],
+      "che_do_nuoc": "Lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Bề mặt: mạ Chrome",
+        "Chế độ nước: Lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Bề mặt": "mạ Chrome",
+        "Chế độ nước": "Lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 26,
+      "trang_catalogue": "47",
+      "hinh_anh": "assets/products/S020.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 2.52,
+        "y": 7.13,
+        "w": 14.11,
+        "h": 39.55
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-01",
+          "ma_combo": "Eco 01",
+          "ten_combo": "Combo Tuslo Eco 01 — “Đủ Để Bắt Đầu, Đẹp Để Ở Lâu”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        }
+      ]
+    },
+    {
+      "id": "sp-076-s012",
+      "stt": 76,
+      "ma_san_pham": "S012",
+      "ma_goc": "S012",
+      "ten_san_pham": "Sen dây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen dây nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,706,400 VNĐ",
+      "gia_so": 1706400,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Tay sen 3 chế độ phun",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 26,
+      "trang_catalogue": "47",
+      "hinh_anh": "assets/products/S012.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 17.47,
+        "y": 7.13,
+        "w": 13.44,
+        "h": 39.55
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-02",
+          "ma_combo": "Eco 02",
+          "ten_combo": "Combo Tuslo Eco 02 — “Đủ Đầy Tiện Nghi, Đầu Tư Hợp Lý”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        }
+      ]
+    },
+    {
+      "id": "sp-077-s014",
+      "stt": 77,
+      "ma_san_pham": "S014",
+      "ma_goc": "S014",
+      "ten_san_pham": "Sen dây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen dây nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "2,160,000 VNĐ",
+      "gia_so": 2160000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Tay sen 3 chế độ phun",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 26,
+      "trang_catalogue": "47",
+      "hinh_anh": "assets/products/S014.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 32.09,
+        "y": 7.13,
+        "w": 13.44,
+        "h": 39.55
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-078-s001_luxury",
+      "stt": 78,
+      "ma_san_pham": "S001 Luxury",
+      "ma_goc": "S001",
+      "ten_san_pham": "Sen dây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen dây nóng lạnh Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "2,160,000 VNĐ",
+      "gia_so": 2160000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Tay sen 3 chế độ phun",
+        "Vòi phun silicon cao cấp",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 26,
+      "trang_catalogue": "47",
+      "hinh_anh": "assets/products/S001_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 2.52,
+        "y": 52.86,
+        "w": 14.11,
+        "h": 39.67
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-01",
+          "ma_combo": "Plus 01",
+          "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-079-s011",
+      "stt": 79,
+      "ma_san_pham": "S011",
+      "ma_goc": "S011",
+      "ten_san_pham": "Sen dây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen dây nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "2,376,000 VNĐ",
+      "gia_so": 2376000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Tay sen 3 chế độ phun",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 26,
+      "trang_catalogue": "47",
+      "hinh_anh": "assets/products/S011.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 17.47,
+        "y": 52.86,
+        "w": 13.44,
+        "h": 39.67
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-080-s013",
+      "stt": 80,
+      "ma_san_pham": "S013",
+      "ma_goc": "S013",
+      "ten_san_pham": "Sen dây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen dây nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "2,376,000 VNĐ",
+      "gia_so": 2376000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Tay sen 3 chế độ phun",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 26,
+      "trang_catalogue": "47",
+      "hinh_anh": "assets/products/S013.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 32.09,
+        "y": 52.86,
+        "w": 13.44,
+        "h": 39.67
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-081-s002_luxury",
+      "stt": 81,
+      "ma_san_pham": "S002 Luxury",
+      "ma_goc": "S002",
+      "ten_san_pham": "Sen dây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen dây nóng lạnh Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "2,700,000 VNĐ",
+      "gia_so": 2700000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Tay sen 3 chế độ phun",
+        "Vòi phun silicon cao cấp",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 26,
+      "trang_catalogue": "48",
+      "hinh_anh": "assets/products/S002_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 52.92,
+        "y": 7.13,
+        "w": 13.44,
+        "h": 39.55
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-082-s021",
+      "stt": 82,
+      "ma_san_pham": "S021",
+      "ma_goc": "S021",
+      "ten_san_pham": "Sen cây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen cây lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,944,000 VNĐ",
+      "gia_so": 1944000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "mạ Chrome",
+      "cong_nghe": [],
+      "che_do_nuoc": "Lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Bề mặt: mạ Chrome",
+        "Chế độ nước: Lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Bề mặt": "mạ Chrome",
+        "Chế độ nước": "Lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 26,
+      "trang_catalogue": "48",
+      "hinh_anh": "assets/products/S021.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 67.36,
+        "y": 5.94,
+        "w": 13.69,
+        "h": 40.74
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-083-s005",
+      "stt": 83,
+      "ma_san_pham": "S005",
+      "ma_goc": "S005",
+      "ten_san_pham": "Sen cây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen cây nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "2,700,000 VNĐ",
+      "gia_so": 2700000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 26,
+      "trang_catalogue": "48",
+      "hinh_anh": "assets/products/S005.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 82.15,
+        "y": 7.13,
+        "w": 13.61,
+        "h": 39.55
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-03",
+          "ma_combo": "Plus 03",
+          "ten_combo": "Combo Tuslo Plus 03 — “Đẹp Hôm Nay, Hợp Mãi Về Sau”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-084-s006",
+      "stt": 84,
+      "ma_san_pham": "S006",
+      "ma_goc": "S006",
+      "ten_san_pham": "Sen cây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen cây nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "3,240,000 VNĐ",
+      "gia_so": 3240000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Tay sen 3 chế độ phun",
+        "Vòi xịt vệ sinh",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 26,
+      "trang_catalogue": "48",
+      "hinh_anh": "assets/products/S006.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 52.92,
+        "y": 52.86,
+        "w": 13.44,
+        "h": 39.67
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-04",
+          "ma_combo": "Plus 04",
+          "ten_combo": "Combo Tuslo Plus 04 — “Không Gian Xứng Đáng Với Ngôi Nhà Của Bạn”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-085-s009",
+      "stt": 85,
+      "ma_san_pham": "S009",
+      "ma_goc": "S009",
+      "ten_san_pham": "Sen cây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen cây nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "2,700,000 VNĐ",
+      "gia_so": 2700000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Tay sen 3 chế độ phun",
+        "Vòi xịt vệ sinh",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 26,
+      "trang_catalogue": "48",
+      "hinh_anh": "assets/products/S009.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 67.36,
+        "y": 52.86,
+        "w": 13.69,
+        "h": 39.67
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-02",
+          "ma_combo": "Plus 02",
+          "ten_combo": "Combo Tuslo Plus 02 — “Một Lần Chọn, Trải Nghiệm Dài Lâu”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-086-s007",
+      "stt": 86,
+      "ma_san_pham": "S007",
+      "ma_goc": "S007",
+      "ten_san_pham": "Sen cây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen cây nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "3,888,000 VNĐ",
+      "gia_so": 3888000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Tay sen 3 chế độ phun",
+        "Vòi xịt vệ sinh",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 26,
+      "trang_catalogue": "48",
+      "hinh_anh": "assets/products/S007.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 82.15,
+        "y": 52.86,
+        "w": 13.61,
+        "h": 39.67
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-087-s004",
+      "stt": 87,
+      "ma_san_pham": "S004",
+      "ma_goc": "S004",
+      "ten_san_pham": "Sen cây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen cây nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "4,104,000 VNĐ",
+      "gia_so": 4104000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Tay sen 3 chế độ phun",
+        "Kệ phụ kiện đa năng",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 27,
+      "trang_catalogue": "49",
+      "hinh_anh": "assets/products/S004.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 4.03,
+        "y": 7.13,
+        "w": 13.19,
+        "h": 39.32
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-088-s003_luxury",
+      "stt": 88,
+      "ma_san_pham": "S003 Luxury",
+      "ma_goc": "S003",
+      "ten_san_pham": "Sen cây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen cây nóng lạnh Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "4,212,000 VNĐ",
+      "gia_so": 4212000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Tay sen 3 chế độ phun",
+        "Vòi phun silicon cao cấp",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 27,
+      "trang_catalogue": "49",
+      "hinh_anh": "assets/products/S003_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 18.65,
+        "y": 7.13,
+        "w": 13.27,
+        "h": 39.32
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-089-s008",
+      "stt": 89,
+      "ma_san_pham": "S008",
+      "ma_goc": "S008",
+      "ten_san_pham": "Sen cây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen cây nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "4,428,000 VNĐ",
+      "gia_so": 4428000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Tay sen 3 chế độ phun",
+        "Khóa an toàn trẻ em",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 27,
+      "trang_catalogue": "49",
+      "hinh_anh": "assets/products/S008.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 33.18,
+        "y": 7.13,
+        "w": 14.28,
+        "h": 39.32
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-090-s010",
+      "stt": 90,
+      "ma_san_pham": "S010",
+      "ma_goc": "S010",
+      "ten_san_pham": "Sen cây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen cây nóng lạnh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "4,428,000 VNĐ",
+      "gia_so": 4428000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Tay sen 3 chế độ phun, vòi xịt vệ sinh",
+        "*Lưu ý: chiều cao thân cố định",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Lưu ý": "chiều cao thân cố định",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "Chiều cao thân cố định",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 27,
+      "trang_catalogue": "49",
+      "hinh_anh": "assets/products/S010.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 4.03,
+        "y": 52.86,
+        "w": 13.19,
+        "h": 39.2
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        }
+      ]
+    },
+    {
+      "id": "sp-091-s017_luxury",
+      "stt": 91,
+      "ma_san_pham": "S017 Luxury",
+      "ma_goc": "S017",
+      "ten_san_pham": "Sen cây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen cây nóng lạnh Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "14,904,000 VNĐ",
+      "gia_so": 14904000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Tay sen 3 chế độ phun, khóa an toàn trẻ em",
+        "Vòi phun silicon cao cấp",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 27,
+      "trang_catalogue": "49",
+      "hinh_anh": "assets/products/S017_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 18.65,
+        "y": 52.86,
+        "w": 13.27,
+        "h": 39.2
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-092-s018_luxury",
+      "stt": 92,
+      "ma_san_pham": "S018 Luxury",
+      "ma_goc": "S018",
+      "ten_san_pham": "Sen cây",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Sen cây phím đàn Luxury",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "8,064,360 VNĐ",
+      "gia_so": 8064360,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Tay sen 3 chế độ phun, nút nhấn phím đàn"
+      ],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Chất liệu củ sen: Đồng thau",
+        "Tay sen 3 chế độ phun, nút nhấn phím đàn",
+        "Vòi phun silicon cao cấp",
+        "Chế độ nước: Nóng lạnh"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu củ sen": "Đồng thau",
+        "Chế độ nước": "Nóng lạnh"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 27,
+      "trang_catalogue": "49",
+      "hinh_anh": "assets/products/S018_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 33.18,
+        "y": 52.86,
+        "w": 14.28,
+        "h": 39.2
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-093-m001",
+      "stt": 93,
+      "ma_san_pham": "M001",
+      "ma_goc": "M001",
+      "ten_san_pham": "Gương",
+      "danh_muc": "Gương",
+      "danh_muc_phu": [],
+      "loai_phu": "Gương tráng bạc",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "313,200 VNĐ",
+      "gia_so": 313200,
+      "kich_thuoc": "450*600mm",
+      "chat_lieu": "Phôi gương tráng bạc cao cấp",
+      "be_mat": "tráng bạc",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 450*600mm",
+        "Bề mặt: tráng bạc"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "450*600mm",
+        "Bề mặt": "tráng bạc"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 28,
+      "trang_catalogue": "52",
+      "hinh_anh": "assets/products/M001.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 53.34,
+        "y": 8.55,
+        "w": 13.02,
+        "h": 33.02
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-01",
+          "ma_combo": "Eco 01",
+          "ten_combo": "Combo Tuslo Eco 01 — “Đủ Để Bắt Đầu, Đẹp Để Ở Lâu”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        }
+      ]
+    },
+    {
+      "id": "sp-094-m002",
+      "stt": 94,
+      "ma_san_pham": "M002",
+      "ma_goc": "M002",
+      "ten_san_pham": "Gương",
+      "danh_muc": "Gương",
+      "danh_muc_phu": [],
+      "loai_phu": "Gương tráng bạc",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "313,200 VNĐ",
+      "gia_so": 313200,
+      "kich_thuoc": "450*600mm",
+      "chat_lieu": "Phôi gương tráng bạc cao cấp",
+      "be_mat": "tráng bạc",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 450*600mm",
+        "Bề mặt: tráng bạc"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "450*600mm",
+        "Bề mặt": "tráng bạc"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 28,
+      "trang_catalogue": "52",
+      "hinh_anh": "assets/products/M002.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 68.46,
+        "y": 8.55,
+        "w": 13.02,
+        "h": 33.02
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-02",
+          "ma_combo": "Eco 02",
+          "ten_combo": "Combo Tuslo Eco 02 — “Đủ Đầy Tiện Nghi, Đầu Tư Hợp Lý”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        }
+      ]
+    },
+    {
+      "id": "sp-095-m003",
+      "stt": 95,
+      "ma_san_pham": "M003",
+      "ma_goc": "M003",
+      "ten_san_pham": "Gương khung",
+      "danh_muc": "Gương",
+      "danh_muc_phu": [],
+      "loai_phu": "Gương khung",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,069,000 VNĐ",
+      "gia_so": 1069000,
+      "kich_thuoc": "500*700mm",
+      "chat_lieu": "Phôi gương tráng bạc cao cấp",
+      "be_mat": "tráng bạc",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 500*700mm",
+        "Bề mặt: tráng bạc"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "500*700mm",
+        "Bề mặt": "tráng bạc"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 28,
+      "trang_catalogue": "52",
+      "hinh_anh": "assets/products/M003.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 83.32,
+        "y": 8.55,
+        "w": 12.85,
+        "h": 33.02
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-03",
+          "ma_combo": "Plus 03",
+          "ten_combo": "Combo Tuslo Plus 03 — “Đẹp Hôm Nay, Hợp Mãi Về Sau”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-04",
+          "ma_combo": "Plus 04",
+          "ten_combo": "Combo Tuslo Plus 04 — “Không Gian Xứng Đáng Với Ngôi Nhà Của Bạn”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-096-m004",
+      "stt": 96,
+      "ma_san_pham": "M004",
+      "ma_goc": "M004",
+      "ten_san_pham": "Gương khung",
+      "danh_muc": "Gương",
+      "danh_muc_phu": [],
+      "loai_phu": "Gương khung tròn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,069,000 VNĐ",
+      "gia_so": 1069000,
+      "kich_thuoc": "600*600mm",
+      "chat_lieu": "Phôi gương tráng bạc cao cấp",
+      "be_mat": "tráng bạc",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 600*600mm",
+        "Bề mặt: tráng bạc"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "600*600mm",
+        "Bề mặt": "tráng bạc"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 28,
+      "trang_catalogue": "52",
+      "hinh_anh": "assets/products/M004.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 53.34,
+        "y": 56.06,
+        "w": 13.02,
+        "h": 33.02
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-01",
+          "ma_combo": "Plus 01",
+          "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-02",
+          "ma_combo": "Plus 02",
+          "ten_combo": "Combo Tuslo Plus 02 — “Một Lần Chọn, Trải Nghiệm Dài Lâu”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-097-m005",
+      "stt": 97,
+      "ma_san_pham": "M005",
+      "ma_goc": "M005",
+      "ten_san_pham": "Gương khung đèn Led",
+      "danh_muc": "Gương",
+      "danh_muc_phu": [],
+      "loai_phu": "Gương đèn LED",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,965,000 VNĐ",
+      "gia_so": 1965000,
+      "kich_thuoc": "600*600mm",
+      "chat_lieu": "Phôi gương tráng bạc cao cấp",
+      "be_mat": "tráng bạc",
+      "cong_nghe": [
+        "Đèn LED cảm ứng"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 600*600mm",
+        "Bề mặt: tráng bạc",
+        "Đèn LED cảm ứng"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "600*600mm",
+        "Bề mặt": "tráng bạc"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 28,
+      "trang_catalogue": "52",
+      "hinh_anh": "assets/products/M005.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 68.46,
+        "y": 56.06,
+        "w": 13.02,
+        "h": 33.02
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-098-m006",
+      "stt": 98,
+      "ma_san_pham": "M006",
+      "ma_goc": "M006",
+      "ten_san_pham": "Gương khung đèn Led",
+      "danh_muc": "Gương",
+      "danh_muc_phu": [],
+      "loai_phu": "Gương đèn LED",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,965,000 VNĐ",
+      "gia_so": 1965000,
+      "kich_thuoc": "500*700mm",
+      "chat_lieu": "Phôi gương tráng bạc cao cấp",
+      "be_mat": "tráng bạc",
+      "cong_nghe": [
+        "Đèn LED cảm ứng"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 500*700mm",
+        "Bề mặt: tráng bạc",
+        "Đèn LED cảm ứng"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "500*700mm",
+        "Bề mặt": "tráng bạc"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 28,
+      "trang_catalogue": "52",
+      "hinh_anh": "assets/products/M006.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 83.32,
+        "y": 56.06,
+        "w": 12.85,
+        "h": 33.02
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-099-b004_luxury",
+      "stt": 99,
+      "ma_san_pham": "B004 Luxury",
+      "ma_goc": "B004",
+      "ten_san_pham": "Bồn tắm đặt sàn",
+      "danh_muc": "Bồn tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn tắm đặt sàn Acrylic",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "18,144,000 VNĐ",
+      "gia_so": 18144000,
+      "kich_thuoc": "1700*800*580mm",
+      "chat_lieu": "Nhựa Acrylic",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 1700*800*580mm",
+        "Chất liệu: Nhựa Acrylic",
+        "Bao gồm bộ xả"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "1700*800*580mm",
+        "Chất liệu": "Nhựa Acrylic"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 30,
+      "trang_catalogue": "55",
+      "hinh_anh": "assets/products/B004_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 3.78,
+        "y": 15.44,
+        "w": 27.47,
+        "h": 39.79
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-100-s022_luxury",
+      "stt": 100,
+      "ma_san_pham": "S022 Luxury",
+      "ma_goc": "S022",
+      "ten_san_pham": "Bộ sen vòi bồn tắm",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [
+        "Bồn tắm"
+      ],
+      "loai_phu": "Bộ sen vòi bồn tắm",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "4,320,000 VNĐ",
+      "gia_so": 4320000,
+      "kich_thuoc": "231*Ø12.5*271.1mm",
+      "chat_lieu": "Đồng thau mạ Chrome",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 231*Ø12.5*271.1mm",
+        "Chất liệu: Đồng thau mạ Chrome",
+        "Lắp đặt: Gắn thành bồn tắm / tường"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "231*Ø12.5*271.1mm",
+        "Chất liệu": "Đồng thau mạ Chrome",
+        "Lắp đặt": "Gắn thành bồn tắm / tường"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 30,
+      "trang_catalogue": "55",
+      "hinh_anh": "assets/products/S022_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 31.5,
+        "y": 34.45,
+        "w": 13.44,
+        "h": 23.76
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-101-b005_luxury",
+      "stt": 101,
+      "ma_san_pham": "B005 Luxury",
+      "ma_goc": "B005",
+      "ten_san_pham": "Bồn tắm đặt sàn",
+      "danh_muc": "Bồn tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn tắm đặt sàn Corian",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "33,480,000 VNĐ",
+      "gia_so": 33480000,
+      "kich_thuoc": "1600*800*625mm",
+      "chat_lieu": "Đá nhân tạo Corian",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 1600*800*625mm",
+        "Chất liệu: Đá nhân tạo Corian",
+        "Bao gồm bộ xả"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "1600*800*625mm",
+        "Chất liệu": "Đá nhân tạo Corian"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 30,
+      "trang_catalogue": "55",
+      "hinh_anh": "assets/products/B005_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 3.19,
+        "y": 69.49,
+        "w": 27.72,
+        "h": 30.51
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-102-s023_luxury",
+      "stt": 102,
+      "ma_san_pham": "S023 Luxury",
+      "ma_goc": "S023",
+      "ten_san_pham": "Vòi sen đặt sàn",
+      "danh_muc": "Sen tắm",
+      "danh_muc_phu": [
+        "Bồn tắm"
+      ],
+      "loai_phu": "Vòi sen bồn tắm đặt sàn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "8,640,000 VNĐ",
+      "gia_so": 8640000,
+      "kich_thuoc": "217*Ø14*856mm",
+      "chat_lieu": "Đồng thau mạ Chrome",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 217*Ø14*856mm",
+        "Chất liệu: Đồng thau mạ Chrome",
+        "Lắp đặt: Đặt sàn cạnh bồn tắm"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "217*Ø14*856mm",
+        "Chất liệu": "Đồng thau mạ Chrome",
+        "Lắp đặt": "Đặt sàn cạnh bồn tắm"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 30,
+      "trang_catalogue": "55",
+      "hinh_anh": "assets/products/S023_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 30.66,
+        "y": 67.47,
+        "w": 15.96,
+        "h": 32.31
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-103-b001_luxury",
+      "stt": 103,
+      "ma_san_pham": "B001 Luxury",
+      "ma_goc": "B001",
+      "ten_san_pham": "Bồn tắm massage chân yếm (đặt sàn)",
+      "danh_muc": "Bồn tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn tắm massage",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "22,680,000 VNĐ",
+      "gia_so": 22680000,
+      "kich_thuoc": "1705*760*670mm",
+      "chat_lieu": "Nhựa Acrylic",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Massage sục khí (Air Bubble Massage)"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 1705*760*670mm",
+        "Chất liệu: Nhựa Acrylic",
+        "Dung tích: 130L",
+        "Tính năng: Massage sục khí (Air Bubble Massage)"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "1705*760*670mm",
+        "Chất liệu": "Nhựa Acrylic",
+        "Dung tích": "130L",
+        "Tính năng": "Massage sục khí (Air Bubble Massage)"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 30,
+      "trang_catalogue": "56",
+      "hinh_anh": "assets/products/B001_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 50.56,
+        "y": 2.14,
+        "w": 25.7,
+        "h": 42.4
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        },
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-104-b002_luxury",
+      "stt": 104,
+      "ma_san_pham": "B002 Luxury",
+      "ma_goc": "B002",
+      "ten_san_pham": "Bồn tắm massage chân yếm (đặt sàn)",
+      "danh_muc": "Bồn tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn tắm góc massage",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "28,944,000 VNĐ",
+      "gia_so": 28944000,
+      "kich_thuoc": "1500*1500*600mm",
+      "chat_lieu": "Nhựa Acrylic",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Massage sục khí (Air Bubble Massage)"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 1500*1500*600mm",
+        "Chất liệu: Nhựa Acrylic",
+        "Dung tích: 320L",
+        "Tính năng: Massage sục khí (Air Bubble Massage)"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "1500*1500*600mm",
+        "Chất liệu": "Nhựa Acrylic",
+        "Dung tích": "320L",
+        "Tính năng": "Massage sục khí (Air Bubble Massage)"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 30,
+      "trang_catalogue": "56",
+      "hinh_anh": "assets/products/B002_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 52.24,
+        "y": 35.04,
+        "w": 26.04,
+        "h": 37.06
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-105-r001_luxury",
+      "stt": 105,
+      "ma_san_pham": "R001 Luxury",
+      "ma_goc": "R001",
+      "ten_san_pham": "Buồng tắm đứng",
+      "danh_muc": "Bồn tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Buồng tắm đứng vách kính",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "8,856,000 VNĐ",
+      "gia_so": 8856000,
+      "kich_thuoc": "1000*1000*2000mm",
+      "chat_lieu": "Hợp kim nhôm",
+      "be_mat": "Mạ Crom",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 1000*1000*2000mm",
+        "Độ dày kính: 8mm",
+        "Loại cửa: Cửa trượt",
+        "Bề mặt hoàn thiện: Mạ Crom",
+        "Chất liệu khung: Hợp kim nhôm",
+        "Chất liệu tay nắm: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "1000*1000*2000mm",
+        "Độ dày kính": "8mm",
+        "Loại cửa": "Cửa trượt",
+        "Bề mặt hoàn thiện": "Mạ Crom",
+        "Chất liệu khung": "Hợp kim nhôm",
+        "Chất liệu tay nắm": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 30,
+      "trang_catalogue": "56",
+      "hinh_anh": "assets/products/R001_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 58.38,
+        "y": 65.92,
+        "w": 15.54,
+        "h": 34.08
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-106-a052_luxury",
+      "stt": 106,
+      "ma_san_pham": "A052 Luxury",
+      "ma_goc": "A052",
+      "ten_san_pham": "Van xả tiểu cảm ứng",
+      "danh_muc": "Bồn tiểu nam",
+      "danh_muc_phu": [
+        "Phụ kiện khác",
+        "Vòi cảm ứng"
+      ],
+      "loai_phu": "Van xả tiểu cảm ứng",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "3,142,800 VNĐ",
+      "gia_so": 3142800,
+      "kich_thuoc": "Ø45*10cm",
+      "chat_lieu": "Đồng",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: Ø45*10cm",
+        "Chất liệu: Đồng",
+        "Dùng điện 220V"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "Ø45*10cm",
+        "Chất liệu": "Đồng"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 31,
+      "trang_catalogue": "57",
+      "hinh_anh": "assets/products/A052_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 5.46,
+        "y": 6.53,
+        "w": 8.4,
+        "h": 21.97
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        },
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-107-a053_luxury",
+      "stt": 107,
+      "ma_san_pham": "A053 Luxury",
+      "ma_goc": "A053",
+      "ten_san_pham": "Van xả tiểu nút nhấn",
+      "danh_muc": "Bồn tiểu nam",
+      "danh_muc_phu": [
+        "Phụ kiện khác"
+      ],
+      "loai_phu": "Van xả tiểu nút nhấn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "896,000 VNĐ",
+      "gia_so": 896000,
+      "kich_thuoc": "Ø55*114mm",
+      "chat_lieu": "Đồng",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: Ø55*114mm",
+        "Chất liệu: Đồng"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "Ø55*114mm",
+        "Chất liệu": "Đồng"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 31,
+      "trang_catalogue": "57",
+      "hinh_anh": "assets/products/A053_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 27.72,
+        "y": 6.53,
+        "w": 7.14,
+        "h": 21.97
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        },
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        },
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-108-u001_luxury",
+      "stt": 108,
+      "ma_san_pham": "U001 Luxury",
+      "ma_goc": "U001",
+      "ten_san_pham": "Bồn tiểu nam treo tường",
+      "danh_muc": "Bồn tiểu nam",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn tiểu nam treo tường",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "2,916,000 VNĐ",
+      "gia_so": 2916000,
+      "kich_thuoc": "315*355*655mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 315*355*655mm",
+        "Dung tích xả: 1.5L",
+        "Chất liệu: Sứ tráng men nano"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "315*355*655mm",
+        "Dung tích xả": "1.5L",
+        "Chất liệu": "Sứ tráng men nano"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 31,
+      "trang_catalogue": "57",
+      "hinh_anh": "assets/products/U001_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 5.21,
+        "y": 23.52,
+        "w": 8.4,
+        "h": 31.48
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        },
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-109-u002_luxury",
+      "stt": 109,
+      "ma_san_pham": "U002 Luxury",
+      "ma_goc": "U002",
+      "ten_san_pham": "Bồn tiểu nam treo tường",
+      "danh_muc": "Bồn tiểu nam",
+      "danh_muc_phu": [],
+      "loai_phu": "Bồn tiểu nam treo tường",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "3,564,000 VNĐ",
+      "gia_so": 3564000,
+      "kich_thuoc": "375*390*745mm",
+      "chat_lieu": "Sứ tráng men nano",
+      "be_mat": "Men sứ Nano Ceramic kháng khuẩn",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 375*390*745mm",
+        "Dung tích xả: 1.5L",
+        "Chất liệu: Sứ tráng men nano"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "375*390*745mm",
+        "Dung tích xả": "1.5L",
+        "Chất liệu": "Sứ tráng men nano"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Trải nghiệm AR"
+      ],
+      "trang_pdf": 31,
+      "trang_catalogue": "57",
+      "hinh_anh": "assets/products/U002_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 27.05,
+        "y": 23.52,
+        "w": 8.06,
+        "h": 31.48
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        },
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        },
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-110-a041",
+      "stt": 110,
+      "ma_san_pham": "A041",
+      "ma_goc": "A041",
+      "ten_san_pham": "Thoát sàn",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Phễu thoát sàn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "216,000 VNĐ",
+      "gia_so": 216000,
+      "kich_thuoc": "100*100mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 100*100mm",
+        "Ống chờ thoát: Ø45mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "100*100mm",
+        "Ống chờ thoát": "Ø45mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "61",
+      "hinh_anh": "assets/products/A041.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 3.53,
+        "y": 4.51,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-111-a042",
+      "stt": 111,
+      "ma_san_pham": "A042",
+      "ma_goc": "A042",
+      "ten_san_pham": "Thoát sàn",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Phễu thoát sàn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "216,000 VNĐ",
+      "gia_so": 216000,
+      "kich_thuoc": "100*100mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 100*100mm",
+        "Ống chờ thoát: Ø44.4mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "100*100mm",
+        "Ống chờ thoát": "Ø44.4mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "61",
+      "hinh_anh": "assets/products/A042.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 14.45,
+        "y": 4.51,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-112-a043",
+      "stt": 112,
+      "ma_san_pham": "A043",
+      "ma_goc": "A043",
+      "ten_san_pham": "Thoát sàn",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Phễu thoát sàn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "216,000 VNĐ",
+      "gia_so": 216000,
+      "kich_thuoc": "100*100mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 100*100mm",
+        "Ống chờ thoát: Ø44mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "100*100mm",
+        "Ống chờ thoát": "Ø44mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "61",
+      "hinh_anh": "assets/products/A043.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 25.37,
+        "y": 4.51,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-01",
+          "ma_combo": "Eco 01",
+          "ten_combo": "Combo Tuslo Eco 01 — “Đủ Để Bắt Đầu, Đẹp Để Ở Lâu”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        },
+        {
+          "id": "combo-eco-02",
+          "ma_combo": "Eco 02",
+          "ten_combo": "Combo Tuslo Eco 02 — “Đủ Đầy Tiện Nghi, Đầu Tư Hợp Lý”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        }
+      ]
+    },
+    {
+      "id": "sp-113-a045",
+      "stt": 113,
+      "ma_san_pham": "A045",
+      "ma_goc": "A045",
+      "ten_san_pham": "Thoát sàn",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Phễu thoát sàn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "216,000 VNĐ",
+      "gia_so": 216000,
+      "kich_thuoc": "100*100mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 100*100mm",
+        "Ống chờ thoát: Ø44mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "100*100mm",
+        "Ống chờ thoát": "Ø44mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "61",
+      "hinh_anh": "assets/products/A045.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 36.29,
+        "y": 4.51,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-01",
+          "ma_combo": "Plus 01",
+          "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-02",
+          "ma_combo": "Plus 02",
+          "ten_combo": "Combo Tuslo Plus 02 — “Một Lần Chọn, Trải Nghiệm Dài Lâu”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-03",
+          "ma_combo": "Plus 03",
+          "ten_combo": "Combo Tuslo Plus 03 — “Đẹp Hôm Nay, Hợp Mãi Về Sau”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-04",
+          "ma_combo": "Plus 04",
+          "ten_combo": "Combo Tuslo Plus 04 — “Không Gian Xứng Đáng Với Ngôi Nhà Của Bạn”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-114-a046",
+      "stt": 114,
+      "ma_san_pham": "A046",
+      "ma_goc": "A046",
+      "ten_san_pham": "Thoát sàn",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Phễu thoát sàn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "270,000 VNĐ",
+      "gia_so": 270000,
+      "kich_thuoc": "120*120mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 120*120mm",
+        "Ống chờ thoát: Ø45mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "120*120mm",
+        "Ống chờ thoát": "Ø45mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "61",
+      "hinh_anh": "assets/products/A046.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 3.53,
+        "y": 28.03,
+        "w": 10.58,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        }
+      ]
+    },
+    {
+      "id": "sp-115-a047",
+      "stt": 115,
+      "ma_san_pham": "A047",
+      "ma_goc": "A047",
+      "ten_san_pham": "Thoát sàn",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Phễu thoát sàn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "324,000 VNĐ",
+      "gia_so": 324000,
+      "kich_thuoc": "150*150mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 150*150mm",
+        "Ống chờ thoát: Ø88mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "150*150mm",
+        "Ống chờ thoát": "Ø88mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "61",
+      "hinh_anh": "assets/products/A047.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 14.45,
+        "y": 28.03,
+        "w": 10.58,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-116-a071",
+      "stt": 116,
+      "ma_san_pham": "A071",
+      "ma_goc": "A071",
+      "ten_san_pham": "Thoát sàn",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Thoát sàn dài",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,296,000 VNĐ",
+      "gia_so": 1296000,
+      "kich_thuoc": "200*100*25mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 200*100*25mm",
+        "Ống chờ thoát: Ø50mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "200*100*25mm",
+        "Ống chờ thoát": "Ø50mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "61",
+      "hinh_anh": "assets/products/A071.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 25.37,
+        "y": 28.03,
+        "w": 10.58,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-117-a072",
+      "stt": 117,
+      "ma_san_pham": "A072",
+      "ma_goc": "A072",
+      "ten_san_pham": "Thoát sàn",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Thoát sàn dài",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,458,000 VNĐ",
+      "gia_so": 1458000,
+      "kich_thuoc": "300*80*25mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 300*80*25mm",
+        "Ống chờ thoát: Ø50mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "300*80*25mm",
+        "Ống chờ thoát": "Ø50mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "61",
+      "hinh_anh": "assets/products/A072.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 36.29,
+        "y": 28.03,
+        "w": 10.58,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-118-a073",
+      "stt": 118,
+      "ma_san_pham": "A073",
+      "ma_goc": "A073",
+      "ten_san_pham": "Thoát sàn",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Thoát sàn dài",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "2,052,000 VNĐ",
+      "gia_so": 2052000,
+      "kich_thuoc": "600*80*25mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 600*80*25mm",
+        "Ống chờ thoát: Ø50mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "600*80*25mm",
+        "Ống chờ thoát": "Ø50mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "61",
+      "hinh_anh": "assets/products/A073.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 3.53,
+        "y": 53.45,
+        "w": 10.58,
+        "h": 21.97
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-119-a029",
+      "stt": 119,
+      "ma_san_pham": "A029",
+      "ma_goc": "A029",
+      "ten_san_pham": "Giá treo khăn",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Giá treo khăn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "723,000 VNĐ",
+      "gia_so": 723000,
+      "kich_thuoc": "600*80*25mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 600*80*25mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "600*80*25mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "61",
+      "hinh_anh": "assets/products/A029.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 14.45,
+        "y": 53.45,
+        "w": 10.58,
+        "h": 21.97
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-03",
+          "ma_combo": "Plus 03",
+          "ten_combo": "Combo Tuslo Plus 03 — “Đẹp Hôm Nay, Hợp Mãi Về Sau”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-04",
+          "ma_combo": "Plus 04",
+          "ten_combo": "Combo Tuslo Plus 04 — “Không Gian Xứng Đáng Với Ngôi Nhà Của Bạn”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-120-a031",
+      "stt": 120,
+      "ma_san_pham": "A031",
+      "ma_goc": "A031",
+      "ten_san_pham": "Giá treo khăn",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Giá treo khăn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "486,000 VNĐ",
+      "gia_so": 486000,
+      "kich_thuoc": "617*211*125mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 617*211*125mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "617*211*125mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "61",
+      "hinh_anh": "assets/products/A031.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 25.37,
+        "y": 53.45,
+        "w": 10.58,
+        "h": 21.97
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-02",
+          "ma_combo": "Plus 02",
+          "ten_combo": "Combo Tuslo Plus 02 — “Một Lần Chọn, Trải Nghiệm Dài Lâu”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-121-a094",
+      "stt": 121,
+      "ma_san_pham": "A094",
+      "ma_goc": "A094",
+      "ten_san_pham": "Giá treo khăn",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Giá treo khăn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "2,376,000 VNĐ",
+      "gia_so": 2376000,
+      "kich_thuoc": "600*238*123mm",
+      "chat_lieu": "Hợp kim / Inox 304 / Đồng thau",
+      "be_mat": "Mạ chrome",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 600*238*123mm",
+        "Bề mặt: Mạ chrome"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "600*238*123mm",
+        "Bề mặt": "Mạ chrome"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "61",
+      "hinh_anh": "assets/products/A094.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 36.29,
+        "y": 53.45,
+        "w": 10.58,
+        "h": 21.97
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-122-a096",
+      "stt": 122,
+      "ma_san_pham": "A096",
+      "ma_goc": "A096",
+      "ten_san_pham": "Thanh treo khăn",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Thanh treo khăn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,296,000 VNĐ",
+      "gia_so": 1296000,
+      "kich_thuoc": "600*106*57mm",
+      "chat_lieu": "Hợp kim / Inox 304 / Đồng thau",
+      "be_mat": "Mạ chrome",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 600*106*57mm",
+        "Bề mặt: Mạ chrome"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "600*106*57mm",
+        "Bề mặt": "Mạ chrome"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "61",
+      "hinh_anh": "assets/products/A096.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 3.53,
+        "y": 76.73,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-123-a097",
+      "stt": 123,
+      "ma_san_pham": "A097",
+      "ma_goc": "A097",
+      "ten_san_pham": "Thanh treo khăn",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Thanh treo khăn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,080,000 VNĐ",
+      "gia_so": 1080000,
+      "kich_thuoc": "600*69.5*57mm",
+      "chat_lieu": "Hợp kim / Inox 304 / Đồng thau",
+      "be_mat": "Mạ chrome",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 600*69.5*57mm",
+        "Bề mặt: Mạ chrome"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "600*69.5*57mm",
+        "Bề mặt": "Mạ chrome"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "61",
+      "hinh_anh": "assets/products/A097.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 14.45,
+        "y": 76.73,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        }
+      ]
+    },
+    {
+      "id": "sp-124-a028",
+      "stt": 124,
+      "ma_san_pham": "A028",
+      "ma_goc": "A028",
+      "ten_san_pham": "Thanh treo khăn",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Thanh treo khăn",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "345,000 VNĐ",
+      "gia_so": 345000,
+      "kich_thuoc": "600*48*75mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 600*48*75mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "600*48*75mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "61",
+      "hinh_anh": "assets/products/A028.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 25.37,
+        "y": 76.73,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-01",
+          "ma_combo": "Plus 01",
+          "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-125-a030",
+      "stt": 125,
+      "ma_san_pham": "A030",
+      "ma_goc": "A030",
+      "ten_san_pham": "Thanh treo khăn",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Thanh treo khăn đôi",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "270,000 VNĐ",
+      "gia_so": 270000,
+      "kich_thuoc": "617*72*45mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 617*72*45mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "617*72*45mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "61",
+      "hinh_anh": "assets/products/A030.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 36.29,
+        "y": 76.73,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-01",
+          "ma_combo": "Eco 01",
+          "ten_combo": "Combo Tuslo Eco 01 — “Đủ Để Bắt Đầu, Đẹp Để Ở Lâu”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        },
+        {
+          "id": "combo-eco-02",
+          "ma_combo": "Eco 02",
+          "ten_combo": "Combo Tuslo Eco 02 — “Đủ Đầy Tiện Nghi, Đầu Tư Hợp Lý”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        }
+      ]
+    },
+    {
+      "id": "sp-126-a032",
+      "stt": 126,
+      "ma_san_pham": "A032",
+      "ma_goc": "A032",
+      "ten_san_pham": "Giá treo khăn thông minh",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Giá treo khăn thông minh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "2,592,000 VNĐ",
+      "gia_so": 2592000,
+      "kich_thuoc": "540*175*360mm",
+      "chat_lieu": "Hợp kim / Inox 304 / Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Hệ thống đèn khử trùng UV & sấy khô"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 540*175*360mm",
+        "Hệ thống đèn khử trùng UV & sấy khô"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "540*175*360mm"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "62",
+      "hinh_anh": "assets/products/A032.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 53.59,
+        "y": 4.51,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-127-a033",
+      "stt": 127,
+      "ma_san_pham": "A033",
+      "ma_goc": "A033",
+      "ten_san_pham": "Giá treo khăn thông minh",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Giá treo khăn thông minh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "4,104,000 VNĐ",
+      "gia_so": 4104000,
+      "kich_thuoc": "540*175*360mm",
+      "chat_lieu": "Hợp kim / Inox 304 / Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Hệ thống đèn khử trùng UV & sấy khô"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 540*175*360mm",
+        "Hệ thống đèn khử trùng UV & sấy khô"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "540*175*360mm"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "62",
+      "hinh_anh": "assets/products/A033.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 64.51,
+        "y": 4.51,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-128-a035",
+      "stt": 128,
+      "ma_san_pham": "A035",
+      "ma_goc": "A035",
+      "ten_san_pham": "Kệ kính",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Kệ kính phòng tắm",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "552,000 VNĐ",
+      "gia_so": 552000,
+      "kich_thuoc": "450*136*60mm",
+      "chat_lieu": "Kính cường lực & Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 450*136*60mm",
+        "Chất liệu: Kính cường lực & Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "450*136*60mm",
+        "Chất liệu": "Kính cường lực & Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "62",
+      "hinh_anh": "assets/products/A035.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 75.43,
+        "y": 4.51,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-01",
+          "ma_combo": "Eco 01",
+          "ten_combo": "Combo Tuslo Eco 01 — “Đủ Để Bắt Đầu, Đẹp Để Ở Lâu”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        },
+        {
+          "id": "combo-eco-02",
+          "ma_combo": "Eco 02",
+          "ten_combo": "Combo Tuslo Eco 02 — “Đủ Đầy Tiện Nghi, Đầu Tư Hợp Lý”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        },
+        {
+          "id": "combo-plus-01",
+          "ma_combo": "Plus 01",
+          "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-02",
+          "ma_combo": "Plus 02",
+          "ten_combo": "Combo Tuslo Plus 02 — “Một Lần Chọn, Trải Nghiệm Dài Lâu”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-03",
+          "ma_combo": "Plus 03",
+          "ten_combo": "Combo Tuslo Plus 03 — “Đẹp Hôm Nay, Hợp Mãi Về Sau”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-04",
+          "ma_combo": "Plus 04",
+          "ten_combo": "Combo Tuslo Plus 04 — “Không Gian Xứng Đáng Với Ngôi Nhà Của Bạn”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-129-a006",
+      "stt": 129,
+      "ma_san_pham": "A006",
+      "ma_goc": "A006",
+      "ten_san_pham": "Van cấp nước",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Van cấp nước",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "140,400 VNĐ",
+      "gia_so": 140400,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Inox 304",
+        "Lắp đặt: Gắn tường"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Inox 304",
+        "Lắp đặt": "Gắn tường"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "62",
+      "hinh_anh": "assets/products/A006.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 86.35,
+        "y": 4.51,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-130-a036",
+      "stt": 130,
+      "ma_san_pham": "A036",
+      "ma_goc": "A036",
+      "ten_san_pham": "Kệ treo giấy vệ sinh",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Lô giấy vệ sinh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "540,000 VNĐ",
+      "gia_so": 540000,
+      "kich_thuoc": "201*120*78mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 201*120*78mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "201*120*78mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "62",
+      "hinh_anh": "assets/products/A036.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 53.59,
+        "y": 28.03,
+        "w": 10.58,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        },
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        },
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        },
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        },
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-131-a037",
+      "stt": 131,
+      "ma_san_pham": "A037",
+      "ma_goc": "A037",
+      "ten_san_pham": "Kệ treo giấy vệ sinh",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Lô giấy vệ sinh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "324,000 VNĐ",
+      "gia_so": 324000,
+      "kich_thuoc": "140*100*79mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 140*100*79mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "140*100*79mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "62",
+      "hinh_anh": "assets/products/A037.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 64.51,
+        "y": 28.03,
+        "w": 10.58,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-01",
+          "ma_combo": "Eco 01",
+          "ten_combo": "Combo Tuslo Eco 01 — “Đủ Để Bắt Đầu, Đẹp Để Ở Lâu”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        },
+        {
+          "id": "combo-eco-02",
+          "ma_combo": "Eco 02",
+          "ten_combo": "Combo Tuslo Eco 02 — “Đủ Đầy Tiện Nghi, Đầu Tư Hợp Lý”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        },
+        {
+          "id": "combo-plus-01",
+          "ma_combo": "Plus 01",
+          "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-02",
+          "ma_combo": "Plus 02",
+          "ten_combo": "Combo Tuslo Plus 02 — “Một Lần Chọn, Trải Nghiệm Dài Lâu”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-03",
+          "ma_combo": "Plus 03",
+          "ten_combo": "Combo Tuslo Plus 03 — “Đẹp Hôm Nay, Hợp Mãi Về Sau”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-04",
+          "ma_combo": "Plus 04",
+          "ten_combo": "Combo Tuslo Plus 04 — “Không Gian Xứng Đáng Với Ngôi Nhà Của Bạn”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-132-a078_pro",
+      "stt": 132,
+      "ma_san_pham": "A078 Pro",
+      "ma_goc": "A078",
+      "ten_san_pham": "Hộp đựng giấy vệ sinh",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Hộp đựng giấy vệ sinh Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "658,800 VNĐ",
+      "gia_so": 658800,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Inox 304 cao cấp",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Inox 304 cao cấp",
+        "Thiết kế hộp kín chống nước"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Inox 304 cao cấp"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "62",
+      "hinh_anh": "assets/products/A078_Pro.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 75.43,
+        "y": 28.03,
+        "w": 10.58,
+        "h": 23.16
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-133-a079_pro",
+      "stt": 133,
+      "ma_san_pham": "A079 Pro",
+      "ma_goc": "A079",
+      "ten_san_pham": "Hộp đựng giấy vệ sinh",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Hộp đựng giấy vệ sinh Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "658,800 VNĐ",
+      "gia_so": 658800,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Inox 304 cao cấp",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Inox 304 cao cấp",
+        "Thiết kế hộp kín có kệ để đồ"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Inox 304 cao cấp"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "62",
+      "hinh_anh": "assets/products/A079_Pro.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 86.35,
+        "y": 28.03,
+        "w": 10.58,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        },
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-134-a081_pro",
+      "stt": 134,
+      "ma_san_pham": "A081 Pro",
+      "ma_goc": "A081",
+      "ten_san_pham": "Hộp đựng giấy vệ sinh",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Hộp đựng giấy vệ sinh Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "550,800 VNĐ",
+      "gia_so": 550800,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Nhựa ABS / Inox cao cấp",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Nhựa ABS / Inox cao cấp",
+        "Thiết kế gắn tường"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Nhựa ABS / Inox cao cấp"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "62",
+      "hinh_anh": "assets/products/A081_Pro.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 53.59,
+        "y": 53.45,
+        "w": 10.58,
+        "h": 21.97
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-135-a082_pro",
+      "stt": 135,
+      "ma_san_pham": "A082 Pro",
+      "ma_goc": "A082",
+      "ten_san_pham": "Hộp đựng giấy vệ sinh",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Hộp đựng giấy vệ sinh cuộn lớn Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "442,800 VNĐ",
+      "gia_so": 442800,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Nhựa ABS cao cấp",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Nhựa ABS cao cấp",
+        "Hộp giấy vệ sinh cuộn lớn công cộng/gia đình"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Nhựa ABS cao cấp"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "62",
+      "hinh_anh": "assets/products/A082_Pro.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 64.51,
+        "y": 53.45,
+        "w": 10.58,
+        "h": 21.97
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        },
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        },
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-136-a038",
+      "stt": 136,
+      "ma_san_pham": "A038",
+      "ma_goc": "A038",
+      "ten_san_pham": "Móc áo",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Móc treo quần áo",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "432,000 VNĐ",
+      "gia_so": 432000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Độ dày móc: 8mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Độ dày móc": "8mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "62",
+      "hinh_anh": "assets/products/A038.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 75.43,
+        "y": 53.45,
+        "w": 10.58,
+        "h": 21.97
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-02",
+          "ma_combo": "Eco 02",
+          "ten_combo": "Combo Tuslo Eco 02 — “Đủ Đầy Tiện Nghi, Đầu Tư Hợp Lý”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        },
+        {
+          "id": "combo-plus-01",
+          "ma_combo": "Plus 01",
+          "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-137-a040",
+      "stt": 137,
+      "ma_san_pham": "A040",
+      "ma_goc": "A040",
+      "ten_san_pham": "Móc áo",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Móc treo quần áo",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "551,000 VNĐ",
+      "gia_so": 551000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Độ dày móc: 8mm",
+        "Chất liệu: Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Độ dày móc": "8mm",
+        "Chất liệu": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "62",
+      "hinh_anh": "assets/products/A040.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 86.35,
+        "y": 53.45,
+        "w": 10.58,
+        "h": 21.97
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-02",
+          "ma_combo": "Plus 02",
+          "ten_combo": "Combo Tuslo Plus 02 — “Một Lần Chọn, Trải Nghiệm Dài Lâu”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-03",
+          "ma_combo": "Plus 03",
+          "ten_combo": "Combo Tuslo Plus 03 — “Đẹp Hôm Nay, Hợp Mãi Về Sau”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-04",
+          "ma_combo": "Plus 04",
+          "ten_combo": "Combo Tuslo Plus 04 — “Không Gian Xứng Đáng Với Ngôi Nhà Của Bạn”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-138-a095",
+      "stt": 138,
+      "ma_san_pham": "A095",
+      "ma_goc": "A095",
+      "ten_san_pham": "Móc áo",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Móc treo quần áo",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "324,000 VNĐ",
+      "gia_so": 324000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Hợp kim / Inox",
+      "be_mat": "Mạ chrome",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Bề mặt: Mạ chrome",
+        "Chất liệu: Hợp kim / Inox"
+      ],
+      "thong_so_chi_tiet": {
+        "Bề mặt": "Mạ chrome",
+        "Chất liệu": "Hợp kim / Inox"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "62",
+      "hinh_anh": "assets/products/A095.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 53.59,
+        "y": 76.73,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        },
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        },
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        },
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        },
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-139-a027",
+      "stt": 139,
+      "ma_san_pham": "A027",
+      "ma_goc": "A027",
+      "ten_san_pham": "Kệ đựng bàn chải đánh răng",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Kệ ly & bàn chải",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "313,200 VNĐ",
+      "gia_so": 313200,
+      "kich_thuoc": "167*108*97mm",
+      "chat_lieu": "Thủy tinh mờ & Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 167*108*97mm",
+        "Chất liệu: Thủy tinh mờ & Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "167*108*97mm",
+        "Chất liệu": "Thủy tinh mờ & Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "62",
+      "hinh_anh": "assets/products/A027.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 64.51,
+        "y": 76.73,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-01",
+          "ma_combo": "Plus 01",
+          "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-02",
+          "ma_combo": "Plus 02",
+          "ten_combo": "Combo Tuslo Plus 02 — “Một Lần Chọn, Trải Nghiệm Dài Lâu”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-03",
+          "ma_combo": "Plus 03",
+          "ten_combo": "Combo Tuslo Plus 03 — “Đẹp Hôm Nay, Hợp Mãi Về Sau”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-04",
+          "ma_combo": "Plus 04",
+          "ten_combo": "Combo Tuslo Plus 04 — “Không Gian Xứng Đáng Với Ngôi Nhà Của Bạn”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        },
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        },
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        },
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        },
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-140-a034",
+      "stt": 140,
+      "ma_san_pham": "A034",
+      "ma_goc": "A034",
+      "ten_san_pham": "Kệ đựng xà phòng",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [],
+      "loai_phu": "Kệ đựng xà phòng",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "324,000 VNĐ",
+      "gia_so": 324000,
+      "kich_thuoc": "110*130*54mm",
+      "chat_lieu": "Thủy tinh mờ & Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 110*130*54mm",
+        "Chất liệu: Thủy tinh mờ & Inox 304"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "110*130*54mm",
+        "Chất liệu": "Thủy tinh mờ & Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "62",
+      "hinh_anh": "assets/products/A034.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 75.43,
+        "y": 76.73,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-01",
+          "ma_combo": "Plus 01",
+          "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-02",
+          "ma_combo": "Plus 02",
+          "ten_combo": "Combo Tuslo Plus 02 — “Một Lần Chọn, Trải Nghiệm Dài Lâu”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-141-a050",
+      "stt": 141,
+      "ma_san_pham": "A050",
+      "ma_goc": "A050",
+      "ten_san_pham": "Bộ xả lavabo nút nhấn Inox",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Bộ xả lavabo",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "410,400 VNĐ",
+      "gia_so": 410400,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Inox 304",
+        "Loại: Nút nhấn (Pop-up)"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Inox 304",
+        "Loại": "Nút nhấn (Pop-up)"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 33,
+      "trang_catalogue": "62",
+      "hinh_anh": "assets/products/A050.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 86.35,
+        "y": 76.73,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-01",
+          "ma_combo": "Eco 01",
+          "ten_combo": "Combo Tuslo Eco 01 — “Đủ Để Bắt Đầu, Đẹp Để Ở Lâu”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        },
+        {
+          "id": "combo-eco-02",
+          "ma_combo": "Eco 02",
+          "ten_combo": "Combo Tuslo Eco 02 — “Đủ Đầy Tiện Nghi, Đầu Tư Hợp Lý”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        },
+        {
+          "id": "combo-plus-01",
+          "ma_combo": "Plus 01",
+          "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-02",
+          "ma_combo": "Plus 02",
+          "ten_combo": "Combo Tuslo Plus 02 — “Một Lần Chọn, Trải Nghiệm Dài Lâu”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-03",
+          "ma_combo": "Plus 03",
+          "ten_combo": "Combo Tuslo Plus 03 — “Đẹp Hôm Nay, Hợp Mãi Về Sau”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-04",
+          "ma_combo": "Plus 04",
+          "ten_combo": "Combo Tuslo Plus 04 — “Không Gian Xứng Đáng Với Ngôi Nhà Của Bạn”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-142-a051",
+      "stt": 142,
+      "ma_san_pham": "A051",
+      "ma_goc": "A051",
+      "ten_san_pham": "Bộ xả lavabo nút nhấn sứ",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Bộ xả lavabo",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "410,400 VNĐ",
+      "gia_so": 410400,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Nút nhấn sứ tráng men & thân đồng/inox",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Nút nhấn sứ tráng men & thân đồng/inox",
+        "Loại: Nút nhấn (Pop-up)"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Nút nhấn sứ tráng men & thân đồng/inox",
+        "Loại": "Nút nhấn (Pop-up)"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "63",
+      "hinh_anh": "assets/products/A051.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 3.53,
+        "y": 4.51,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        },
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        },
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        },
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        },
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-143-a004",
+      "stt": 143,
+      "ma_san_pham": "A004",
+      "ma_goc": "A004",
+      "ten_san_pham": "Van góc chữ T",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Van cấp nước",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "129,000 VNĐ",
+      "gia_so": 129000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Đồng / Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Đồng / Inox 304",
+        "Thiết kế: Van góc chữ T chia nước"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Đồng / Inox 304",
+        "Thiết kế": "Van góc chữ T chia nước"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "63",
+      "hinh_anh": "assets/products/A004.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 14.45,
+        "y": 4.51,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-144-a005",
+      "stt": 144,
+      "ma_san_pham": "A005",
+      "ma_goc": "A005",
+      "ten_san_pham": "Dây cấp nước Inox 304",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Dây cấp nước",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "75,600 VNĐ",
+      "gia_so": 75600,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Inox 304 chống rỉ",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Inox 304 chống rỉ"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Inox 304 chống rỉ"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "63",
+      "hinh_anh": "assets/products/A005.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 25.37,
+        "y": 4.51,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-145-a003",
+      "stt": 145,
+      "ma_san_pham": "A003",
+      "ma_goc": "A003",
+      "ten_san_pham": "Vòi xịt vệ sinh",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Vòi xịt vệ sinh",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "194,400 VNĐ",
+      "gia_so": 194400,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Nhựa ABS cao cấp",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Nhựa ABS cao cấp",
+        "Bao gồm dây xịt và cài vòi"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Nhựa ABS cao cấp"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "63",
+      "hinh_anh": "assets/products/A003.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 36.29,
+        "y": 4.51,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-01",
+          "ma_combo": "Eco 01",
+          "ten_combo": "Combo Tuslo Eco 01 — “Đủ Để Bắt Đầu, Đẹp Để Ở Lâu”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        },
+        {
+          "id": "combo-eco-02",
+          "ma_combo": "Eco 02",
+          "ten_combo": "Combo Tuslo Eco 02 — “Đủ Đầy Tiện Nghi, Đầu Tư Hợp Lý”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        }
+      ]
+    },
+    {
+      "id": "sp-146-a023_pro",
+      "stt": 146,
+      "ma_san_pham": "A023 Pro",
+      "ma_goc": "A023",
+      "ten_san_pham": "Vòi xịt vệ sinh",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Vòi xịt vệ sinh Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "345,600 VNĐ",
+      "gia_so": 345600,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Nhựa ABS, mạ Chrome",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Nhựa ABS, mạ Chrome",
+        "Bao gồm dây xịt và cài vòi"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Nhựa ABS, mạ Chrome"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "63",
+      "hinh_anh": "assets/products/A023_Pro.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 3.53,
+        "y": 28.03,
+        "w": 10.58,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-03",
+          "ma_combo": "Plus 03",
+          "ten_combo": "Combo Tuslo Plus 03 — “Đẹp Hôm Nay, Hợp Mãi Về Sau”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-04",
+          "ma_combo": "Plus 04",
+          "ten_combo": "Combo Tuslo Plus 04 — “Không Gian Xứng Đáng Với Ngôi Nhà Của Bạn”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        }
+      ]
+    },
+    {
+      "id": "sp-147-a024_pro",
+      "stt": 147,
+      "ma_san_pham": "A024 Pro",
+      "ma_goc": "A024",
+      "ten_san_pham": "Vòi xịt vệ sinh",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Vòi xịt vệ sinh Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "302,400 VNĐ",
+      "gia_so": 302400,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Nhựa ABS cao cấp",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Nhựa ABS cao cấp",
+        "Bao gồm dây xịt và cài vòi"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Nhựa ABS cao cấp"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "63",
+      "hinh_anh": "assets/products/A024_Pro.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 14.45,
+        "y": 28.03,
+        "w": 10.58,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-01",
+          "ma_combo": "Plus 01",
+          "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-02",
+          "ma_combo": "Plus 02",
+          "ten_combo": "Combo Tuslo Plus 02 — “Một Lần Chọn, Trải Nghiệm Dài Lâu”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-148-a025_pro",
+      "stt": 148,
+      "ma_san_pham": "A025 Pro",
+      "ma_goc": "A025",
+      "ten_san_pham": "Vòi xịt vệ sinh",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Vòi xịt vệ sinh Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "410,400 VNĐ",
+      "gia_so": 410400,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Nhựa ABS, mạ Chrome",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Nhựa ABS, mạ Chrome",
+        "Bao gồm dây xịt và cài vòi"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Nhựa ABS, mạ Chrome"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "63",
+      "hinh_anh": "assets/products/A025_Pro.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 25.37,
+        "y": 28.03,
+        "w": 10.58,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        },
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-149-a026_pro",
+      "stt": 149,
+      "ma_san_pham": "A026 Pro",
+      "ma_goc": "A026",
+      "ten_san_pham": "Vòi xịt vệ sinh",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Vòi xịt vệ sinh Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "345,600 VNĐ",
+      "gia_so": 345600,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Nhựa ABS, mạ Chrome",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Nhựa ABS, mạ Chrome",
+        "Bao gồm dây xịt và cài vòi"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Nhựa ABS, mạ Chrome"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "63",
+      "hinh_anh": "assets/products/A026_Pro.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 36.29,
+        "y": 28.03,
+        "w": 10.58,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        },
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-150-a012",
+      "stt": 150,
+      "ma_san_pham": "A012",
+      "ma_goc": "A012",
+      "ten_san_pham": "Bát sen",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Sen tắm",
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Bát sen trần / tường",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "756,000 VNĐ",
+      "gia_so": 756000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Nhựa ABS cao cấp",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Nhựa ABS cao cấp",
+        "Thiết kế bát sen tròn"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Nhựa ABS cao cấp"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "63",
+      "hinh_anh": "assets/products/A012.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 3.53,
+        "y": 53.45,
+        "w": 10.58,
+        "h": 21.97
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-151-a013",
+      "stt": 151,
+      "ma_san_pham": "A013",
+      "ma_goc": "A013",
+      "ten_san_pham": "Bát sen",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Sen tắm",
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Bát sen trần / tường",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "367,200 VNĐ",
+      "gia_so": 367200,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Nhựa ABS cao cấp",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Nhựa ABS cao cấp",
+        "Thiết kế bát sen chữ nhật bo góc"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Nhựa ABS cao cấp"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "63",
+      "hinh_anh": "assets/products/A013.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 14.45,
+        "y": 53.45,
+        "w": 10.58,
+        "h": 21.97
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-152-a014",
+      "stt": 152,
+      "ma_san_pham": "A014",
+      "ma_goc": "A014",
+      "ten_san_pham": "Bát sen",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Sen tắm",
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Bát sen trần / tường",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "367,200 VNĐ",
+      "gia_so": 367200,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Nhựa ABS cao cấp",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Nhựa ABS cao cấp",
+        "Thiết kế bát sen tròn"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Nhựa ABS cao cấp"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "63",
+      "hinh_anh": "assets/products/A014.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 25.37,
+        "y": 53.45,
+        "w": 10.58,
+        "h": 21.97
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-153-a015",
+      "stt": 153,
+      "ma_san_pham": "A015",
+      "ma_goc": "A015",
+      "ten_san_pham": "Bát sen",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Sen tắm",
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Bát sen trần / tường",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "367,200 VNĐ",
+      "gia_so": 367200,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Nhựa ABS mạ Chrome cao cấp",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Nhựa ABS mạ Chrome cao cấp",
+        "Thiết kế bát sen tròn"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Nhựa ABS mạ Chrome cao cấp"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "63",
+      "hinh_anh": "assets/products/A015.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 36.29,
+        "y": 53.45,
+        "w": 10.58,
+        "h": 21.97
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-154-a016",
+      "stt": 154,
+      "ma_san_pham": "A016",
+      "ma_goc": "A016",
+      "ten_san_pham": "Tay sen",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Sen tắm",
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Tay sen tắm",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "216,000 VNĐ",
+      "gia_so": 216000,
+      "kich_thuoc": "Đường kính: 105mm",
+      "chat_lieu": "Nhựa ABS mạ Chrome",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Đường kính: 105mm",
+        "Chất liệu: Nhựa ABS mạ Chrome"
+      ],
+      "thong_so_chi_tiet": {
+        "Đường kính": "105mm",
+        "Chất liệu": "Nhựa ABS mạ Chrome"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "63",
+      "hinh_anh": "assets/products/A016.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 3.53,
+        "y": 76.73,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-155-a017",
+      "stt": 155,
+      "ma_san_pham": "A017",
+      "ma_goc": "A017",
+      "ten_san_pham": "Tay sen",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Sen tắm",
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Tay sen tắm",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "216,000 VNĐ",
+      "gia_so": 216000,
+      "kich_thuoc": "Đường kính: 125mm",
+      "chat_lieu": "Nhựa ABS mạ Chrome",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Đường kính: 125mm",
+        "Chất liệu: Nhựa ABS mạ Chrome"
+      ],
+      "thong_so_chi_tiet": {
+        "Đường kính": "125mm",
+        "Chất liệu": "Nhựa ABS mạ Chrome"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "63",
+      "hinh_anh": "assets/products/A017.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 14.45,
+        "y": 76.73,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-156-a018",
+      "stt": 156,
+      "ma_san_pham": "A018",
+      "ma_goc": "A018",
+      "ten_san_pham": "Tay sen",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Sen tắm",
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Tay sen tắm",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "324,000 VNĐ",
+      "gia_so": 324000,
+      "kich_thuoc": "Đường kính: 150mm",
+      "chat_lieu": "Nhựa ABS mạ Chrome",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Đường kính: 150mm",
+        "Chất liệu: Nhựa ABS mạ Chrome"
+      ],
+      "thong_so_chi_tiet": {
+        "Đường kính": "150mm",
+        "Chất liệu": "Nhựa ABS mạ Chrome"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "63",
+      "hinh_anh": "assets/products/A018.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 25.37,
+        "y": 76.73,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-157-a019",
+      "stt": 157,
+      "ma_san_pham": "A019",
+      "ma_goc": "A019",
+      "ten_san_pham": "Tay sen",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Sen tắm",
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Tay sen tắm",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "248,400 VNĐ",
+      "gia_so": 248400,
+      "kich_thuoc": "275*105mm",
+      "chat_lieu": "Nhựa ABS mạ Chrome",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 275*105mm",
+        "Chất liệu: Nhựa ABS mạ Chrome"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "275*105mm",
+        "Chất liệu": "Nhựa ABS mạ Chrome"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "63",
+      "hinh_anh": "assets/products/A019.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 36.29,
+        "y": 76.73,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-158-a020",
+      "stt": 158,
+      "ma_san_pham": "A020",
+      "ma_goc": "A020",
+      "ten_san_pham": "Tay sen",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Sen tắm",
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Tay sen tắm",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "194,400 VNĐ",
+      "gia_so": 194400,
+      "kich_thuoc": "Đường kính: 110mm",
+      "chat_lieu": "Nhựa ABS mạ Chrome",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Đường kính: 110mm",
+        "Chất liệu: Nhựa ABS mạ Chrome"
+      ],
+      "thong_so_chi_tiet": {
+        "Đường kính": "110mm",
+        "Chất liệu": "Nhựa ABS mạ Chrome"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A020.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 53.59,
+        "y": 4.51,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-159-a021",
+      "stt": 159,
+      "ma_san_pham": "A021",
+      "ma_goc": "A021",
+      "ten_san_pham": "Tay sen",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Sen tắm",
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Tay sen tắm",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "248,400 VNĐ",
+      "gia_so": 248400,
+      "kich_thuoc": "Đường kính: 120mm",
+      "chat_lieu": "Nhựa ABS mạ Chrome",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Đường kính: 120mm",
+        "Chất liệu: Nhựa ABS mạ Chrome"
+      ],
+      "thong_so_chi_tiet": {
+        "Đường kính": "120mm",
+        "Chất liệu": "Nhựa ABS mạ Chrome"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A021.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 64.51,
+        "y": 4.51,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-160-a022",
+      "stt": 160,
+      "ma_san_pham": "A022",
+      "ma_goc": "A022",
+      "ten_san_pham": "Tay sen",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Sen tắm",
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Tay sen tắm",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "194,400 VNĐ",
+      "gia_so": 194400,
+      "kich_thuoc": "Đường kính: 120mm",
+      "chat_lieu": "Nhựa ABS mạ Chrome",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Đường kính: 120mm",
+        "Chất liệu: Nhựa ABS mạ Chrome"
+      ],
+      "thong_so_chi_tiet": {
+        "Đường kính": "120mm",
+        "Chất liệu": "Nhựa ABS mạ Chrome"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A022.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 75.43,
+        "y": 4.51,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-161-a010",
+      "stt": 161,
+      "ma_san_pham": "A010",
+      "ma_goc": "A010",
+      "ten_san_pham": "Thanh trượt sen tắm",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Sen tắm",
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Thanh trượt sen tắm",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "432,000 VNĐ",
+      "gia_so": 432000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Inox / Nhựa ABS mạ Chrome",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Inox / Nhựa ABS mạ Chrome",
+        "Điều chỉnh độ cao và góc nghiêng tay sen"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Inox / Nhựa ABS mạ Chrome"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A010.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 86.35,
+        "y": 4.51,
+        "w": 10.58,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-eco-02",
+          "ma_combo": "Eco 02",
+          "ten_combo": "Combo Tuslo Eco 02 — “Đủ Đầy Tiện Nghi, Đầu Tư Hợp Lý”",
+          "phan_khuc": "Eco",
+          "trang_pdf": 42
+        }
+      ]
+    },
+    {
+      "id": "sp-162-a011",
+      "stt": 162,
+      "ma_san_pham": "A011",
+      "ma_goc": "A011",
+      "ten_san_pham": "Thanh trượt sen tắm",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Sen tắm",
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Thanh trượt sen tắm",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "432,000 VNĐ",
+      "gia_so": 432000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Inox / Nhựa ABS mạ Chrome",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Inox / Nhựa ABS mạ Chrome",
+        "Tích hợp khay để xà phòng tiện lợi"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Inox / Nhựa ABS mạ Chrome"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A011.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 53.59,
+        "y": 28.03,
+        "w": 10.58,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-01",
+          "ma_combo": "Plus 01",
+          "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-163-a054",
+      "stt": 163,
+      "ma_san_pham": "A054",
+      "ma_goc": "A054",
+      "ten_san_pham": "Hộp đựng xà phòng cảm ứng",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [
+        "Phụ kiện khác"
+      ],
+      "loai_phu": "Hộp xà phòng cảm ứng",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,965,600 VNĐ",
+      "gia_so": 1965600,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Hợp kim / Inox 304 / Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Dung tích: 800ml",
+        "Cảm biến hồng ngoại tự động lấy dung dịch"
+      ],
+      "thong_so_chi_tiet": {
+        "Dung tích": "800ml"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A054.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 64.51,
+        "y": 28.03,
+        "w": 10.58,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-164-a055",
+      "stt": 164,
+      "ma_san_pham": "A055",
+      "ma_goc": "A055",
+      "ten_san_pham": "Hộp đựng xà phòng cảm ứng",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [
+        "Phụ kiện khác"
+      ],
+      "loai_phu": "Hộp xà phòng cảm ứng",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,965,600 VNĐ",
+      "gia_so": 1965600,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Hợp kim / Inox 304 / Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Dung tích: 300ml",
+        "Cảm biến hồng ngoại tự động lấy dung dịch"
+      ],
+      "thong_so_chi_tiet": {
+        "Dung tích": "300ml"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A055.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 75.43,
+        "y": 28.03,
+        "w": 10.58,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-165-a083_pro",
+      "stt": 165,
+      "ma_san_pham": "A083 Pro",
+      "ma_goc": "A083",
+      "ten_san_pham": "Hộp đựng xà phòng",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [
+        "Phụ kiện khác"
+      ],
+      "loai_phu": "Hộp đựng xà phòng Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "496,800 VNĐ",
+      "gia_so": 496800,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Inox 304 / Nhựa cao cấp",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Inox 304 / Nhựa cao cấp",
+        "Loại: Nhấn tay gắn tường"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Inox 304 / Nhựa cao cấp",
+        "Loại": "Nhấn tay gắn tường"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A083_Pro.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 86.35,
+        "y": 28.03,
+        "w": 10.58,
+        "h": 23.16
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        },
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        },
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-166-a084_pro",
+      "stt": 166,
+      "ma_san_pham": "A084 Pro",
+      "ma_goc": "A084",
+      "ten_san_pham": "Hộp đựng xà phòng",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [
+        "Phụ kiện khác"
+      ],
+      "loai_phu": "Hộp đựng xà phòng đơn Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "442,800 VNĐ",
+      "gia_so": 442800,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Hợp kim / Inox 304 / Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Loại: Hộp xà phòng đơn gắn tường"
+      ],
+      "thong_so_chi_tiet": {
+        "Loại": "Hộp xà phòng đơn gắn tường"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A084_Pro.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 53.59,
+        "y": 53.45,
+        "w": 10.58,
+        "h": 21.97
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-plus-03",
+          "ma_combo": "Plus 03",
+          "ten_combo": "Combo Tuslo Plus 03 — “Đẹp Hôm Nay, Hợp Mãi Về Sau”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        },
+        {
+          "id": "combo-plus-04",
+          "ma_combo": "Plus 04",
+          "ten_combo": "Combo Tuslo Plus 04 — “Không Gian Xứng Đáng Với Ngôi Nhà Của Bạn”",
+          "phan_khuc": "Plus",
+          "trang_pdf": 43
+        }
+      ]
+    },
+    {
+      "id": "sp-167-a085_pro",
+      "stt": 167,
+      "ma_san_pham": "A085 Pro",
+      "ma_goc": "A085",
+      "ten_san_pham": "Hộp đựng xà phòng đôi",
+      "danh_muc": "Phụ kiện nhà tắm",
+      "danh_muc_phu": [
+        "Phụ kiện khác"
+      ],
+      "loai_phu": "Hộp đựng xà phòng đôi Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "626,400 VNĐ",
+      "gia_so": 626400,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Hợp kim / Inox 304 / Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Loại: Hộp xà phòng đôi gắn tường"
+      ],
+      "thong_so_chi_tiet": {
+        "Loại": "Hộp xà phòng đôi gắn tường"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A085_Pro.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 64.51,
+        "y": 53.45,
+        "w": 10.58,
+        "h": 21.97
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        },
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        },
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        },
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        },
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-168-a089",
+      "stt": 168,
+      "ma_san_pham": "A089",
+      "ma_goc": "A089",
+      "ten_san_pham": "Dây sen",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Sen tắm",
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Dây sen tắm",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "140,400 VNĐ",
+      "gia_so": 140400,
+      "kich_thuoc": "Chiều dài: 1.5m",
+      "chat_lieu": "Inox chống xoắn",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chiều dài: 1.5m",
+        "Chất liệu: Inox chống xoắn"
+      ],
+      "thong_so_chi_tiet": {
+        "Chiều dài": "1.5m",
+        "Chất liệu": "Inox chống xoắn"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A089.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 75.43,
+        "y": 53.45,
+        "w": 10.58,
+        "h": 21.97
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-169-a090",
+      "stt": 169,
+      "ma_san_pham": "A090",
+      "ma_goc": "A090",
+      "ten_san_pham": "Dây sen",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Sen tắm",
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Dây sen tắm",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "172,800 VNĐ",
+      "gia_so": 172800,
+      "kich_thuoc": "Chiều dài: 1.5m",
+      "chat_lieu": "Nhựa PVC / Bọc mịn chống xoắn",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chiều dài: 1.5m",
+        "Chất liệu: Nhựa PVC / Bọc mịn chống xoắn"
+      ],
+      "thong_so_chi_tiet": {
+        "Chiều dài": "1.5m",
+        "Chất liệu": "Nhựa PVC / Bọc mịn chống xoắn"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A090.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 86.35,
+        "y": 53.45,
+        "w": 10.58,
+        "h": 21.97
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-170-a091",
+      "stt": 170,
+      "ma_san_pham": "A091",
+      "ma_goc": "A091",
+      "ten_san_pham": "Rửa cơ gắn bồn cầu",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Thiết bị rửa cơ",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "540,000 VNĐ",
+      "gia_so": 540000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "PP + ABS",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: PP + ABS",
+        "Lắp đặt tích hợp vào bồn cầu thông thường"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "PP + ABS"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A091.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 53.76,
+        "y": 76.73,
+        "w": 7.98,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-171-a093",
+      "stt": 171,
+      "ma_san_pham": "A093",
+      "ma_goc": "A093",
+      "ten_san_pham": "Nắp rửa cơ",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Nắp bồn cầu rửa cơ",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,620,000 VNĐ",
+      "gia_so": 1620000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "PP + ABS",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: PP + ABS",
+        "Tích hợp vòi rửa thông minh không dùng điện"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "PP + ABS"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A093.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 62.16,
+        "y": 76.73,
+        "w": 7.98,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-172-a087_pro",
+      "stt": 172,
+      "ma_san_pham": "A087 Pro",
+      "ma_goc": "A087",
+      "ten_san_pham": "Máy sấy tay",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Máy sấy tay cảm ứng Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "3,266,000 VNĐ",
+      "gia_so": 3266000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Hợp kim / Inox 304 / Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Loại: Máy sấy tay cảm ứng nhỏ gọn gắn tường",
+        "Cảm biến tự động"
+      ],
+      "thong_so_chi_tiet": {
+        "Loại": "Máy sấy tay cảm ứng nhỏ gọn gắn tường"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A087_Pro.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 70.56,
+        "y": 76.73,
+        "w": 8.4,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 44
+        },
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        },
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "trang_pdf": 45
+        }
+      ]
+    },
+    {
+      "id": "sp-173-a088_pro",
+      "stt": 173,
+      "ma_san_pham": "A088 Pro",
+      "ma_goc": "A088",
+      "ten_san_pham": "Máy sấy tay",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Máy sấy tay cảm ứng Pro",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Pro",
+      "gia_niem_yet": "5,949,000 VNĐ",
+      "gia_so": 5949000,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Hợp kim / Inox 304 / Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Loại: Máy sấy tay tốc độ cao gắn tường",
+        "Cảm biến tự động"
+      ],
+      "thong_so_chi_tiet": {
+        "Loại": "Máy sấy tay tốc độ cao gắn tường"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A088_Pro.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 79.38,
+        "y": 76.73,
+        "w": 8.4,
+        "h": 22.69
+      },
+      "combos_su_dung": [
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        },
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "trang_pdf": 46
+        }
+      ]
+    },
+    {
+      "id": "sp-174-a092",
+      "stt": 174,
+      "ma_san_pham": "A092",
+      "ma_goc": "A092",
+      "ten_san_pham": "Giá treo vòi sen",
+      "danh_muc": "Phụ kiện khác",
+      "danh_muc_phu": [
+        "Sen tắm",
+        "Phụ kiện nhà tắm"
+      ],
+      "loai_phu": "Đế cài tay sen",
+      "thuong_hieu": "TUSLO",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "49,680 VNĐ",
+      "gia_so": 49680,
+      "kich_thuoc": "Tiêu chuẩn hãng",
+      "chat_lieu": "Nhựa ABS",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Chất liệu: Nhựa ABS",
+        "Lắp đặt: Gắn tường"
+      ],
+      "thong_so_chi_tiet": {
+        "Chất liệu": "Nhựa ABS",
+        "Lắp đặt": "Gắn tường"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 34,
+      "trang_catalogue": "64",
+      "hinh_anh": "assets/products/A092.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 88.61,
+        "y": 76.73,
+        "w": 8.4,
+        "h": 22.69
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-175-d006",
+      "stt": 175,
+      "ma_san_pham": "D006",
+      "ma_goc": "D006",
+      "ten_san_pham": "Chậu rửa chén inox",
+      "danh_muc": "Chậu rửa chén",
+      "danh_muc_phu": [],
+      "loai_phu": "Chậu rửa chén Inox 2 hộc",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,922,400 VNĐ",
+      "gia_so": 1922400,
+      "kich_thuoc": "758*421*210mm",
+      "chat_lieu": "Inox 304, mài xước",
+      "be_mat": "Inox 304 mài xước",
+      "cong_nghe": [
+        "Nhựa PP"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 758*421*210mm",
+        "Thân chậu: Inox 304, mài xước",
+        "Bát lọc rác: Inox 304",
+        "Bộ xả: Nhựa PP"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "758*421*210mm",
+        "Thân chậu": "Inox 304, mài xước",
+        "Bát lọc rác": "Inox 304",
+        "Bộ xả": "Nhựa PP"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 37,
+      "trang_catalogue": "69",
+      "hinh_anh": "assets/products/D006.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/D006_drawing.jpg",
+      "bbox_page": {
+        "x": 3.78,
+        "y": 1.78,
+        "w": 44.52,
+        "h": 21.38
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-176-d007",
+      "stt": 176,
+      "ma_san_pham": "D007",
+      "ma_goc": "D007",
+      "ten_san_pham": "Chậu rửa chén inox",
+      "danh_muc": "Chậu rửa chén",
+      "danh_muc_phu": [],
+      "loai_phu": "Chậu rửa chén Inox 2 hộc",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "2,808,000 VNĐ",
+      "gia_so": 2808000,
+      "kich_thuoc": "800*525*200mm",
+      "chat_lieu": "Inox 304, mài xước",
+      "be_mat": "Inox 304 mài xước",
+      "cong_nghe": [
+        "Nhựa PP"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 800*525*200mm",
+        "Thân chậu: Inox 304, mài xước",
+        "Bát lọc rác: Inox 304",
+        "Bộ xả: Nhựa PP"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "800*525*200mm",
+        "Thân chậu": "Inox 304, mài xước",
+        "Bát lọc rác": "Inox 304",
+        "Bộ xả": "Nhựa PP"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 37,
+      "trang_catalogue": "69",
+      "hinh_anh": "assets/products/D007.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/D007_drawing.jpg",
+      "bbox_page": {
+        "x": 3.78,
+        "y": 23.76,
+        "w": 44.52,
+        "h": 21.97
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-177-d005",
+      "stt": 177,
+      "ma_san_pham": "D005",
+      "ma_goc": "D005",
+      "ten_san_pham": "Chậu rửa chén inox",
+      "danh_muc": "Chậu rửa chén",
+      "danh_muc_phu": [],
+      "loai_phu": "Chậu rửa chén Inox 2 hộc",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "2,916,000 VNĐ",
+      "gia_so": 2916000,
+      "kich_thuoc": "780*430*205mm",
+      "chat_lieu": "Inox 304, nano xám",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Nhựa PP"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 780*430*205mm",
+        "Thân chậu: Inox 304, nano xám",
+        "Bát lọc rác: Inox 304",
+        "Bộ xả: Nhựa PP"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "780*430*205mm",
+        "Thân chậu": "Inox 304, nano xám",
+        "Bát lọc rác": "Inox 304",
+        "Bộ xả": "Nhựa PP"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 37,
+      "trang_catalogue": "69",
+      "hinh_anh": "assets/products/D005.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/D005_drawing.jpg",
+      "bbox_page": {
+        "x": 3.78,
+        "y": 48.11,
+        "w": 44.52,
+        "h": 21.38
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-178-d001",
+      "stt": 178,
+      "ma_san_pham": "D001",
+      "ma_goc": "D001",
+      "ten_san_pham": "Chậu rửa chén inox",
+      "danh_muc": "Chậu rửa chén",
+      "danh_muc_phu": [],
+      "loai_phu": "Chậu rửa chén Inox 1 hộc lớn",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "4,104,000 VNĐ",
+      "gia_so": 4104000,
+      "kich_thuoc": "780*450*230mm",
+      "chat_lieu": "Inox 304, nano linen",
+      "be_mat": "Inox 304 Nano Linen chống xước",
+      "cong_nghe": [
+        "Chống xước",
+        "Nhựa PP"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 780*450*230mm",
+        "Thân chậu: Inox 304, nano linen",
+        "Chống xước",
+        "Bát lọc rác: Inox 304",
+        "Bộ xả: Nhựa PP"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "780*450*230mm",
+        "Thân chậu": "Inox 304, nano linen",
+        "Bát lọc rác": "Inox 304",
+        "Bộ xả": "Nhựa PP"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 37,
+      "trang_catalogue": "69",
+      "hinh_anh": "assets/products/D001.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/D001_drawing.jpg",
+      "bbox_page": {
+        "x": 3.78,
+        "y": 70.67,
+        "w": 44.52,
+        "h": 23.76
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-179-d004",
+      "stt": 179,
+      "ma_san_pham": "D004",
+      "ma_goc": "D004",
+      "ten_san_pham": "Chậu rửa chén inox",
+      "danh_muc": "Chậu rửa chén",
+      "danh_muc_phu": [],
+      "loai_phu": "Chậu rửa chén Inox 1 hộc lớn",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "5,292,000 VNĐ",
+      "gia_so": 5292000,
+      "kich_thuoc": "750*450*220mm",
+      "chat_lieu": "Inox 304, mài xước",
+      "be_mat": "Inox 304 mài xước",
+      "cong_nghe": [
+        "Nhựa PP"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 750*450*220mm",
+        "Thân chậu: Inox 304, mài xước",
+        "Bát lọc rác: Inox 304",
+        "Bộ xả: Nhựa PP"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "750*450*220mm",
+        "Thân chậu": "Inox 304, mài xước",
+        "Bát lọc rác": "Inox 304",
+        "Bộ xả": "Nhựa PP"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 37,
+      "trang_catalogue": "70",
+      "hinh_anh": "assets/products/D004.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/D004_drawing.jpg",
+      "bbox_page": {
+        "x": 53.76,
+        "y": 1.78,
+        "w": 44.52,
+        "h": 21.38
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-180-d003",
+      "stt": 180,
+      "ma_san_pham": "D003",
+      "ma_goc": "D003",
+      "ten_san_pham": "Chậu rửa chén inox",
+      "danh_muc": "Chậu rửa chén",
+      "danh_muc_phu": [],
+      "loai_phu": "Chậu rửa chén Inox 1 hộc lớn",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "5,400,000 VNĐ",
+      "gia_so": 5400000,
+      "kich_thuoc": "680*450*226mm",
+      "chat_lieu": "Inox 304, nano đen cải tiến",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Nhựa PP"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 680*450*226mm",
+        "Thân chậu: Inox 304, nano đen cải tiến",
+        "Bát lọc rác: Inox 304",
+        "Bộ xả: Nhựa PP"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "680*450*226mm",
+        "Thân chậu": "Inox 304, nano đen cải tiến",
+        "Bát lọc rác": "Inox 304",
+        "Bộ xả": "Nhựa PP"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 37,
+      "trang_catalogue": "70",
+      "hinh_anh": "assets/products/D003.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/D003_drawing.jpg",
+      "bbox_page": {
+        "x": 53.76,
+        "y": 23.76,
+        "w": 44.52,
+        "h": 21.97
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-181-d002",
+      "stt": 181,
+      "ma_san_pham": "D002",
+      "ma_goc": "D002",
+      "ten_san_pham": "Chậu rửa chén inox",
+      "danh_muc": "Chậu rửa chén",
+      "danh_muc_phu": [],
+      "loai_phu": "Chậu rửa chén Inox 2 hộc",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "5,508,000 VNĐ",
+      "gia_so": 5508000,
+      "kich_thuoc": "780*480*196mm",
+      "chat_lieu": "Inox 304, nano linen",
+      "be_mat": "Inox 304 Nano Linen chống xước",
+      "cong_nghe": [
+        "Chống xước",
+        "Nhựa PP"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 780*480*196mm",
+        "Thân chậu: Inox 304, nano linen",
+        "Chống xước",
+        "Bát lọc rác: Inox 304",
+        "Bộ xả: Nhựa PP"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "780*480*196mm",
+        "Thân chậu": "Inox 304, nano linen",
+        "Bát lọc rác": "Inox 304",
+        "Bộ xả": "Nhựa PP"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 37,
+      "trang_catalogue": "70",
+      "hinh_anh": "assets/products/D002.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/D002_drawing.jpg",
+      "bbox_page": {
+        "x": 53.76,
+        "y": 46.92,
+        "w": 44.52,
+        "h": 23.4
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-182-d011",
+      "stt": 182,
+      "ma_san_pham": "D011 “Cenderine”",
+      "ma_goc": "D011",
+      "ten_san_pham": "Chậu rửa chén inox Cenderine",
+      "danh_muc": "Chậu rửa chén",
+      "danh_muc_phu": [],
+      "loai_phu": "Chậu rửa chén PVD Nano",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "8,100,000 VNĐ",
+      "gia_so": 8100000,
+      "kich_thuoc": "750*480*228mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Vân đá, mạ PVD nano",
+      "cong_nghe": [
+        "Nhựa PP"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 750*480*228mm",
+        "Thân chậu: Inox 304",
+        "Vân đá, mạ PVD nano",
+        "Bát lọc rác: Inox 304",
+        "Bộ xả: Nhựa PP"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "750*480*228mm",
+        "Thân chậu": "Inox 304",
+        "Bát lọc rác": "Inox 304",
+        "Bộ xả": "Nhựa PP"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 37,
+      "trang_catalogue": "70",
+      "hinh_anh": "assets/products/D011.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/D011_drawing.jpg",
+      "bbox_page": {
+        "x": 53.76,
+        "y": 70.67,
+        "w": 44.52,
+        "h": 24.11
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-183-d009",
+      "stt": 183,
+      "ma_san_pham": "D009 “Celestia”",
+      "ma_goc": "D009",
+      "ten_san_pham": "Chậu rửa chén inox Celestia",
+      "danh_muc": "Chậu rửa chén",
+      "danh_muc_phu": [],
+      "loai_phu": "Chậu rửa chén PVD Nano",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "8,640,000 VNĐ",
+      "gia_so": 8640000,
+      "kich_thuoc": "750*480*228mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Vân đá, mạ PVD nano",
+      "cong_nghe": [
+        "Nhựa PP"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 750*480*228mm",
+        "Thân chậu: Inox 304",
+        "Vân đá, mạ PVD nano",
+        "Bát lọc rác: Inox 304",
+        "Bộ xả: Nhựa PP"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "750*480*228mm",
+        "Thân chậu": "Inox 304",
+        "Bát lọc rác": "Inox 304",
+        "Bộ xả": "Nhựa PP"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 38,
+      "trang_catalogue": "71",
+      "hinh_anh": "assets/products/D009.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/D009_drawing.jpg",
+      "bbox_page": {
+        "x": 3.78,
+        "y": 0.59,
+        "w": 43.68,
+        "h": 23.4
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-184-d010",
+      "stt": 184,
+      "ma_san_pham": "D010 “Onyrix”",
+      "ma_goc": "D010",
+      "ten_san_pham": "Chậu rửa chén inox Onyrix",
+      "danh_muc": "Chậu rửa chén",
+      "danh_muc_phu": [],
+      "loai_phu": "Chậu rửa chén PVD Nano",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "8,964,000 VNĐ",
+      "gia_so": 8964000,
+      "kich_thuoc": "750*430*223mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Vân đá, mạ PVD nano",
+      "cong_nghe": [
+        "Nhựa PP"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 750*430*223mm",
+        "Thân chậu: Inox 304",
+        "Vân đá, mạ PVD nano",
+        "Bát lọc rác: Inox 304",
+        "Bộ xả: Nhựa PP"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "750*430*223mm",
+        "Thân chậu": "Inox 304",
+        "Bát lọc rác": "Inox 304",
+        "Bộ xả": "Nhựa PP"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 38,
+      "trang_catalogue": "71",
+      "hinh_anh": "assets/products/D010.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/D010_drawing.jpg",
+      "bbox_page": {
+        "x": 3.78,
+        "y": 23.76,
+        "w": 43.68,
+        "h": 23.16
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-185-d014",
+      "stt": 185,
+      "ma_san_pham": "D014 “Oslo Granite”",
+      "ma_goc": "D014",
+      "ten_san_pham": "Chậu rửa chén đá Oslo Granite",
+      "danh_muc": "Chậu rửa chén",
+      "danh_muc_phu": [],
+      "loai_phu": "Chậu rửa chén Đá nhân tạo",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "9,180,000 VNĐ",
+      "gia_so": 9180000,
+      "kich_thuoc": "800*480*200mm",
+      "chat_lieu": "Đá nhân tạo",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Nhựa PP"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 800*480*200mm",
+        "Thân chậu: Đá nhân tạo",
+        "Kết cấu chắc chắn, chống va đập tốt",
+        "Bát lọc rác: Inox 304",
+        "Bộ xả: Nhựa PP"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "800*480*200mm",
+        "Thân chậu": "Đá nhân tạo",
+        "Bát lọc rác": "Inox 304",
+        "Bộ xả": "Nhựa PP"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 38,
+      "trang_catalogue": "71",
+      "hinh_anh": "assets/products/D014.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/D014_drawing.jpg",
+      "bbox_page": {
+        "x": 3.78,
+        "y": 48.7,
+        "w": 43.68,
+        "h": 20.79
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-186-d008",
+      "stt": 186,
+      "ma_san_pham": "D008 “Aristo”",
+      "ma_goc": "D008",
+      "ten_san_pham": "Chậu rửa chén inox Aristo",
+      "danh_muc": "Chậu rửa chén",
+      "danh_muc_phu": [],
+      "loai_phu": "Chậu rửa chén PVD Nano",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "9,504,000 VNĐ",
+      "gia_so": 9504000,
+      "kich_thuoc": "760*490*218mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Vân đá, mạ PVD nano",
+      "cong_nghe": [
+        "Nhựa PP"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 760*490*218mm",
+        "Thân chậu: Inox 304",
+        "Vân đá, mạ PVD nano",
+        "Bát lọc rác: Inox 304",
+        "Bộ xả: Nhựa PP"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "760*490*218mm",
+        "Thân chậu": "Inox 304",
+        "Bát lọc rác": "Inox 304",
+        "Bộ xả": "Nhựa PP"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 38,
+      "trang_catalogue": "71",
+      "hinh_anh": "assets/products/D008.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/D008_drawing.jpg",
+      "bbox_page": {
+        "x": 3.78,
+        "y": 69.84,
+        "w": 43.68,
+        "h": 27.08
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-187-d013",
+      "stt": 187,
+      "ma_san_pham": "D013 “Milantitanium”",
+      "ma_goc": "D013",
+      "ten_san_pham": "Chậu rửa chén đá Milantitanium",
+      "danh_muc": "Chậu rửa chén",
+      "danh_muc_phu": [],
+      "loai_phu": "Chậu rửa chén Đá nhân tạo",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "9,990,000 VNĐ",
+      "gia_so": 9990000,
+      "kich_thuoc": "840*560*224mm",
+      "chat_lieu": "Đá nhân tạo",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Nhựa PP"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 840*560*224mm",
+        "Thân chậu: Đá nhân tạo",
+        "Kết cấu chắc chắn, chống va đập tốt",
+        "Bát lọc rác: Inox 304",
+        "Bộ xả: Nhựa PP"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "840*560*224mm",
+        "Thân chậu": "Đá nhân tạo",
+        "Bát lọc rác": "Inox 304",
+        "Bộ xả": "Nhựa PP"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 38,
+      "trang_catalogue": "72",
+      "hinh_anh": "assets/products/D013.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/D013_drawing.jpg",
+      "bbox_page": {
+        "x": 53.76,
+        "y": 1.78,
+        "w": 43.51,
+        "h": 21.38
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-188-d015",
+      "stt": 188,
+      "ma_san_pham": "D015 “Los Órganos”",
+      "ma_goc": "D015",
+      "ten_san_pham": "Chậu rửa chén đá Los Órganos",
+      "danh_muc": "Chậu rửa chén",
+      "danh_muc_phu": [],
+      "loai_phu": "Chậu rửa chén Đá nhân tạo",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "9,828,000 VNĐ",
+      "gia_so": 9828000,
+      "kich_thuoc": "840*460*230mm",
+      "chat_lieu": "Đá nhân tạo",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Nhựa PP"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 840*460*230mm",
+        "Thân chậu: Đá nhân tạo",
+        "Kết cấu chắc chắn, chống va đập tốt",
+        "Bát lọc rác: Inox 304",
+        "Bộ xả: Nhựa PP"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "840*460*230mm",
+        "Thân chậu": "Đá nhân tạo",
+        "Bát lọc rác": "Inox 304",
+        "Bộ xả": "Nhựa PP"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết"
+      ],
+      "trang_pdf": 38,
+      "trang_catalogue": "72",
+      "hinh_anh": "assets/products/D015.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/D015_drawing.jpg",
+      "bbox_page": {
+        "x": 53.76,
+        "y": 24.71,
+        "w": 43.51,
+        "h": 20.67
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-189-d012",
+      "stt": 189,
+      "ma_san_pham": "D012",
+      "ma_goc": "D012",
+      "ten_san_pham": "Chậu rửa chén thông minh sóng siêu âm & UV",
+      "danh_muc": "Chậu rửa chén",
+      "danh_muc_phu": [],
+      "loai_phu": "Chậu rửa chén thông minh",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "38,232,000 VNĐ",
+      "gia_so": 38232000,
+      "kich_thuoc": "820*480*370mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Làm sạch bằng sóng siêu âm",
+        "Lọc kép phân tách nước kết hợp tia UV",
+        "Nhựa PP"
+      ],
+      "che_do_nuoc": null,
+      "thong_so_ky_thuat": [
+        "Kích thước: 820*480*370mm",
+        "Thân chậu: Inox 304",
+        "Làm sạch bằng sóng siêu âm",
+        "Lọc kép phân tách nước kết hợp tia UV",
+        "Bát lọc rác: Inox 304",
+        "Bộ xả: Nhựa PP"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "820*480*370mm",
+        "Thân chậu": "Inox 304",
+        "Bát lọc rác": "Inox 304",
+        "Bộ xả": "Nhựa PP"
+      },
+      "ghi_chu": "",
+      "badges": [
+        "Tìm hiểu chi tiết",
+        "Luxury Flagship"
+      ],
+      "trang_pdf": 38,
+      "trang_catalogue": "72",
+      "hinh_anh": "assets/products/D012.jpg",
+      "ban_ve_ky_thuat": "assets/drawings/D012_drawing.jpg",
+      "bbox_page": {
+        "x": 53.76,
+        "y": 45.73,
+        "w": 43.68,
+        "h": 24.94
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-190-k009",
+      "stt": 190,
+      "ma_san_pham": "K009",
+      "ma_goc": "K009",
+      "ten_san_pham": "Vòi rửa chén nóng lạnh",
+      "danh_muc": "Vòi bếp",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi rửa chén nóng lạnh",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,188,000 VNĐ",
+      "gia_so": 1188000,
+      "kich_thuoc": "215*Ø45*319mm",
+      "chat_lieu": "hợp kim kẽm",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 215*Ø45*319mm",
+        "Thân vòi: hợp kim kẽm",
+        "Bộ chia nước: đồng thau"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "215*Ø45*319mm",
+        "Thân vòi": "hợp kim kẽm",
+        "Bộ chia nước": "đồng thau"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 40,
+      "trang_catalogue": "75",
+      "hinh_anh": "assets/products/K009.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 4.37,
+        "y": 4.99,
+        "w": 12.85,
+        "h": 25.06
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-191-k012",
+      "stt": 191,
+      "ma_san_pham": "K012",
+      "ma_goc": "K012",
+      "ten_san_pham": "Vòi rửa chén lạnh",
+      "danh_muc": "Vòi bếp",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi rửa chén lạnh",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,188,000 VNĐ",
+      "gia_so": 1188000,
+      "kich_thuoc": "216*Ø45*327mm",
+      "chat_lieu": "hợp kim kẽm",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 216*Ø45*327mm",
+        "Thân vòi: hợp kim kẽm",
+        "Bộ chia nước: đồng thau"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "216*Ø45*327mm",
+        "Thân vòi": "hợp kim kẽm",
+        "Bộ chia nước": "đồng thau"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 40,
+      "trang_catalogue": "75",
+      "hinh_anh": "assets/products/K012.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 19.32,
+        "y": 4.99,
+        "w": 12.77,
+        "h": 25.06
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-192-k011",
+      "stt": 192,
+      "ma_san_pham": "K011",
+      "ma_goc": "K011",
+      "ten_san_pham": "Vòi rửa chén lạnh",
+      "danh_muc": "Vòi bếp",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi rửa chén lạnh dây rút",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "1,620,000 VNĐ",
+      "gia_so": 1620000,
+      "kich_thuoc": "260*Ø57*414mm",
+      "chat_lieu": "hợp kim kẽm",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 260*Ø57*414mm",
+        "Thân vòi: hợp kim kẽm",
+        "Bộ chia nước: đồng thau",
+        "Vòi dây rút"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "260*Ø57*414mm",
+        "Thân vòi": "hợp kim kẽm",
+        "Bộ chia nước": "đồng thau"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 40,
+      "trang_catalogue": "75",
+      "hinh_anh": "assets/products/K011.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 34.27,
+        "y": 4.99,
+        "w": 12.77,
+        "h": 25.06
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-193-k005",
+      "stt": 193,
+      "ma_san_pham": "K005",
+      "ma_goc": "K005",
+      "ten_san_pham": "Vòi rửa chén nóng lạnh",
+      "danh_muc": "Vòi bếp",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi rửa chén nóng lạnh",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "2,160,000 VNĐ",
+      "gia_so": 2160000,
+      "kich_thuoc": "238*Ø50*361mm",
+      "chat_lieu": "hợp kim kẽm",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 238*Ø50*361mm",
+        "Thân vòi: hợp kim kẽm",
+        "Bộ chia nước: đồng thau"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "238*Ø50*361mm",
+        "Thân vòi": "hợp kim kẽm",
+        "Bộ chia nước": "đồng thau"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 40,
+      "trang_catalogue": "75",
+      "hinh_anh": "assets/products/K005.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 4.37,
+        "y": 37.06,
+        "w": 12.85,
+        "h": 24.83
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-194-k006",
+      "stt": 194,
+      "ma_san_pham": "K006",
+      "ma_goc": "K006",
+      "ten_san_pham": "Vòi rửa chén nóng lạnh",
+      "danh_muc": "Vòi bếp",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi rửa chén nóng lạnh",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "2,160,000 VNĐ",
+      "gia_so": 2160000,
+      "kich_thuoc": "223*Ø58*410mm",
+      "chat_lieu": "hợp kim kẽm",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 223*Ø58*410mm",
+        "Thân vòi: hợp kim kẽm",
+        "Bộ chia nước: đồng thau"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "223*Ø58*410mm",
+        "Thân vòi": "hợp kim kẽm",
+        "Bộ chia nước": "đồng thau"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 40,
+      "trang_catalogue": "75",
+      "hinh_anh": "assets/products/K006.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 19.32,
+        "y": 37.06,
+        "w": 12.77,
+        "h": 24.83
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-195-k007",
+      "stt": 195,
+      "ma_san_pham": "K007",
+      "ma_goc": "K007",
+      "ten_san_pham": "Vòi rửa chén nóng lạnh",
+      "danh_muc": "Vòi bếp",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi rửa chén dây silicon",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "2,160,000 VNĐ",
+      "gia_so": 2160000,
+      "kich_thuoc": "270*Ø55*448mm",
+      "chat_lieu": "Hợp kim / Inox 304 / Đồng thau",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 270*Ø55*448mm",
+        "Bộ chia nước: đồng thau",
+        "Dây vòi silicon linh hoạt sử dụng"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "270*Ø55*448mm",
+        "Bộ chia nước": "đồng thau"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 40,
+      "trang_catalogue": "75",
+      "hinh_anh": "assets/products/K007.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 34.27,
+        "y": 37.06,
+        "w": 12.77,
+        "h": 24.83
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-196-k008",
+      "stt": 196,
+      "ma_san_pham": "K008",
+      "ma_goc": "K008",
+      "ten_san_pham": "Vòi rửa chén nóng lạnh",
+      "danh_muc": "Vòi bếp",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi rửa chén nóng lạnh",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "2,160,000 VNĐ",
+      "gia_so": 2160000,
+      "kich_thuoc": "247*Ø53*267mm",
+      "chat_lieu": "hợp kim kẽm",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 247*Ø53*267mm",
+        "Thân vòi: hợp kim kẽm",
+        "Bộ chia nước: đồng thau"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "247*Ø53*267mm",
+        "Thân vòi": "hợp kim kẽm",
+        "Bộ chia nước": "đồng thau"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 40,
+      "trang_catalogue": "75",
+      "hinh_anh": "assets/products/K008.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 4.37,
+        "y": 68.89,
+        "w": 12.85,
+        "h": 24.94
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-197-k001_luxury",
+      "stt": 197,
+      "ma_san_pham": "K001 Luxury",
+      "ma_goc": "K001",
+      "ten_san_pham": "Vòi rửa chén nóng lạnh",
+      "danh_muc": "Vòi bếp",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi rửa chén dây rút Luxury",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "2,268,000 VNĐ",
+      "gia_so": 2268000,
+      "kich_thuoc": "263*Ø51*423mm",
+      "chat_lieu": "Inox 304",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 263*Ø51*423mm",
+        "Thân vòi: Inox 304",
+        "Vòi dây rút"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "263*Ø51*423mm",
+        "Thân vòi": "Inox 304"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 40,
+      "trang_catalogue": "75",
+      "hinh_anh": "assets/products/K001_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 19.32,
+        "y": 68.89,
+        "w": 12.77,
+        "h": 24.94
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-198-k002_luxury",
+      "stt": 198,
+      "ma_san_pham": "K002 Luxury",
+      "ma_goc": "K002",
+      "ten_san_pham": "Vòi rửa chén nóng lạnh",
+      "danh_muc": "Vòi bếp",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi rửa chén nóng lạnh Luxury",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "2,268,000 VNĐ",
+      "gia_so": 2268000,
+      "kich_thuoc": "238*Ø50*335mm",
+      "chat_lieu": "hợp kim kẽm",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 238*Ø50*335mm",
+        "Thân vòi: hợp kim kẽm",
+        "Bộ chia nước: đồng thau"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "238*Ø50*335mm",
+        "Thân vòi": "hợp kim kẽm",
+        "Bộ chia nước": "đồng thau"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 40,
+      "trang_catalogue": "75",
+      "hinh_anh": "assets/products/K002_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 34.27,
+        "y": 68.89,
+        "w": 12.77,
+        "h": 24.94
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-199-k004",
+      "stt": 199,
+      "ma_san_pham": "K004",
+      "ma_goc": "K004",
+      "ten_san_pham": "Vòi rửa chén nóng lạnh",
+      "danh_muc": "Vòi bếp",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi rửa chén nóng lạnh",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "2,160,000 VNĐ",
+      "gia_so": 2160000,
+      "kich_thuoc": "295*Ø46*229mm",
+      "chat_lieu": "hợp kim kẽm",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 295*Ø46*229mm",
+        "Thân vòi: hợp kim kẽm",
+        "Bộ chia nước: đồng thau"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "295*Ø46*229mm",
+        "Thân vòi": "hợp kim kẽm",
+        "Bộ chia nước": "đồng thau"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 40,
+      "trang_catalogue": "76",
+      "hinh_anh": "assets/products/K004.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 54.43,
+        "y": 4.99,
+        "w": 12.94,
+        "h": 25.06
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-200-k003_luxury",
+      "stt": 200,
+      "ma_san_pham": "K003 Luxury",
+      "ma_goc": "K003",
+      "ten_san_pham": "Vòi rửa chén nóng lạnh",
+      "danh_muc": "Vòi bếp",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi rửa chén dây rút Luxury",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Luxury",
+      "gia_niem_yet": "3,024,000 VNĐ",
+      "gia_so": 3024000,
+      "kich_thuoc": "236.8*Ø52*473mm",
+      "chat_lieu": "hợp kim kẽm",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 236.8*Ø52*473mm",
+        "Thân vòi: hợp kim kẽm",
+        "Bộ chia nước: đồng thau",
+        "Vòi dây rút"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "236.8*Ø52*473mm",
+        "Thân vòi": "hợp kim kẽm",
+        "Bộ chia nước": "đồng thau"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 40,
+      "trang_catalogue": "76",
+      "hinh_anh": "assets/products/K003_Luxury.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 69.3,
+        "y": 4.99,
+        "w": 12.85,
+        "h": 25.06
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-201-k010",
+      "stt": 201,
+      "ma_san_pham": "K010",
+      "ma_goc": "K010",
+      "ten_san_pham": "Vòi rửa chén nóng lạnh",
+      "danh_muc": "Vòi bếp",
+      "danh_muc_phu": [],
+      "loai_phu": "Vòi rửa chén tích hợp lọc nước",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "3,132,000 VNĐ",
+      "gia_so": 3132000,
+      "kich_thuoc": "281*Ø51*321mm",
+      "chat_lieu": "hợp kim kẽm",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 281*Ø51*321mm",
+        "Thân vòi: hợp kim kẽm",
+        "Bộ chia nước: đồng thau",
+        "Vòi dây rút",
+        "Tích hợp đầu vòi lấy nước tinh khiết"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "281*Ø51*321mm",
+        "Thân vòi": "hợp kim kẽm",
+        "Bộ chia nước": "đồng thau"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 40,
+      "trang_catalogue": "76",
+      "hinh_anh": "assets/products/K010.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 84.16,
+        "y": 4.99,
+        "w": 13.1,
+        "h": 25.06
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-202-k014",
+      "stt": 202,
+      "ma_san_pham": "K014",
+      "ma_goc": "K014",
+      "ten_san_pham": "Vòi rửa chén cảm ứng",
+      "danh_muc": "Vòi bếp",
+      "danh_muc_phu": [
+        "Vòi cảm ứng"
+      ],
+      "loai_phu": "Vòi rửa chén cảm ứng dây rút",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "10,476,000 VNĐ",
+      "gia_so": 10476000,
+      "kich_thuoc": "423*Ø54.5*263mm",
+      "chat_lieu": "hợp kim kẽm",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Vòi cảm ứng, dây rút"
+      ],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 423*Ø54.5*263mm",
+        "Thân vòi: hợp kim kẽm",
+        "Bộ chia nước: đồng thau",
+        "Vòi cảm ứng, dây rút"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "423*Ø54.5*263mm",
+        "Thân vòi": "hợp kim kẽm",
+        "Bộ chia nước": "đồng thau"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 40,
+      "trang_catalogue": "76",
+      "hinh_anh": "assets/products/K014.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 54.43,
+        "y": 37.06,
+        "w": 12.94,
+        "h": 24.83
+      },
+      "combos_su_dung": []
+    },
+    {
+      "id": "sp-203-k013",
+      "stt": 203,
+      "ma_san_pham": "K013",
+      "ma_goc": "K013",
+      "ten_san_pham": "Vòi rửa chén cảm ứng",
+      "danh_muc": "Vòi bếp",
+      "danh_muc_phu": [
+        "Vòi cảm ứng"
+      ],
+      "loai_phu": "Vòi rửa chén cảm ứng hiển thị nhiệt độ",
+      "thuong_hieu": "LUSHINE",
+      "bo_suu_tap": "Standard",
+      "gia_niem_yet": "12,852,000 VNĐ",
+      "gia_so": 12852000,
+      "kich_thuoc": "425.5*Ø55*263mm",
+      "chat_lieu": "hợp kim kẽm",
+      "be_mat": "Hoàn thiện tiêu chuẩn TUSLO / LUSHINE",
+      "cong_nghe": [
+        "Vòi cảm ứng, dây rút"
+      ],
+      "che_do_nuoc": "Nóng lạnh",
+      "thong_so_ky_thuat": [
+        "Kích thước: 425.5*Ø55*263mm",
+        "Thân vòi: hợp kim kẽm",
+        "Bộ chia nước: đồng thau",
+        "Vòi cảm ứng, dây rút",
+        "Hiển thị nhiệt độ, lượng nước"
+      ],
+      "thong_so_chi_tiet": {
+        "Kích thước": "425.5*Ø55*263mm",
+        "Thân vòi": "hợp kim kẽm",
+        "Bộ chia nước": "đồng thau"
+      },
+      "ghi_chu": "",
+      "badges": [],
+      "trang_pdf": 40,
+      "trang_catalogue": "76",
+      "hinh_anh": "assets/products/K013.jpg",
+      "ban_ve_ky_thuat": null,
+      "bbox_page": {
+        "x": 69.3,
+        "y": 37.06,
+        "w": 12.85,
+        "h": 24.83
+      },
+      "combos_su_dung": []
+    }
+  ],
+  "smart_toilet_matrix": [
+    {
+      "stt": 1,
+      "tinh_nang": "Rửa sau",
+      "dien_giai": "Chức năng rửa vùng phía sau bằng nước, thường sử dụng vòi xịt có áp lực nhẹ nhàng để làm sạch.",
+      "nhom": "Chức năng làm sạch",
+      "E001": false,
+      "E002": false,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 2,
+      "tinh_nang": "Rửa trước",
+      "dien_giai": "Chức năng rửa vùng phía trước, chủ yếu dành cho phụ nữ, giúp vệ sinh nhẹ nhàng hơn.",
+      "nhom": "Chức năng làm sạch",
+      "E001": false,
+      "E002": false,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 3,
+      "tinh_nang": "Rửa dao động",
+      "dien_giai": "Vòi rửa di chuyển qua lại để làm sạch kỹ hơn so với chế độ rửa thông thường.",
+      "nhom": "Chức năng làm sạch",
+      "E001": false,
+      "E002": false,
+      "E003": true,
+      "E004": false
+    },
+    {
+      "stt": 4,
+      "tinh_nang": "Điều chỉnh vị trí vòi xịt",
+      "dien_giai": "Cho phép điều chỉnh vị trí của vòi rửa để phù hợp với nhu cầu sử dụng của từng người.",
+      "nhom": "Chức năng làm sạch",
+      "E001": false,
+      "E002": false,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 5,
+      "tinh_nang": "Sưởi ấm bệ ngồi",
+      "dien_giai": "Làm ấm bệ ngồi, giúp người dùng cảm thấy thoải mái hơn, đặc biệt trong mùa lạnh.",
+      "nhom": "Tiện nghi & Sưởi ấm",
+      "E001": true,
+      "E002": true,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 6,
+      "tinh_nang": "Điều chỉnh nhiệt độ bệ ngồi",
+      "dien_giai": "Cho phép thay đổi mức độ nhiệt của bệ ngồi theo ý muốn.",
+      "nhom": "Tiện nghi & Sưởi ấm",
+      "E001": true,
+      "E002": true,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 7,
+      "tinh_nang": "Điều chỉnh áp lực nước",
+      "dien_giai": "Cho phép điều chỉnh mức độ mạnh nhẹ của tia nước khi rửa.",
+      "nhom": "Chức năng làm sạch",
+      "E001": false,
+      "E002": false,
+      "E003": true,
+      "E004": false
+    },
+    {
+      "stt": 8,
+      "tinh_nang": "Điều chỉnh nhiệt độ nước",
+      "dien_giai": "Điều chỉnh nhiệt độ của nước rửa để phù hợp với nhu cầu cá nhân.",
+      "nhom": "Tiện nghi & Sưởi ấm",
+      "E001": false,
+      "E002": false,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 9,
+      "tinh_nang": "Sấy khô bằng khí ấm",
+      "dien_giai": "Chức năng sấy khô bằng luồng khí ấm sau khi rửa, giúp hạn chế sử dụng giấy vệ sinh.",
+      "nhom": "Tiện nghi & Sưởi ấm",
+      "E001": false,
+      "E002": false,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 10,
+      "tinh_nang": "Điều chỉnh nhiệt độ gió sấy",
+      "dien_giai": "Điều chỉnh mức độ ấm của luồng khí sấy khô.",
+      "nhom": "Tiện nghi & Sưởi ấm",
+      "E001": false,
+      "E002": false,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 11,
+      "tinh_nang": "Làm sạch bằng nước ấm",
+      "dien_giai": "Chức năng phun nước ấm để vệ sinh, mang lại sự dễ chịu hơn so với nước lạnh.",
+      "nhom": "Chức năng làm sạch",
+      "E001": false,
+      "E002": false,
+      "E003": true,
+      "E004": false
+    },
+    {
+      "stt": 12,
+      "tinh_nang": "Làm nóng nước tức thời",
+      "dien_giai": "Làm nóng nước ngay lập tức khi sử dụng, không cần bình chứa nước nóng.",
+      "nhom": "Tiện nghi & Sưởi ấm",
+      "E001": false,
+      "E002": false,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 13,
+      "tinh_nang": "Tự động mở nắp",
+      "dien_giai": "Nắp bồn cầu tự động mở khi người dùng tới gần.",
+      "nhom": "Tự động hóa",
+      "E001": false,
+      "E002": false,
+      "E003": false,
+      "E004": true
+    },
+    {
+      "stt": 14,
+      "tinh_nang": "Khử mùi tự động",
+      "dien_giai": "Tự động loại bỏ mùi khó chịu bằng hệ thống khử mùi tích hợp.",
+      "nhom": "Vệ sinh & Kháng khuẩn",
+      "E001": false,
+      "E002": false,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 15,
+      "tinh_nang": "Tự động làm ướt lòng bồn cầu",
+      "dien_giai": "Trước khi sử dụng, bồn cầu sẽ tự động phun một lớp nước lên bề mặt để giảm bám bẩn.",
+      "nhom": "Vệ sinh & Kháng khuẩn",
+      "E001": false,
+      "E002": true,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 16,
+      "tinh_nang": "Xả nước khi mất điện",
+      "dien_giai": "Cho phép xả nước ngay cả khi mất điện.",
+      "nhom": "Thiết kế & An toàn",
+      "E001": true,
+      "E002": true,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 17,
+      "tinh_nang": "Ghi nhớ người dùng",
+      "dien_giai": "Lưu lại các cài đặt cá nhân của người dùng (như nhiệt độ nước, áp lực nước, vị trí vòi rửa), giúp tiết kiệm thời gian điều chỉnh khi sử dụng lần sau.",
+      "nhom": "Điều khiển",
+      "E001": false,
+      "E002": false,
+      "E003": true,
+      "E004": false
+    },
+    {
+      "stt": 18,
+      "tinh_nang": "Vòi rửa tự làm sạch",
+      "dien_giai": "Vòi rửa tự động làm sạch trước và sau khi sử dụng, đảm bảo vệ sinh tối đa.",
+      "nhom": "Vệ sinh & Kháng khuẩn",
+      "E001": false,
+      "E002": false,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 19,
+      "tinh_nang": "Tự động xả sau khi người dùng rời khỏi bệ ngồi",
+      "dien_giai": "Hệ thống cảm biến trên bệ ngồi giúp phát hiện người dùng đã rời khỏi bệ ngồi và tự động kích hoạt chế độ xả nước.",
+      "nhom": "Tự động hóa",
+      "E001": true,
+      "E002": true,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 20,
+      "tinh_nang": "Xả nước áp suất thấp",
+      "dien_giai": "Hỗ trợ xả nước ngay cả khi áp suất nước đầu vào yếu, giúp duy trì hiệu quả sử dụng ở những khu vực có áp lực nước không ổn định.",
+      "nhom": "Thiết kế & An toàn",
+      "E001": false,
+      "E002": true,
+      "E003": true,
+      "E004": false
+    },
+    {
+      "stt": 21,
+      "tinh_nang": "Mở nắp bằng cảm biến chân",
+      "dien_giai": "Nắp bồn cầu tự động mở khi người dùng đưa chân vào vùng cảm biến.",
+      "nhom": "Tự động hóa",
+      "E001": false,
+      "E002": false,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 22,
+      "tinh_nang": "Xả nước tự động",
+      "dien_giai": "Bồn cầu tự động xả sau khi sử dụng bằng cảm biến radar từ xa, không cần thao tác thủ công.",
+      "nhom": "Tự động hóa",
+      "E001": false,
+      "E002": false,
+      "E003": true,
+      "E004": false
+    },
+    {
+      "stt": 23,
+      "tinh_nang": "Đèn LED ban đêm",
+      "dien_giai": "Đèn LED chiếu sáng nhẹ nhàng vào ban đêm, giúp người dùng dễ dàng tìm thấy bồn cầu mà không cần bật đèn mạnh gây chói mắt.",
+      "nhom": "Tiện nghi & Sưởi ấm",
+      "E001": true,
+      "E002": true,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 24,
+      "tinh_nang": "Nước khử trùng",
+      "dien_giai": "Hệ thống khử trùng nước giúp làm sạch bề mặt bồn cầu và vòi rửa, đảm bảo vệ sinh cho người sử dụng.",
+      "nhom": "Vệ sinh & Kháng khuẩn",
+      "E001": false,
+      "E002": false,
+      "E003": true,
+      "E004": false
+    },
+    {
+      "stt": 25,
+      "tinh_nang": "Điều khiển từ xa",
+      "dien_giai": "Cho phép điều khiển các chức năng của bồn cầu bằng remote, tăng thêm sự tiện lợi.",
+      "nhom": "Điều khiển",
+      "E001": true,
+      "E002": false,
+      "E003": true,
+      "E004": true
+    },
+    {
+      "stt": 26,
+      "tinh_nang": "Bộ lọc nước đầu vào",
+      "dien_giai": "Giúp lọc tạp chất trong nước trước khi sử dụng để đảm bảo nước sạch hơn, bảo vệ hệ thống bên trong.",
+      "nhom": "Vệ sinh & Kháng khuẩn",
+      "E001": false,
+      "E002": false,
+      "E003": false,
+      "E004": true
+    },
+    {
+      "stt": 27,
+      "tinh_nang": "Xả nước bằng cảm biến chân",
+      "dien_giai": "Người dùng có thể kích hoạt chế độ xả nước bằng cách đặt chân vào vùng cảm biến, giúp thao tác nhanh chóng mà không cần chạm tay.",
+      "nhom": "Tự động hóa",
+      "E001": true,
+      "E002": true,
+      "E003": true,
+      "E004": true
+    }
+  ],
+  "combos": [
+    {
+      "id": "combo-eco-01",
+      "ma_combo": "Eco 01",
+      "ten_combo": "Combo Tuslo Eco 01 — “Đủ Để Bắt Đầu, Đẹp Để Ở Lâu”",
+      "phan_khuc": "Eco",
+      "mo_ta": "“ĐỦ ĐỂ BẮT ĐẦU, ĐẸP ĐỂ Ở LÂU” — Giải pháp phòng tắm đồng bộ 11 món tối ưu chi phí, bền bỉ cho căn hộ hiện đại.",
+      "trang_pdf": 42,
+      "trang_catalogue": "79 - 80",
+      "hinh_anh": "assets/combos/combo-eco-01.jpg",
+      "bbox_page": {
+        "x": 55.02,
+        "y": 5.7,
+        "w": 39.48,
+        "h": 41.22
+      },
+      "so_luong_san_pham": 11,
+      "tong_gia_tri": 8468000,
+      "tong_gia_tri_fmt": "8,468,000 VNĐ",
+      "san_pham": [
+        {
+          "ma_san_pham": "T006",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "vai_tro": "Bồn cầu",
+          "danh_muc": "Bồn cầu 1 khối",
+          "gia_niem_yet": "3,024,000 VNĐ",
+          "gia_so": 3024000,
+          "hinh_anh": "assets/products/T006.jpg",
+          "trang_pdf": 12
+        },
+        {
+          "ma_san_pham": "L049",
+          "ten_san_pham": "Lavabo treo tường",
+          "vai_tro": "Lavabo",
+          "danh_muc": "Lavabo",
+          "gia_niem_yet": "1,350,000 VNĐ",
+          "gia_so": 1350000,
+          "hinh_anh": "assets/products/L049.jpg",
+          "trang_pdf": 20
+        },
+        {
+          "ma_san_pham": "F011",
+          "ten_san_pham": "Vòi lavabo",
+          "vai_tro": "Vòi sen / lavabo",
+          "danh_muc": "Vòi lavabo",
+          "gia_niem_yet": "950,000 VNĐ",
+          "gia_so": 950000,
+          "hinh_anh": "assets/products/F011.jpg",
+          "trang_pdf": 23
+        },
+        {
+          "ma_san_pham": "S020",
+          "ten_san_pham": "Sen dây",
+          "vai_tro": "Sen tắm",
+          "danh_muc": "Sen tắm",
+          "gia_niem_yet": "864,000 VNĐ",
+          "gia_so": 864000,
+          "hinh_anh": "assets/products/S020.jpg",
+          "trang_pdf": 26
+        },
+        {
+          "ma_san_pham": "M001",
+          "ten_san_pham": "Gương",
+          "vai_tro": "Gương",
+          "danh_muc": "Gương",
+          "gia_niem_yet": "313,200 VNĐ",
+          "gia_so": 313200,
+          "hinh_anh": "assets/products/M001.jpg",
+          "trang_pdf": 28
+        },
+        {
+          "ma_san_pham": "A037",
+          "ten_san_pham": "Kệ treo giấy vệ sinh",
+          "vai_tro": "Kệ giấy vệ sinh",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "324,000 VNĐ",
+          "gia_so": 324000,
+          "hinh_anh": "assets/products/A037.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A030",
+          "ten_san_pham": "Thanh treo khăn",
+          "vai_tro": "Kệ treo khăn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "270,000 VNĐ",
+          "gia_so": 270000,
+          "hinh_anh": "assets/products/A030.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A003",
+          "ten_san_pham": "Vòi xịt vệ sinh",
+          "vai_tro": "Vòi xịt",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "194,400 VNĐ",
+          "gia_so": 194400,
+          "hinh_anh": "assets/products/A003.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A043",
+          "ten_san_pham": "Thoát sàn",
+          "vai_tro": "Thoát sàn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "216,000 VNĐ",
+          "gia_so": 216000,
+          "hinh_anh": "assets/products/A043.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A035",
+          "ten_san_pham": "Kệ kính",
+          "vai_tro": "Kệ gương",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "552,000 VNĐ",
+          "gia_so": 552000,
+          "hinh_anh": "assets/products/A035.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A050",
+          "ten_san_pham": "Bộ xả lavabo nút nhấn Inox",
+          "vai_tro": "Bộ xả",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "410,400 VNĐ",
+          "gia_so": 410400,
+          "hinh_anh": "assets/products/A050.jpg",
+          "trang_pdf": 33
+        }
+      ]
+    },
+    {
+      "id": "combo-eco-02",
+      "ma_combo": "Eco 02",
+      "ten_combo": "Combo Tuslo Eco 02 — “Đủ Đầy Tiện Nghi, Đầu Tư Hợp Lý”",
+      "phan_khuc": "Eco",
+      "mo_ta": "“ĐỦ ĐẦY TIỆN NGHI, ĐẦU TƯ HỢP LÝ” — Bộ combo 13 món với bồn cầu T005 Bán Chạy, lavabo L003 và sen tắm nóng lạnh S012.",
+      "trang_pdf": 42,
+      "trang_catalogue": "79 - 80",
+      "hinh_anh": "assets/combos/combo-eco-02.jpg",
+      "bbox_page": {
+        "x": 55.02,
+        "y": 51.31,
+        "w": 39.48,
+        "h": 41.34
+      },
+      "so_luong_san_pham": 13,
+      "tong_gia_tri": 10379400,
+      "tong_gia_tri_fmt": "10,379,400 VNĐ",
+      "san_pham": [
+        {
+          "ma_san_pham": "T005",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "vai_tro": "Bồn cầu",
+          "danh_muc": "Bồn cầu 1 khối",
+          "gia_niem_yet": "3,024,000 VNĐ",
+          "gia_so": 3024000,
+          "hinh_anh": "assets/products/T005.jpg",
+          "trang_pdf": 12
+        },
+        {
+          "ma_san_pham": "L003",
+          "ten_san_pham": "Lavabo treo tường",
+          "vai_tro": "Lavabo",
+          "danh_muc": "Lavabo",
+          "gia_niem_yet": "1,512,000 VNĐ",
+          "gia_so": 1512000,
+          "hinh_anh": "assets/products/L003.jpg",
+          "trang_pdf": 20
+        },
+        {
+          "ma_san_pham": "F017",
+          "ten_san_pham": "Vòi lavabo",
+          "vai_tro": "Vòi lavabo",
+          "danh_muc": "Vòi lavabo",
+          "gia_niem_yet": "993,000 VNĐ",
+          "gia_so": 993000,
+          "hinh_anh": "assets/products/F017.jpg",
+          "trang_pdf": 23
+        },
+        {
+          "ma_san_pham": "S012",
+          "ten_san_pham": "Sen dây",
+          "vai_tro": "Sen tắm",
+          "danh_muc": "Sen tắm",
+          "gia_niem_yet": "1,706,400 VNĐ",
+          "gia_so": 1706400,
+          "hinh_anh": "assets/products/S012.jpg",
+          "trang_pdf": 26
+        },
+        {
+          "ma_san_pham": "M002",
+          "ten_san_pham": "Gương",
+          "vai_tro": "Gương",
+          "danh_muc": "Gương",
+          "gia_niem_yet": "313,200 VNĐ",
+          "gia_so": 313200,
+          "hinh_anh": "assets/products/M002.jpg",
+          "trang_pdf": 28
+        },
+        {
+          "ma_san_pham": "A037",
+          "ten_san_pham": "Kệ treo giấy vệ sinh",
+          "vai_tro": "Kệ giấy vệ sinh",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "324,000 VNĐ",
+          "gia_so": 324000,
+          "hinh_anh": "assets/products/A037.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A030",
+          "ten_san_pham": "Thanh treo khăn",
+          "vai_tro": "Kệ treo khăn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "270,000 VNĐ",
+          "gia_so": 270000,
+          "hinh_anh": "assets/products/A030.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A003",
+          "ten_san_pham": "Vòi xịt vệ sinh",
+          "vai_tro": "Vòi xịt",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "194,400 VNĐ",
+          "gia_so": 194400,
+          "hinh_anh": "assets/products/A003.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A043",
+          "ten_san_pham": "Thoát sàn",
+          "vai_tro": "Thoát sàn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "216,000 VNĐ",
+          "gia_so": 216000,
+          "hinh_anh": "assets/products/A043.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A035",
+          "ten_san_pham": "Kệ kính",
+          "vai_tro": "Kệ gương",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "552,000 VNĐ",
+          "gia_so": 552000,
+          "hinh_anh": "assets/products/A035.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A038",
+          "ten_san_pham": "Móc áo",
+          "vai_tro": "Móc treo áo",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "432,000 VNĐ",
+          "gia_so": 432000,
+          "hinh_anh": "assets/products/A038.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A050",
+          "ten_san_pham": "Bộ xả lavabo nút nhấn Inox",
+          "vai_tro": "Bộ xả",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "410,400 VNĐ",
+          "gia_so": 410400,
+          "hinh_anh": "assets/products/A050.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A010",
+          "ten_san_pham": "Thanh trượt sen tắm",
+          "vai_tro": "Tay sen / Thanh trượt",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "432,000 VNĐ",
+          "gia_so": 432000,
+          "hinh_anh": "assets/products/A010.jpg",
+          "trang_pdf": 34
+        }
+      ]
+    },
+    {
+      "id": "combo-plus-01",
+      "ma_combo": "Plus 01",
+      "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+      "phan_khuc": "Plus",
+      "mo_ta": "“THUẬN MẮT KHI NHÌN, TIỆN ÍCH KHI DÙNG” — Bộ 15 món đồng bộ với bồn cầu T019 Pro, lavabo L036 Pro, vòi F016 và sen tắm S001 Luxury.",
+      "trang_pdf": 43,
+      "trang_catalogue": "81",
+      "hinh_anh": "assets/combos/combo-plus-01.jpg",
+      "bbox_page": {
+        "x": 5.71,
+        "y": 5.7,
+        "w": 38.64,
+        "h": 41.22
+      },
+      "so_luong_san_pham": 15,
+      "tong_gia_tri": 14850000,
+      "tong_gia_tri_fmt": "14,850,000 VNĐ",
+      "san_pham": [
+        {
+          "ma_san_pham": "T019 Pro",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "vai_tro": "Bồn cầu",
+          "danh_muc": "Bồn cầu 1 khối",
+          "gia_niem_yet": "4,104,000 VNĐ",
+          "gia_so": 4104000,
+          "hinh_anh": "assets/products/T019_Pro.jpg",
+          "trang_pdf": 12
+        },
+        {
+          "ma_san_pham": "L036 Pro",
+          "ten_san_pham": "Lavabo treo tường",
+          "vai_tro": "Lavabo",
+          "danh_muc": "Lavabo",
+          "gia_niem_yet": "2,808,000 VNĐ",
+          "gia_so": 2808000,
+          "hinh_anh": "assets/products/L036_Pro.jpg",
+          "trang_pdf": 21
+        },
+        {
+          "ma_san_pham": "F016",
+          "ten_san_pham": "Vòi lavabo",
+          "vai_tro": "Vòi lavabo",
+          "danh_muc": "Vòi lavabo",
+          "gia_niem_yet": "1,058,000 VNĐ",
+          "gia_so": 1058000,
+          "hinh_anh": "assets/products/F016.jpg",
+          "trang_pdf": 23
+        },
+        {
+          "ma_san_pham": "S001 Luxury",
+          "ten_san_pham": "Sen dây",
+          "vai_tro": "Sen tắm",
+          "danh_muc": "Sen tắm",
+          "gia_niem_yet": "2,160,000 VNĐ",
+          "gia_so": 2160000,
+          "hinh_anh": "assets/products/S001_Luxury.jpg",
+          "trang_pdf": 26
+        },
+        {
+          "ma_san_pham": "M004",
+          "ten_san_pham": "Gương khung",
+          "vai_tro": "Gương",
+          "danh_muc": "Gương",
+          "gia_niem_yet": "1,069,000 VNĐ",
+          "gia_so": 1069000,
+          "hinh_anh": "assets/products/M004.jpg",
+          "trang_pdf": 28
+        },
+        {
+          "ma_san_pham": "A037",
+          "ten_san_pham": "Kệ treo giấy vệ sinh",
+          "vai_tro": "Kệ giấy vệ sinh",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "324,000 VNĐ",
+          "gia_so": 324000,
+          "hinh_anh": "assets/products/A037.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A028",
+          "ten_san_pham": "Thanh treo khăn",
+          "vai_tro": "Kệ treo khăn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "345,000 VNĐ",
+          "gia_so": 345000,
+          "hinh_anh": "assets/products/A028.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A027",
+          "ten_san_pham": "Kệ đựng bàn chải đánh răng",
+          "vai_tro": "Kệ ly",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "313,200 VNĐ",
+          "gia_so": 313200,
+          "hinh_anh": "assets/products/A027.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A034",
+          "ten_san_pham": "Kệ đựng xà phòng",
+          "vai_tro": "Kệ xà phòng",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "324,000 VNĐ",
+          "gia_so": 324000,
+          "hinh_anh": "assets/products/A034.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A035",
+          "ten_san_pham": "Kệ kính",
+          "vai_tro": "Kệ gương",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "552,000 VNĐ",
+          "gia_so": 552000,
+          "hinh_anh": "assets/products/A035.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A038",
+          "ten_san_pham": "Móc áo",
+          "vai_tro": "Móc treo áo",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "432,000 VNĐ",
+          "gia_so": 432000,
+          "hinh_anh": "assets/products/A038.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A024 Pro",
+          "ten_san_pham": "Vòi xịt vệ sinh",
+          "vai_tro": "Vòi xịt",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "302,400 VNĐ",
+          "gia_so": 302400,
+          "hinh_anh": "assets/products/A024_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A045",
+          "ten_san_pham": "Thoát sàn",
+          "vai_tro": "Thoát sàn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "216,000 VNĐ",
+          "gia_so": 216000,
+          "hinh_anh": "assets/products/A045.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A050",
+          "ten_san_pham": "Bộ xả lavabo nút nhấn Inox",
+          "vai_tro": "Bộ xả",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "410,400 VNĐ",
+          "gia_so": 410400,
+          "hinh_anh": "assets/products/A050.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A011",
+          "ten_san_pham": "Thanh trượt sen tắm",
+          "vai_tro": "Tay sen / Thanh trượt",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "432,000 VNĐ",
+          "gia_so": 432000,
+          "hinh_anh": "assets/products/A011.jpg",
+          "trang_pdf": 34
+        }
+      ]
+    },
+    {
+      "id": "combo-plus-02",
+      "ma_combo": "Plus 02",
+      "ten_combo": "Combo Tuslo Plus 02 — “Một Lần Chọn, Trải Nghiệm Dài Lâu”",
+      "phan_khuc": "Plus",
+      "mo_ta": "“MỘT LẦN CHỌN, TRẢI NGHIỆM DÀI LÂU” — Bộ 14 thiết bị nâng cấp với bồn cầu T010 Pro, lavabo L006, vòi xoay 360° F009 Luxury và sen cây S009.",
+      "trang_pdf": 43,
+      "trang_catalogue": "81",
+      "hinh_anh": "assets/combos/combo-plus-02.jpg",
+      "bbox_page": {
+        "x": 5.71,
+        "y": 51.31,
+        "w": 38.64,
+        "h": 41.34
+      },
+      "so_luong_san_pham": 14,
+      "tong_gia_tri": 15726000,
+      "tong_gia_tri_fmt": "15,726,000 VNĐ",
+      "san_pham": [
+        {
+          "ma_san_pham": "T010 Pro",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "vai_tro": "Bồn cầu",
+          "danh_muc": "Bồn cầu 1 khối",
+          "gia_niem_yet": "4,104,000 VNĐ",
+          "gia_so": 4104000,
+          "hinh_anh": "assets/products/T010_Pro.jpg",
+          "trang_pdf": 12
+        },
+        {
+          "ma_san_pham": "L006",
+          "ten_san_pham": "Lavabo đặt bàn",
+          "vai_tro": "Lavabo",
+          "danh_muc": "Lavabo",
+          "gia_niem_yet": "1,350,000 VNĐ",
+          "gia_so": 1350000,
+          "hinh_anh": "assets/products/L006.jpg",
+          "trang_pdf": 20
+        },
+        {
+          "ma_san_pham": "F009 Luxury",
+          "ten_san_pham": "Vòi lavabo",
+          "vai_tro": "Vòi lavabo",
+          "danh_muc": "Vòi lavabo",
+          "gia_niem_yet": "3,024,000 VNĐ",
+          "gia_so": 3024000,
+          "hinh_anh": "assets/products/F009_Luxury.jpg",
+          "trang_pdf": 23
+        },
+        {
+          "ma_san_pham": "S009",
+          "ten_san_pham": "Sen cây",
+          "vai_tro": "Sen tắm",
+          "danh_muc": "Sen tắm",
+          "gia_niem_yet": "2,700,000 VNĐ",
+          "gia_so": 2700000,
+          "hinh_anh": "assets/products/S009.jpg",
+          "trang_pdf": 26
+        },
+        {
+          "ma_san_pham": "M004",
+          "ten_san_pham": "Gương khung",
+          "vai_tro": "Gương",
+          "danh_muc": "Gương",
+          "gia_niem_yet": "1,069,000 VNĐ",
+          "gia_so": 1069000,
+          "hinh_anh": "assets/products/M004.jpg",
+          "trang_pdf": 28
+        },
+        {
+          "ma_san_pham": "A037",
+          "ten_san_pham": "Kệ treo giấy vệ sinh",
+          "vai_tro": "Kệ giấy vệ sinh",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "324,000 VNĐ",
+          "gia_so": 324000,
+          "hinh_anh": "assets/products/A037.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A031",
+          "ten_san_pham": "Giá treo khăn",
+          "vai_tro": "Kệ treo khăn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "486,000 VNĐ",
+          "gia_so": 486000,
+          "hinh_anh": "assets/products/A031.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A027",
+          "ten_san_pham": "Kệ đựng bàn chải đánh răng",
+          "vai_tro": "Kệ ly",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "313,200 VNĐ",
+          "gia_so": 313200,
+          "hinh_anh": "assets/products/A027.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A034",
+          "ten_san_pham": "Kệ đựng xà phòng",
+          "vai_tro": "Kệ xà phòng",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "324,000 VNĐ",
+          "gia_so": 324000,
+          "hinh_anh": "assets/products/A034.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A035",
+          "ten_san_pham": "Kệ kính",
+          "vai_tro": "Kệ gương",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "552,000 VNĐ",
+          "gia_so": 552000,
+          "hinh_anh": "assets/products/A035.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A040",
+          "ten_san_pham": "Móc áo",
+          "vai_tro": "Móc treo áo",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "551,000 VNĐ",
+          "gia_so": 551000,
+          "hinh_anh": "assets/products/A040.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A024 Pro",
+          "ten_san_pham": "Vòi xịt vệ sinh",
+          "vai_tro": "Vòi xịt",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "302,400 VNĐ",
+          "gia_so": 302400,
+          "hinh_anh": "assets/products/A024_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A045",
+          "ten_san_pham": "Thoát sàn",
+          "vai_tro": "Thoát sàn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "216,000 VNĐ",
+          "gia_so": 216000,
+          "hinh_anh": "assets/products/A045.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A050",
+          "ten_san_pham": "Bộ xả lavabo nút nhấn Inox",
+          "vai_tro": "Bộ xả",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "410,400 VNĐ",
+          "gia_so": 410400,
+          "hinh_anh": "assets/products/A050.jpg",
+          "trang_pdf": 33
+        }
+      ]
+    },
+    {
+      "id": "combo-plus-03",
+      "ma_combo": "Plus 03",
+      "ten_combo": "Combo Tuslo Plus 03 — “Đẹp Hôm Nay, Hợp Mãi Về Sau”",
+      "phan_khuc": "Plus",
+      "mo_ta": "“ĐẸP HÔM NAY, HỢP MÃI VỀ SAU” — Bộ 14 món với bồn cầu T014 Pro, lavabo L011, vòi F014 và sen cây S005.",
+      "trang_pdf": 43,
+      "trang_catalogue": "82",
+      "hinh_anh": "assets/combos/combo-plus-03.jpg",
+      "bbox_page": {
+        "x": 55.6,
+        "y": 5.7,
+        "w": 38.89,
+        "h": 41.22
+      },
+      "so_luong_san_pham": 14,
+      "tong_gia_tri": 14775000,
+      "tong_gia_tri_fmt": "14,775,000 VNĐ",
+      "san_pham": [
+        {
+          "ma_san_pham": "T014 Pro",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "vai_tro": "Bồn cầu",
+          "danh_muc": "Bồn cầu 1 khối",
+          "gia_niem_yet": "4,320,000 VNĐ",
+          "gia_so": 4320000,
+          "hinh_anh": "assets/products/T014_Pro.jpg",
+          "trang_pdf": 13
+        },
+        {
+          "ma_san_pham": "L011",
+          "ten_san_pham": "Lavabo đặt bàn/treo tường",
+          "vai_tro": "Lavabo",
+          "danh_muc": "Lavabo",
+          "gia_niem_yet": "1,620,000 VNĐ",
+          "gia_so": 1620000,
+          "hinh_anh": "assets/products/L011.jpg",
+          "trang_pdf": 21
+        },
+        {
+          "ma_san_pham": "F014",
+          "ten_san_pham": "Vòi lavabo",
+          "vai_tro": "Vòi lavabo",
+          "danh_muc": "Vòi lavabo",
+          "gia_niem_yet": "1,188,000 VNĐ",
+          "gia_so": 1188000,
+          "hinh_anh": "assets/products/F014.jpg",
+          "trang_pdf": 23
+        },
+        {
+          "ma_san_pham": "S005",
+          "ten_san_pham": "Sen cây",
+          "vai_tro": "Sen tắm",
+          "danh_muc": "Sen tắm",
+          "gia_niem_yet": "2,700,000 VNĐ",
+          "gia_so": 2700000,
+          "hinh_anh": "assets/products/S005.jpg",
+          "trang_pdf": 26
+        },
+        {
+          "ma_san_pham": "M003",
+          "ten_san_pham": "Gương khung",
+          "vai_tro": "Gương",
+          "danh_muc": "Gương",
+          "gia_niem_yet": "1,069,000 VNĐ",
+          "gia_so": 1069000,
+          "hinh_anh": "assets/products/M003.jpg",
+          "trang_pdf": 28
+        },
+        {
+          "ma_san_pham": "A037",
+          "ten_san_pham": "Kệ treo giấy vệ sinh",
+          "vai_tro": "Kệ giấy vệ sinh",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "324,000 VNĐ",
+          "gia_so": 324000,
+          "hinh_anh": "assets/products/A037.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A029",
+          "ten_san_pham": "Giá treo khăn",
+          "vai_tro": "Giá treo khăn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "723,000 VNĐ",
+          "gia_so": 723000,
+          "hinh_anh": "assets/products/A029.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A027",
+          "ten_san_pham": "Kệ đựng bàn chải đánh răng",
+          "vai_tro": "Kệ ly",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "313,200 VNĐ",
+          "gia_so": 313200,
+          "hinh_anh": "assets/products/A027.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A084 Pro",
+          "ten_san_pham": "Hộp đựng xà phòng",
+          "vai_tro": "Hộp đựng xà phòng",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "442,800 VNĐ",
+          "gia_so": 442800,
+          "hinh_anh": "assets/products/A084_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A035",
+          "ten_san_pham": "Kệ kính",
+          "vai_tro": "Kệ gương",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "552,000 VNĐ",
+          "gia_so": 552000,
+          "hinh_anh": "assets/products/A035.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A040",
+          "ten_san_pham": "Móc áo",
+          "vai_tro": "Móc treo áo",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "551,000 VNĐ",
+          "gia_so": 551000,
+          "hinh_anh": "assets/products/A040.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A023 Pro",
+          "ten_san_pham": "Vòi xịt vệ sinh",
+          "vai_tro": "Vòi xịt",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "345,600 VNĐ",
+          "gia_so": 345600,
+          "hinh_anh": "assets/products/A023_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A045",
+          "ten_san_pham": "Thoát sàn",
+          "vai_tro": "Thoát sàn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "216,000 VNĐ",
+          "gia_so": 216000,
+          "hinh_anh": "assets/products/A045.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A050",
+          "ten_san_pham": "Bộ xả lavabo nút nhấn Inox",
+          "vai_tro": "Bộ xả",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "410,400 VNĐ",
+          "gia_so": 410400,
+          "hinh_anh": "assets/products/A050.jpg",
+          "trang_pdf": 33
+        }
+      ]
+    },
+    {
+      "id": "combo-plus-04",
+      "ma_combo": "Plus 04",
+      "ten_combo": "Combo Tuslo Plus 04 — “Không Gian Xứng Đáng Với Ngôi Nhà Của Bạn”",
+      "phan_khuc": "Plus",
+      "mo_ta": "“KHÔNG GIAN XỨNG ĐÁNG VỚI NGÔI NHÀ CỦA BẠN” — Bộ 14 món tinh tế với bồn cầu T013 Pro, lavabo đặt bàn L005, vòi cổ cao F015 và sen cây S006.",
+      "trang_pdf": 43,
+      "trang_catalogue": "82",
+      "hinh_anh": "assets/combos/combo-plus-04.jpg",
+      "bbox_page": {
+        "x": 55.6,
+        "y": 51.31,
+        "w": 38.89,
+        "h": 41.34
+      },
+      "so_luong_san_pham": 14,
+      "tong_gia_tri": 15855000,
+      "tong_gia_tri_fmt": "15,855,000 VNĐ",
+      "san_pham": [
+        {
+          "ma_san_pham": "T013 Pro",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "vai_tro": "Bồn cầu",
+          "danh_muc": "Bồn cầu 1 khối",
+          "gia_niem_yet": "4,320,000 VNĐ",
+          "gia_so": 4320000,
+          "hinh_anh": "assets/products/T013_Pro.jpg",
+          "trang_pdf": 12
+        },
+        {
+          "ma_san_pham": "L005",
+          "ten_san_pham": "Lavabo đặt bàn",
+          "vai_tro": "Lavabo",
+          "danh_muc": "Lavabo",
+          "gia_niem_yet": "1,404,000 VNĐ",
+          "gia_so": 1404000,
+          "hinh_anh": "assets/products/L005.jpg",
+          "trang_pdf": 20
+        },
+        {
+          "ma_san_pham": "F015",
+          "ten_san_pham": "Vòi lavabo",
+          "vai_tro": "Vòi lavabo",
+          "danh_muc": "Vòi lavabo",
+          "gia_niem_yet": "1,944,000 VNĐ",
+          "gia_so": 1944000,
+          "hinh_anh": "assets/products/F015.jpg",
+          "trang_pdf": 23
+        },
+        {
+          "ma_san_pham": "S006",
+          "ten_san_pham": "Sen cây",
+          "vai_tro": "Sen tắm",
+          "danh_muc": "Sen tắm",
+          "gia_niem_yet": "3,240,000 VNĐ",
+          "gia_so": 3240000,
+          "hinh_anh": "assets/products/S006.jpg",
+          "trang_pdf": 26
+        },
+        {
+          "ma_san_pham": "M003",
+          "ten_san_pham": "Gương khung",
+          "vai_tro": "Gương",
+          "danh_muc": "Gương",
+          "gia_niem_yet": "1,069,000 VNĐ",
+          "gia_so": 1069000,
+          "hinh_anh": "assets/products/M003.jpg",
+          "trang_pdf": 28
+        },
+        {
+          "ma_san_pham": "A037",
+          "ten_san_pham": "Kệ treo giấy vệ sinh",
+          "vai_tro": "Kệ giấy vệ sinh",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "324,000 VNĐ",
+          "gia_so": 324000,
+          "hinh_anh": "assets/products/A037.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A029",
+          "ten_san_pham": "Giá treo khăn",
+          "vai_tro": "Giá treo khăn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "723,000 VNĐ",
+          "gia_so": 723000,
+          "hinh_anh": "assets/products/A029.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A027",
+          "ten_san_pham": "Kệ đựng bàn chải đánh răng",
+          "vai_tro": "Kệ ly",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "313,200 VNĐ",
+          "gia_so": 313200,
+          "hinh_anh": "assets/products/A027.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A084 Pro",
+          "ten_san_pham": "Hộp đựng xà phòng",
+          "vai_tro": "Hộp đựng xà phòng",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "442,800 VNĐ",
+          "gia_so": 442800,
+          "hinh_anh": "assets/products/A084_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A035",
+          "ten_san_pham": "Kệ kính",
+          "vai_tro": "Kệ gương",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "552,000 VNĐ",
+          "gia_so": 552000,
+          "hinh_anh": "assets/products/A035.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A040",
+          "ten_san_pham": "Móc áo",
+          "vai_tro": "Móc treo áo",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "551,000 VNĐ",
+          "gia_so": 551000,
+          "hinh_anh": "assets/products/A040.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A023 Pro",
+          "ten_san_pham": "Vòi xịt vệ sinh",
+          "vai_tro": "Vòi xịt",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "345,600 VNĐ",
+          "gia_so": 345600,
+          "hinh_anh": "assets/products/A023_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A045",
+          "ten_san_pham": "Thoát sàn",
+          "vai_tro": "Thoát sàn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "216,000 VNĐ",
+          "gia_so": 216000,
+          "hinh_anh": "assets/products/A045.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A050",
+          "ten_san_pham": "Bộ xả lavabo nút nhấn Inox",
+          "vai_tro": "Bộ xả",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "410,400 VNĐ",
+          "gia_so": 410400,
+          "hinh_anh": "assets/products/A050.jpg",
+          "trang_pdf": 33
+        }
+      ]
+    },
+    {
+      "id": "combo-premium-01",
+      "ma_combo": "Premium 01",
+      "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+      "phan_khuc": "Premium",
+      "mo_ta": "“NÉT ĐẸP NGUYÊN BẢN” — Trọn bộ 18 món cao cấp gồm bồn tắm massage B001 Luxury, bồn cầu T023 Luxury, tủ gương C007 Luxury và bồn tiểu U002 Luxury.",
+      "trang_pdf": 44,
+      "trang_catalogue": "83 - 84",
+      "hinh_anh": "assets/combos/combo-premium-01.jpg",
+      "bbox_page": {
+        "x": 49.98,
+        "y": 0.0,
+        "w": 49.98,
+        "h": 99.89
+      },
+      "so_luong_san_pham": 18,
+      "tong_gia_tri": 51455200,
+      "tong_gia_tri_fmt": "51,455,200 VNĐ",
+      "san_pham": [
+        {
+          "ma_san_pham": "T023 Luxury",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "vai_tro": "Bồn cầu",
+          "danh_muc": "Bồn cầu 1 khối",
+          "gia_niem_yet": "4,968,000 VNĐ",
+          "gia_so": 4968000,
+          "hinh_anh": "assets/products/T023_Luxury.jpg",
+          "trang_pdf": 13
+        },
+        {
+          "ma_san_pham": "C007 Luxury",
+          "ten_san_pham": "Bộ tủ gương & lavabo",
+          "vai_tro": "Tủ gương lavabo",
+          "danh_muc": "Tủ chậu lavabo",
+          "gia_niem_yet": "5,616,000 VNĐ",
+          "gia_so": 5616000,
+          "hinh_anh": "assets/products/C007_Luxury.jpg",
+          "trang_pdf": 18
+        },
+        {
+          "ma_san_pham": "F010",
+          "ten_san_pham": "Vòi lavabo",
+          "vai_tro": "Vòi lavabo",
+          "danh_muc": "Vòi lavabo",
+          "gia_niem_yet": "1,188,000 VNĐ",
+          "gia_so": 1188000,
+          "hinh_anh": "assets/products/F010.jpg",
+          "trang_pdf": 23
+        },
+        {
+          "ma_san_pham": "S010",
+          "ten_san_pham": "Sen cây",
+          "vai_tro": "Sen tắm",
+          "danh_muc": "Sen tắm",
+          "gia_niem_yet": "4,428,000 VNĐ",
+          "gia_so": 4428000,
+          "hinh_anh": "assets/products/S010.jpg",
+          "trang_pdf": 27
+        },
+        {
+          "ma_san_pham": "B001 Luxury",
+          "ten_san_pham": "Bồn tắm massage chân yếm (đặt sàn)",
+          "vai_tro": "Bồn tắm",
+          "danh_muc": "Bồn tắm",
+          "gia_niem_yet": "22,680,000 VNĐ",
+          "gia_so": 22680000,
+          "hinh_anh": "assets/products/B001_Luxury.jpg",
+          "trang_pdf": 30
+        },
+        {
+          "ma_san_pham": "U002 Luxury",
+          "ten_san_pham": "Bồn tiểu nam treo tường",
+          "vai_tro": "Bồn tiểu",
+          "danh_muc": "Bồn tiểu nam",
+          "gia_niem_yet": "3,564,000 VNĐ",
+          "gia_so": 3564000,
+          "hinh_anh": "assets/products/U002_Luxury.jpg",
+          "trang_pdf": 31
+        },
+        {
+          "ma_san_pham": "A053 Luxury",
+          "ten_san_pham": "Van xả tiểu nút nhấn",
+          "vai_tro": "Van xả tiểu nút nhấn",
+          "danh_muc": "Bồn tiểu nam",
+          "gia_niem_yet": "896,000 VNĐ",
+          "gia_so": 896000,
+          "hinh_anh": "assets/products/A053_Luxury.jpg",
+          "trang_pdf": 31
+        },
+        {
+          "ma_san_pham": "A051",
+          "ten_san_pham": "Bộ xả lavabo nút nhấn sứ",
+          "vai_tro": "Bộ xả",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "410,400 VNĐ",
+          "gia_so": 410400,
+          "hinh_anh": "assets/products/A051.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A023 Pro",
+          "ten_san_pham": "Vòi xịt vệ sinh",
+          "vai_tro": "Vòi xịt",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "345,600 VNĐ",
+          "gia_so": 345600,
+          "hinh_anh": "assets/products/A023_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A036",
+          "ten_san_pham": "Kệ treo giấy vệ sinh",
+          "vai_tro": "Kệ giấy vệ sinh",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "540,000 VNĐ",
+          "gia_so": 540000,
+          "hinh_anh": "assets/products/A036.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A097",
+          "ten_san_pham": "Thanh treo khăn",
+          "vai_tro": "Giá treo khăn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "1,080,000 VNĐ",
+          "gia_so": 1080000,
+          "hinh_anh": "assets/products/A097.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A046",
+          "ten_san_pham": "Thoát sàn",
+          "vai_tro": "Thoát sàn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "270,000 VNĐ",
+          "gia_so": 270000,
+          "hinh_anh": "assets/products/A046.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A095",
+          "ten_san_pham": "Móc áo",
+          "vai_tro": "Móc áo",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "324,000 VNĐ",
+          "gia_so": 324000,
+          "hinh_anh": "assets/products/A095.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A027",
+          "ten_san_pham": "Kệ đựng bàn chải đánh răng",
+          "vai_tro": "Kệ ly",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "313,200 VNĐ",
+          "gia_so": 313200,
+          "hinh_anh": "assets/products/A027.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A083 Pro",
+          "ten_san_pham": "Hộp đựng xà phòng",
+          "vai_tro": "Hộp đựng xà phòng",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "496,800 VNĐ",
+          "gia_so": 496800,
+          "hinh_anh": "assets/products/A083_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A085 Pro",
+          "ten_san_pham": "Hộp đựng xà phòng đôi",
+          "vai_tro": "Hộp đựng xà phòng đôi",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "626,400 VNĐ",
+          "gia_so": 626400,
+          "hinh_anh": "assets/products/A085_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A082 Pro",
+          "ten_san_pham": "Hộp đựng giấy vệ sinh",
+          "vai_tro": "Hộp giấy lau",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "442,800 VNĐ",
+          "gia_so": 442800,
+          "hinh_anh": "assets/products/A082_Pro.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A087 Pro",
+          "ten_san_pham": "Máy sấy tay",
+          "vai_tro": "Máy sấy tay",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "3,266,000 VNĐ",
+          "gia_so": 3266000,
+          "hinh_anh": "assets/products/A087_Pro.jpg",
+          "trang_pdf": 34
+        }
+      ]
+    },
+    {
+      "id": "combo-premium-02",
+      "ma_combo": "Premium 02",
+      "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+      "phan_khuc": "Premium",
+      "mo_ta": "“CHẠM” — Không gian phòng tắm Luxury 18 món với bồn tắm massage B001 Luxury, bồn cầu T022 Luxury, tủ gương C009 Luxury và sen cây S003 Luxury.",
+      "trang_pdf": 45,
+      "trang_catalogue": "85",
+      "hinh_anh": "assets/combos/combo-premium-02.jpg",
+      "bbox_page": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 49.98,
+        "h": 99.89
+      },
+      "so_luong_san_pham": 18,
+      "tong_gia_tri": 53237200,
+      "tong_gia_tri_fmt": "53,237,200 VNĐ",
+      "san_pham": [
+        {
+          "ma_san_pham": "T022 Luxury",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "vai_tro": "Bồn cầu",
+          "danh_muc": "Bồn cầu 1 khối",
+          "gia_niem_yet": "5,940,000 VNĐ",
+          "gia_so": 5940000,
+          "hinh_anh": "assets/products/T022_Luxury.jpg",
+          "trang_pdf": 13
+        },
+        {
+          "ma_san_pham": "C009 Luxury",
+          "ten_san_pham": "Bộ tủ gương & lavabo",
+          "vai_tro": "Tủ gương lavabo",
+          "danh_muc": "Tủ chậu lavabo",
+          "gia_niem_yet": "6,156,000 VNĐ",
+          "gia_so": 6156000,
+          "hinh_anh": "assets/products/C009_Luxury.jpg",
+          "trang_pdf": 18
+        },
+        {
+          "ma_san_pham": "F002 Luxury",
+          "ten_san_pham": "Vòi lavabo",
+          "vai_tro": "Vòi lavabo",
+          "danh_muc": "Vòi lavabo",
+          "gia_niem_yet": "1,404,000 VNĐ",
+          "gia_so": 1404000,
+          "hinh_anh": "assets/products/F002_Luxury.jpg",
+          "trang_pdf": 23
+        },
+        {
+          "ma_san_pham": "S003 Luxury",
+          "ten_san_pham": "Sen cây",
+          "vai_tro": "Sen tắm",
+          "danh_muc": "Sen tắm",
+          "gia_niem_yet": "4,212,000 VNĐ",
+          "gia_so": 4212000,
+          "hinh_anh": "assets/products/S003_Luxury.jpg",
+          "trang_pdf": 27
+        },
+        {
+          "ma_san_pham": "B001 Luxury",
+          "ten_san_pham": "Bồn tắm massage chân yếm (đặt sàn)",
+          "vai_tro": "Bồn tắm",
+          "danh_muc": "Bồn tắm",
+          "gia_niem_yet": "22,680,000 VNĐ",
+          "gia_so": 22680000,
+          "hinh_anh": "assets/products/B001_Luxury.jpg",
+          "trang_pdf": 30
+        },
+        {
+          "ma_san_pham": "U002 Luxury",
+          "ten_san_pham": "Bồn tiểu nam treo tường",
+          "vai_tro": "Bồn tiểu",
+          "danh_muc": "Bồn tiểu nam",
+          "gia_niem_yet": "3,564,000 VNĐ",
+          "gia_so": 3564000,
+          "hinh_anh": "assets/products/U002_Luxury.jpg",
+          "trang_pdf": 31
+        },
+        {
+          "ma_san_pham": "A053 Luxury",
+          "ten_san_pham": "Van xả tiểu nút nhấn",
+          "vai_tro": "Van xả tiểu nút nhấn",
+          "danh_muc": "Bồn tiểu nam",
+          "gia_niem_yet": "896,000 VNĐ",
+          "gia_so": 896000,
+          "hinh_anh": "assets/products/A053_Luxury.jpg",
+          "trang_pdf": 31
+        },
+        {
+          "ma_san_pham": "A051",
+          "ten_san_pham": "Bộ xả lavabo nút nhấn sứ",
+          "vai_tro": "Bộ xả",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "410,400 VNĐ",
+          "gia_so": 410400,
+          "hinh_anh": "assets/products/A051.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A026 Pro",
+          "ten_san_pham": "Vòi xịt vệ sinh",
+          "vai_tro": "Vòi xịt",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "345,600 VNĐ",
+          "gia_so": 345600,
+          "hinh_anh": "assets/products/A026_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A036",
+          "ten_san_pham": "Kệ treo giấy vệ sinh",
+          "vai_tro": "Kệ giấy vệ sinh",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "540,000 VNĐ",
+          "gia_so": 540000,
+          "hinh_anh": "assets/products/A036.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A096",
+          "ten_san_pham": "Thanh treo khăn",
+          "vai_tro": "Giá treo khăn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "1,296,000 VNĐ",
+          "gia_so": 1296000,
+          "hinh_anh": "assets/products/A096.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A047",
+          "ten_san_pham": "Thoát sàn",
+          "vai_tro": "Thoát sàn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "324,000 VNĐ",
+          "gia_so": 324000,
+          "hinh_anh": "assets/products/A047.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A095",
+          "ten_san_pham": "Móc áo",
+          "vai_tro": "Móc áo",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "324,000 VNĐ",
+          "gia_so": 324000,
+          "hinh_anh": "assets/products/A095.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A027",
+          "ten_san_pham": "Kệ đựng bàn chải đánh răng",
+          "vai_tro": "Kệ ly",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "313,200 VNĐ",
+          "gia_so": 313200,
+          "hinh_anh": "assets/products/A027.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A083 Pro",
+          "ten_san_pham": "Hộp đựng xà phòng",
+          "vai_tro": "Hộp đựng xà phòng",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "496,800 VNĐ",
+          "gia_so": 496800,
+          "hinh_anh": "assets/products/A083_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A085 Pro",
+          "ten_san_pham": "Hộp đựng xà phòng đôi",
+          "vai_tro": "Hộp đựng xà phòng đôi",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "626,400 VNĐ",
+          "gia_so": 626400,
+          "hinh_anh": "assets/products/A085_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A082 Pro",
+          "ten_san_pham": "Hộp đựng giấy vệ sinh",
+          "vai_tro": "Hộp giấy lau",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "442,800 VNĐ",
+          "gia_so": 442800,
+          "hinh_anh": "assets/products/A082_Pro.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A087 Pro",
+          "ten_san_pham": "Máy sấy tay",
+          "vai_tro": "Máy sấy tay",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "3,266,000 VNĐ",
+          "gia_so": 3266000,
+          "hinh_anh": "assets/products/A087_Pro.jpg",
+          "trang_pdf": 34
+        }
+      ]
+    },
+    {
+      "id": "combo-premium-03",
+      "ma_combo": "Premium 03",
+      "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+      "phan_khuc": "Premium",
+      "mo_ta": "“CHỐN RIÊNG” — Bộ 18 món đẳng cấp với bồn tắm góc massage B002 Luxury, bồn cầu T011 Luxury, tủ gương C010 Luxury và vòi PVD F004 Luxury.",
+      "trang_pdf": 45,
+      "trang_catalogue": "86",
+      "hinh_anh": "assets/combos/combo-premium-03.jpg",
+      "bbox_page": {
+        "x": 49.98,
+        "y": 0.0,
+        "w": 49.98,
+        "h": 99.89
+      },
+      "so_luong_san_pham": 18,
+      "tong_gia_tri": 64361200,
+      "tong_gia_tri_fmt": "64,361,200 VNĐ",
+      "san_pham": [
+        {
+          "ma_san_pham": "T011 Luxury",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "vai_tro": "Bồn cầu",
+          "danh_muc": "Bồn cầu 1 khối",
+          "gia_niem_yet": "6,588,000 VNĐ",
+          "gia_so": 6588000,
+          "hinh_anh": "assets/products/T011_Luxury.jpg",
+          "trang_pdf": 13
+        },
+        {
+          "ma_san_pham": "C010 Luxury",
+          "ten_san_pham": "Bộ tủ gương & lavabo",
+          "vai_tro": "Tủ gương lavabo",
+          "danh_muc": "Tủ chậu lavabo",
+          "gia_niem_yet": "7,344,000 VNĐ",
+          "gia_so": 7344000,
+          "hinh_anh": "assets/products/C010_Luxury.jpg",
+          "trang_pdf": 18
+        },
+        {
+          "ma_san_pham": "F004 Luxury",
+          "ten_san_pham": "Vòi lavabo",
+          "vai_tro": "Vòi lavabo",
+          "danh_muc": "Vòi lavabo",
+          "gia_niem_yet": "2,160,000 VNĐ",
+          "gia_so": 2160000,
+          "hinh_anh": "assets/products/F004_Luxury.jpg",
+          "trang_pdf": 23
+        },
+        {
+          "ma_san_pham": "S008",
+          "ten_san_pham": "Sen cây",
+          "vai_tro": "Sen tắm",
+          "danh_muc": "Sen tắm",
+          "gia_niem_yet": "4,428,000 VNĐ",
+          "gia_so": 4428000,
+          "hinh_anh": "assets/products/S008.jpg",
+          "trang_pdf": 27
+        },
+        {
+          "ma_san_pham": "B002 Luxury",
+          "ten_san_pham": "Bồn tắm massage chân yếm (đặt sàn)",
+          "vai_tro": "Bồn tắm",
+          "danh_muc": "Bồn tắm",
+          "gia_niem_yet": "28,944,000 VNĐ",
+          "gia_so": 28944000,
+          "hinh_anh": "assets/products/B002_Luxury.jpg",
+          "trang_pdf": 30
+        },
+        {
+          "ma_san_pham": "U002 Luxury",
+          "ten_san_pham": "Bồn tiểu nam treo tường",
+          "vai_tro": "Bồn tiểu",
+          "danh_muc": "Bồn tiểu nam",
+          "gia_niem_yet": "3,564,000 VNĐ",
+          "gia_so": 3564000,
+          "hinh_anh": "assets/products/U002_Luxury.jpg",
+          "trang_pdf": 31
+        },
+        {
+          "ma_san_pham": "A053 Luxury",
+          "ten_san_pham": "Van xả tiểu nút nhấn",
+          "vai_tro": "Van xả tiểu nút nhấn",
+          "danh_muc": "Bồn tiểu nam",
+          "gia_niem_yet": "896,000 VNĐ",
+          "gia_so": 896000,
+          "hinh_anh": "assets/products/A053_Luxury.jpg",
+          "trang_pdf": 31
+        },
+        {
+          "ma_san_pham": "A051",
+          "ten_san_pham": "Bộ xả lavabo nút nhấn sứ",
+          "vai_tro": "Bộ xả",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "410,400 VNĐ",
+          "gia_so": 410400,
+          "hinh_anh": "assets/products/A051.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A026 Pro",
+          "ten_san_pham": "Vòi xịt vệ sinh",
+          "vai_tro": "Vòi xịt",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "345,600 VNĐ",
+          "gia_so": 345600,
+          "hinh_anh": "assets/products/A026_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A036",
+          "ten_san_pham": "Kệ treo giấy vệ sinh",
+          "vai_tro": "Kệ giấy vệ sinh",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "540,000 VNĐ",
+          "gia_so": 540000,
+          "hinh_anh": "assets/products/A036.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A094",
+          "ten_san_pham": "Giá treo khăn",
+          "vai_tro": "Giá treo khăn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "2,376,000 VNĐ",
+          "gia_so": 2376000,
+          "hinh_anh": "assets/products/A094.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A071",
+          "ten_san_pham": "Thoát sàn",
+          "vai_tro": "Thoát sàn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "1,296,000 VNĐ",
+          "gia_so": 1296000,
+          "hinh_anh": "assets/products/A071.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A095",
+          "ten_san_pham": "Móc áo",
+          "vai_tro": "Móc áo",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "324,000 VNĐ",
+          "gia_so": 324000,
+          "hinh_anh": "assets/products/A095.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A027",
+          "ten_san_pham": "Kệ đựng bàn chải đánh răng",
+          "vai_tro": "Kệ ly",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "313,200 VNĐ",
+          "gia_so": 313200,
+          "hinh_anh": "assets/products/A027.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A083 Pro",
+          "ten_san_pham": "Hộp đựng xà phòng",
+          "vai_tro": "Hộp đựng xà phòng",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "496,800 VNĐ",
+          "gia_so": 496800,
+          "hinh_anh": "assets/products/A083_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A085 Pro",
+          "ten_san_pham": "Hộp đựng xà phòng đôi",
+          "vai_tro": "Hộp đựng xà phòng đôi",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "626,400 VNĐ",
+          "gia_so": 626400,
+          "hinh_anh": "assets/products/A085_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A082 Pro",
+          "ten_san_pham": "Hộp đựng giấy vệ sinh",
+          "vai_tro": "Hộp giấy lau",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "442,800 VNĐ",
+          "gia_so": 442800,
+          "hinh_anh": "assets/products/A082_Pro.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A087 Pro",
+          "ten_san_pham": "Máy sấy tay",
+          "vai_tro": "Máy sấy tay",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "3,266,000 VNĐ",
+          "gia_so": 3266000,
+          "hinh_anh": "assets/products/A087_Pro.jpg",
+          "trang_pdf": 34
+        }
+      ]
+    },
+    {
+      "id": "combo-signature-01",
+      "ma_combo": "Signature 01",
+      "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+      "phan_khuc": "Signature",
+      "mo_ta": "“MỖI CHI TIẾT, MỘT TUYÊN NGÔN” — Tuyệt tác 19 món Flagship: Bồn cầu thông minh E003 Luxury, tủ gương C013 Luxury (2026 Collection), bồn tắm Corian B005 Luxury & sen đặt sàn S023 Luxury.",
+      "trang_pdf": 46,
+      "trang_catalogue": "87",
+      "hinh_anh": "assets/combos/combo-signature-01.jpg",
+      "bbox_page": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 49.98,
+        "h": 99.89
+      },
+      "so_luong_san_pham": 19,
+      "tong_gia_tri": 187680600,
+      "tong_gia_tri_fmt": "187,680,600 VNĐ",
+      "san_pham": [
+        {
+          "ma_san_pham": "E003 Luxury",
+          "ten_san_pham": "Bồn cầu thông minh",
+          "vai_tro": "Bồn cầu thông minh",
+          "danh_muc": "Bồn cầu thông minh",
+          "gia_niem_yet": "63,180,000 VNĐ",
+          "gia_so": 63180000,
+          "hinh_anh": "assets/products/E003_Luxury.jpg",
+          "trang_pdf": 16
+        },
+        {
+          "ma_san_pham": "C013 Luxury",
+          "ten_san_pham": "Bộ tủ gương & lavabo",
+          "vai_tro": "Tủ gương lavabo",
+          "danh_muc": "Tủ chậu lavabo",
+          "gia_niem_yet": "33,696,000 VNĐ",
+          "gia_so": 33696000,
+          "hinh_anh": "assets/products/C013_Luxury.jpg",
+          "trang_pdf": 18
+        },
+        {
+          "ma_san_pham": "F024 Luxury",
+          "ten_san_pham": "Vòi lavabo cảm ứng",
+          "vai_tro": "Vòi lavabo cảm ứng",
+          "danh_muc": "Vòi cảm ứng",
+          "gia_niem_yet": "10,368,000 VNĐ",
+          "gia_so": 10368000,
+          "hinh_anh": "assets/products/F024_Luxury.jpg",
+          "trang_pdf": 24
+        },
+        {
+          "ma_san_pham": "S017 Luxury",
+          "ten_san_pham": "Sen cây",
+          "vai_tro": "Sen tắm",
+          "danh_muc": "Sen tắm",
+          "gia_niem_yet": "14,904,000 VNĐ",
+          "gia_so": 14904000,
+          "hinh_anh": "assets/products/S017_Luxury.jpg",
+          "trang_pdf": 27
+        },
+        {
+          "ma_san_pham": "B005 Luxury",
+          "ten_san_pham": "Bồn tắm đặt sàn",
+          "vai_tro": "Bồn tắm Corian",
+          "danh_muc": "Bồn tắm",
+          "gia_niem_yet": "33,480,000 VNĐ",
+          "gia_so": 33480000,
+          "hinh_anh": "assets/products/B005_Luxury.jpg",
+          "trang_pdf": 30
+        },
+        {
+          "ma_san_pham": "S023 Luxury",
+          "ten_san_pham": "Vòi sen đặt sàn",
+          "vai_tro": "Vòi sen đặt sàn",
+          "danh_muc": "Sen tắm",
+          "gia_niem_yet": "8,640,000 VNĐ",
+          "gia_so": 8640000,
+          "hinh_anh": "assets/products/S023_Luxury.jpg",
+          "trang_pdf": 30
+        },
+        {
+          "ma_san_pham": "U001 Luxury",
+          "ten_san_pham": "Bồn tiểu nam treo tường",
+          "vai_tro": "Bồn tiểu",
+          "danh_muc": "Bồn tiểu nam",
+          "gia_niem_yet": "2,916,000 VNĐ",
+          "gia_so": 2916000,
+          "hinh_anh": "assets/products/U001_Luxury.jpg",
+          "trang_pdf": 31
+        },
+        {
+          "ma_san_pham": "A052 Luxury",
+          "ten_san_pham": "Van xả tiểu cảm ứng",
+          "vai_tro": "Van xả tiểu cảm ứng",
+          "danh_muc": "Bồn tiểu nam",
+          "gia_niem_yet": "3,142,800 VNĐ",
+          "gia_so": 3142800,
+          "hinh_anh": "assets/products/A052_Luxury.jpg",
+          "trang_pdf": 31
+        },
+        {
+          "ma_san_pham": "A051",
+          "ten_san_pham": "Bộ xả lavabo nút nhấn sứ",
+          "vai_tro": "Bộ xả",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "410,400 VNĐ",
+          "gia_so": 410400,
+          "hinh_anh": "assets/products/A051.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A025 Pro",
+          "ten_san_pham": "Vòi xịt vệ sinh",
+          "vai_tro": "Vòi xịt",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "410,400 VNĐ",
+          "gia_so": 410400,
+          "hinh_anh": "assets/products/A025_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A036",
+          "ten_san_pham": "Kệ treo giấy vệ sinh",
+          "vai_tro": "Kệ giấy vệ sinh",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "540,000 VNĐ",
+          "gia_so": 540000,
+          "hinh_anh": "assets/products/A036.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A033",
+          "ten_san_pham": "Giá treo khăn thông minh",
+          "vai_tro": "Giá treo khăn thông minh",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "4,104,000 VNĐ",
+          "gia_so": 4104000,
+          "hinh_anh": "assets/products/A033.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A073",
+          "ten_san_pham": "Thoát sàn",
+          "vai_tro": "Thoát sàn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "2,052,000 VNĐ",
+          "gia_so": 2052000,
+          "hinh_anh": "assets/products/A073.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A095",
+          "ten_san_pham": "Móc áo",
+          "vai_tro": "Móc áo",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "324,000 VNĐ",
+          "gia_so": 324000,
+          "hinh_anh": "assets/products/A095.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A027",
+          "ten_san_pham": "Kệ đựng bàn chải đánh răng",
+          "vai_tro": "Kệ ly",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "313,200 VNĐ",
+          "gia_so": 313200,
+          "hinh_anh": "assets/products/A027.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A055",
+          "ten_san_pham": "Hộp đựng xà phòng cảm ứng",
+          "vai_tro": "Hộp đựng xà phòng cảm ứng",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "1,965,600 VNĐ",
+          "gia_so": 1965600,
+          "hinh_anh": "assets/products/A055.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A085 Pro",
+          "ten_san_pham": "Hộp đựng xà phòng đôi",
+          "vai_tro": "Hộp đựng xà phòng đôi",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "626,400 VNĐ",
+          "gia_so": 626400,
+          "hinh_anh": "assets/products/A085_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A079 Pro",
+          "ten_san_pham": "Hộp đựng giấy vệ sinh",
+          "vai_tro": "Hộp giấy lau",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "658,800 VNĐ",
+          "gia_so": 658800,
+          "hinh_anh": "assets/products/A079_Pro.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A088 Pro",
+          "ten_san_pham": "Máy sấy tay",
+          "vai_tro": "Máy sấy tay",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "5,949,000 VNĐ",
+          "gia_so": 5949000,
+          "hinh_anh": "assets/products/A088_Pro.jpg",
+          "trang_pdf": 34
+        }
+      ]
+    },
+    {
+      "id": "combo-signature-02",
+      "ma_combo": "Signature 02",
+      "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+      "phan_khuc": "Signature",
+      "mo_ta": "“DẤU ẤN TINH TUYỂN” — Bộ sưu tập 19 món thượng lưu: Bồn cầu thông minh E001 Luxury, tủ gương C011 Luxury (2026 Collection), vòi cảm ứng F023 Luxury, sen phím đàn S018 Luxury và bồn tắm B004 Luxury.",
+      "trang_pdf": 46,
+      "trang_catalogue": "88",
+      "hinh_anh": "assets/combos/combo-signature-02.jpg",
+      "bbox_page": {
+        "x": 49.98,
+        "y": 0.0,
+        "w": 49.98,
+        "h": 99.89
+      },
+      "so_luong_san_pham": 19,
+      "tong_gia_tri": 98490960,
+      "tong_gia_tri_fmt": "98,490,960 VNĐ",
+      "san_pham": [
+        {
+          "ma_san_pham": "E001 Luxury",
+          "ten_san_pham": "Bồn cầu thông minh",
+          "vai_tro": "Bồn cầu thông minh",
+          "danh_muc": "Bồn cầu thông minh",
+          "gia_niem_yet": "21,060,000 VNĐ",
+          "gia_so": 21060000,
+          "hinh_anh": "assets/products/E001_Luxury.jpg",
+          "trang_pdf": 16
+        },
+        {
+          "ma_san_pham": "C011 Luxury",
+          "ten_san_pham": "Bộ tủ gương & lavabo",
+          "vai_tro": "Tủ gương lavabo",
+          "danh_muc": "Tủ chậu lavabo",
+          "gia_niem_yet": "18,144,000 VNĐ",
+          "gia_so": 18144000,
+          "hinh_anh": "assets/products/C011_Luxury.jpg",
+          "trang_pdf": 18
+        },
+        {
+          "ma_san_pham": "F023 Luxury",
+          "ten_san_pham": "Vòi lavabo cảm ứng",
+          "vai_tro": "Vòi lavabo cảm ứng",
+          "danh_muc": "Vòi cảm ứng",
+          "gia_niem_yet": "7,452,000 VNĐ",
+          "gia_so": 7452000,
+          "hinh_anh": "assets/products/F023_Luxury.jpg",
+          "trang_pdf": 24
+        },
+        {
+          "ma_san_pham": "S018 Luxury",
+          "ten_san_pham": "Sen cây",
+          "vai_tro": "Sen tắm",
+          "danh_muc": "Sen tắm",
+          "gia_niem_yet": "8,064,360 VNĐ",
+          "gia_so": 8064360,
+          "hinh_anh": "assets/products/S018_Luxury.jpg",
+          "trang_pdf": 27
+        },
+        {
+          "ma_san_pham": "B004 Luxury",
+          "ten_san_pham": "Bồn tắm đặt sàn",
+          "vai_tro": "Bồn tắm",
+          "danh_muc": "Bồn tắm",
+          "gia_niem_yet": "18,144,000 VNĐ",
+          "gia_so": 18144000,
+          "hinh_anh": "assets/products/B004_Luxury.jpg",
+          "trang_pdf": 30
+        },
+        {
+          "ma_san_pham": "S022 Luxury",
+          "ten_san_pham": "Bộ sen vòi bồn tắm",
+          "vai_tro": "Bộ sen vòi bồn tắm",
+          "danh_muc": "Sen tắm",
+          "gia_niem_yet": "4,320,000 VNĐ",
+          "gia_so": 4320000,
+          "hinh_anh": "assets/products/S022_Luxury.jpg",
+          "trang_pdf": 30
+        },
+        {
+          "ma_san_pham": "U001 Luxury",
+          "ten_san_pham": "Bồn tiểu nam treo tường",
+          "vai_tro": "Bồn tiểu",
+          "danh_muc": "Bồn tiểu nam",
+          "gia_niem_yet": "2,916,000 VNĐ",
+          "gia_so": 2916000,
+          "hinh_anh": "assets/products/U001_Luxury.jpg",
+          "trang_pdf": 31
+        },
+        {
+          "ma_san_pham": "A052 Luxury",
+          "ten_san_pham": "Van xả tiểu cảm ứng",
+          "vai_tro": "Van xả tiểu cảm ứng",
+          "danh_muc": "Bồn tiểu nam",
+          "gia_niem_yet": "3,142,800 VNĐ",
+          "gia_so": 3142800,
+          "hinh_anh": "assets/products/A052_Luxury.jpg",
+          "trang_pdf": 31
+        },
+        {
+          "ma_san_pham": "A051",
+          "ten_san_pham": "Bộ xả lavabo nút nhấn sứ",
+          "vai_tro": "Bộ xả",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "410,400 VNĐ",
+          "gia_so": 410400,
+          "hinh_anh": "assets/products/A051.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A025 Pro",
+          "ten_san_pham": "Vòi xịt vệ sinh",
+          "vai_tro": "Vòi xịt",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "410,400 VNĐ",
+          "gia_so": 410400,
+          "hinh_anh": "assets/products/A025_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A036",
+          "ten_san_pham": "Kệ treo giấy vệ sinh",
+          "vai_tro": "Kệ giấy vệ sinh",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "540,000 VNĐ",
+          "gia_so": 540000,
+          "hinh_anh": "assets/products/A036.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A032",
+          "ten_san_pham": "Giá treo khăn thông minh",
+          "vai_tro": "Giá treo khăn thông minh",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "2,592,000 VNĐ",
+          "gia_so": 2592000,
+          "hinh_anh": "assets/products/A032.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A072",
+          "ten_san_pham": "Thoát sàn",
+          "vai_tro": "Thoát sàn",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "1,458,000 VNĐ",
+          "gia_so": 1458000,
+          "hinh_anh": "assets/products/A072.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A095",
+          "ten_san_pham": "Móc áo",
+          "vai_tro": "Móc áo",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "324,000 VNĐ",
+          "gia_so": 324000,
+          "hinh_anh": "assets/products/A095.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A027",
+          "ten_san_pham": "Kệ đựng bàn chải đánh răng",
+          "vai_tro": "Kệ ly",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "313,200 VNĐ",
+          "gia_so": 313200,
+          "hinh_anh": "assets/products/A027.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A054",
+          "ten_san_pham": "Hộp đựng xà phòng cảm ứng",
+          "vai_tro": "Hộp đựng xà phòng cảm ứng",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "1,965,600 VNĐ",
+          "gia_so": 1965600,
+          "hinh_anh": "assets/products/A054.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A085 Pro",
+          "ten_san_pham": "Hộp đựng xà phòng đôi",
+          "vai_tro": "Hộp đựng xà phòng đôi",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "626,400 VNĐ",
+          "gia_so": 626400,
+          "hinh_anh": "assets/products/A085_Pro.jpg",
+          "trang_pdf": 34
+        },
+        {
+          "ma_san_pham": "A079 Pro",
+          "ten_san_pham": "Hộp đựng giấy vệ sinh",
+          "vai_tro": "Hộp giấy lau",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "gia_niem_yet": "658,800 VNĐ",
+          "gia_so": 658800,
+          "hinh_anh": "assets/products/A079_Pro.jpg",
+          "trang_pdf": 33
+        },
+        {
+          "ma_san_pham": "A088 Pro",
+          "ten_san_pham": "Máy sấy tay",
+          "vai_tro": "Máy sấy tay",
+          "danh_muc": "Phụ kiện khác",
+          "gia_niem_yet": "5,949,000 VNĐ",
+          "gia_so": 5949000,
+          "hinh_anh": "assets/products/A088_Pro.jpg",
+          "trang_pdf": 34
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "trang_pdf": 1,
+      "trang_catalogue": "Bìa trước",
+      "tieu_de": "HOA SEN HOME | TUSLO & LUSHINE - Catalogue Thiết Bị Nhà Tắm & Nhà Bếp 2026",
+      "chuyen_muc": "Bìa & Giới thiệu",
+      "hinh_anh": "assets/pages/page_01.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 2,
+      "trang_catalogue": "01",
+      "tieu_de": "Giới thiệu Hoa Sen Home - 25 Năm Kinh Nghiệm",
+      "chuyen_muc": "Bìa & Giới thiệu",
+      "hinh_anh": "assets/pages/page_02.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 3,
+      "trang_catalogue": "02",
+      "tieu_de": "Chạm Vào Sự Tiện Nghi - Triết Lý Thương Hiệu Tuslo",
+      "chuyen_muc": "Bìa & Giới thiệu",
+      "hinh_anh": "assets/pages/page_03.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 4,
+      "trang_catalogue": "03 - 04",
+      "tieu_de": "Mục Lục Catalogue (Table of Contents)",
+      "chuyen_muc": "Mục lục",
+      "hinh_anh": "assets/pages/page_04.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 5,
+      "trang_catalogue": "05 - 06",
+      "tieu_de": "Không Gian Phòng Tắm Đương Đại I",
+      "chuyen_muc": "Lifestyle Phòng tắm",
+      "hinh_anh": "assets/pages/page_05.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 6,
+      "trang_catalogue": "07 - 08",
+      "tieu_de": "Không Gian Phòng Tắm Đương Đại II",
+      "chuyen_muc": "Lifestyle Phòng tắm",
+      "hinh_anh": "assets/pages/page_06.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 7,
+      "trang_catalogue": "09 - 10",
+      "tieu_de": "Không Gian Phòng Tắm Thượng Lưu III",
+      "chuyen_muc": "Lifestyle Phòng tắm",
+      "hinh_anh": "assets/pages/page_07.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 8,
+      "trang_catalogue": "11 - 12",
+      "tieu_de": "Tận Hưởng Trọn Vẹn Từng Khoảnh Khắc",
+      "chuyen_muc": "Lifestyle Phòng tắm",
+      "hinh_anh": "assets/pages/page_08.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 9,
+      "trang_catalogue": "13 - 14",
+      "tieu_de": "Căn Bếp Gia Đình - Nơi Giữ Lửa Yêu Thương",
+      "chuyen_muc": "Lifestyle Nhà bếp",
+      "hinh_anh": "assets/pages/page_09.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 10,
+      "trang_catalogue": "15 - 16",
+      "tieu_de": "Cảm Hứng Thiết Kế Nội Thất Hiện Đại",
+      "chuyen_muc": "Lifestyle Nhà bếp",
+      "hinh_anh": "assets/pages/page_10.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 11,
+      "trang_catalogue": "17 - 18",
+      "tieu_de": "Bồn Cầu TUSLO - Công Nghệ Xả Super Vortex & S-Trap",
+      "chuyen_muc": "Bồn cầu 1 khối",
+      "hinh_anh": "assets/pages/page_11.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 12,
+      "trang_catalogue": "19 - 20",
+      "tieu_de": "Bồn Cầu Nguyên Khối TUSLO (T005 - T013 Pro)",
+      "chuyen_muc": "Bồn cầu 1 khối",
+      "hinh_anh": "assets/pages/page_12.jpg",
+      "so_san_pham": 8,
+      "san_pham": [
+        {
+          "id": "sp-001-t005",
+          "ma_san_pham": "T005",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "3,024,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T005.jpg",
+          "bbox_page": {
+            "x": 2.1,
+            "y": 2.61,
+            "w": 45.36,
+            "h": 20.19
+          }
+        },
+        {
+          "id": "sp-002-t006",
+          "ma_san_pham": "T006",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "3,024,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T006.jpg",
+          "bbox_page": {
+            "x": 2.1,
+            "y": 25.89,
+            "w": 45.36,
+            "h": 20.43
+          }
+        },
+        {
+          "id": "sp-003-t002",
+          "ma_san_pham": "T002",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "3,456,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T002.jpg",
+          "bbox_page": {
+            "x": 2.1,
+            "y": 49.29,
+            "w": 45.36,
+            "h": 20.55
+          }
+        },
+        {
+          "id": "sp-004-t003",
+          "ma_san_pham": "T003",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "3,456,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T003.jpg",
+          "bbox_page": {
+            "x": 2.1,
+            "y": 73.05,
+            "w": 45.36,
+            "h": 20.79
+          }
+        },
+        {
+          "id": "sp-005-t009_pro",
+          "ma_san_pham": "T009 Pro",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "4,104,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T009_Pro.jpg",
+          "bbox_page": {
+            "x": 52.08,
+            "y": 2.61,
+            "w": 45.78,
+            "h": 20.19
+          }
+        },
+        {
+          "id": "sp-006-t010_pro",
+          "ma_san_pham": "T010 Pro",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "4,104,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T010_Pro.jpg",
+          "bbox_page": {
+            "x": 52.08,
+            "y": 25.89,
+            "w": 45.78,
+            "h": 20.43
+          }
+        },
+        {
+          "id": "sp-007-t019_pro",
+          "ma_san_pham": "T019 Pro",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "4,104,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T019_Pro.jpg",
+          "bbox_page": {
+            "x": 52.08,
+            "y": 49.29,
+            "w": 45.78,
+            "h": 20.55
+          }
+        },
+        {
+          "id": "sp-008-t013_pro",
+          "ma_san_pham": "T013 Pro",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "4,320,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T013_Pro.jpg",
+          "bbox_page": {
+            "x": 52.08,
+            "y": 73.05,
+            "w": 45.78,
+            "h": 20.79
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 13,
+      "trang_catalogue": "21 - 22",
+      "tieu_de": "Bồn Cầu Nguyên Khối TUSLO Pro & Luxury (T014 Pro - T012 Luxury)",
+      "chuyen_muc": "Bồn cầu 1 khối",
+      "hinh_anh": "assets/pages/page_13.jpg",
+      "so_san_pham": 8,
+      "san_pham": [
+        {
+          "id": "sp-009-t014_pro",
+          "ma_san_pham": "T014 Pro",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "4,320,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T014_Pro.jpg",
+          "bbox_page": {
+            "x": 2.1,
+            "y": 2.61,
+            "w": 45.36,
+            "h": 20.19
+          }
+        },
+        {
+          "id": "sp-010-t007_pro",
+          "ma_san_pham": "T007 Pro",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "4,428,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T007_Pro.jpg",
+          "bbox_page": {
+            "x": 2.1,
+            "y": 25.89,
+            "w": 45.36,
+            "h": 20.43
+          }
+        },
+        {
+          "id": "sp-011-t015_pro",
+          "ma_san_pham": "T015 Pro",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "4,428,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T015_Pro.jpg",
+          "bbox_page": {
+            "x": 2.1,
+            "y": 49.29,
+            "w": 45.36,
+            "h": 20.55
+          }
+        },
+        {
+          "id": "sp-012-t016_pro",
+          "ma_san_pham": "T016 Pro",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "4,860,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T016_Pro.jpg",
+          "bbox_page": {
+            "x": 2.1,
+            "y": 73.05,
+            "w": 45.36,
+            "h": 20.79
+          }
+        },
+        {
+          "id": "sp-013-t023_luxury",
+          "ma_san_pham": "T023 Luxury",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "4,968,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T023_Luxury.jpg",
+          "bbox_page": {
+            "x": 52.08,
+            "y": 2.61,
+            "w": 45.78,
+            "h": 20.19
+          }
+        },
+        {
+          "id": "sp-014-t022_luxury",
+          "ma_san_pham": "T022 Luxury",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "5,940,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T022_Luxury.jpg",
+          "bbox_page": {
+            "x": 52.08,
+            "y": 25.89,
+            "w": 45.78,
+            "h": 20.43
+          }
+        },
+        {
+          "id": "sp-015-t011_luxury",
+          "ma_san_pham": "T011 Luxury",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "6,588,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T011_Luxury.jpg",
+          "bbox_page": {
+            "x": 52.08,
+            "y": 49.29,
+            "w": 45.78,
+            "h": 20.55
+          }
+        },
+        {
+          "id": "sp-016-t012_luxury",
+          "ma_san_pham": "T012 Luxury",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "6,588,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T012_Luxury.jpg",
+          "bbox_page": {
+            "x": 52.08,
+            "y": 73.05,
+            "w": 45.78,
+            "h": 20.79
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 14,
+      "trang_catalogue": "23 - 24",
+      "tieu_de": "Bồn Cầu T021 Luxury & Công Nghệ Men Sứ Nano Ceramic / Xả Xoáy 360°",
+      "chuyen_muc": "Bồn cầu 1 khối",
+      "hinh_anh": "assets/pages/page_14.jpg",
+      "so_san_pham": 1,
+      "san_pham": [
+        {
+          "id": "sp-017-t021_luxury",
+          "ma_san_pham": "T021 Luxury",
+          "ten_san_pham": "Bồn cầu nguyên khối",
+          "gia_niem_yet": "6,696,000 VNĐ",
+          "danh_muc": "Bồn cầu 1 khối",
+          "hinh_anh": "assets/products/T021_Luxury.jpg",
+          "bbox_page": {
+            "x": 2.94,
+            "y": 2.61,
+            "w": 44.1,
+            "h": 19.96
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 15,
+      "trang_catalogue": "25 - 26",
+      "tieu_de": "Bồn Cầu Thông Minh TUSLO & Bảng So Sánh 27 Chức Năng (E001 - E004)",
+      "chuyen_muc": "Bồn cầu thông minh",
+      "hinh_anh": "assets/pages/page_15.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 16,
+      "trang_catalogue": "27 - 28",
+      "tieu_de": "Bồn Cầu Thông Minh E004 Luxury, E001 Luxury, E002 Luxury, E003 Luxury",
+      "chuyen_muc": "Bồn cầu thông minh",
+      "hinh_anh": "assets/pages/page_16.jpg",
+      "so_san_pham": 4,
+      "san_pham": [
+        {
+          "id": "sp-018-e004_luxury",
+          "ma_san_pham": "E004 Luxury",
+          "ten_san_pham": "Bồn cầu thông minh",
+          "gia_niem_yet": "42,120,000 VNĐ",
+          "danh_muc": "Bồn cầu thông minh",
+          "hinh_anh": "assets/products/E004_Luxury.jpg",
+          "bbox_page": {
+            "x": 8.74,
+            "y": 49.89,
+            "w": 38.13,
+            "h": 50.11
+          }
+        },
+        {
+          "id": "sp-019-e001_luxury",
+          "ma_san_pham": "E001 Luxury",
+          "ten_san_pham": "Bồn cầu thông minh",
+          "gia_niem_yet": "21,060,000 VNĐ",
+          "danh_muc": "Bồn cầu thông minh",
+          "hinh_anh": "assets/products/E001_Luxury.jpg",
+          "bbox_page": {
+            "x": 53.34,
+            "y": 5.35,
+            "w": 44.52,
+            "h": 21.38
+          }
+        },
+        {
+          "id": "sp-020-e002_luxury",
+          "ma_san_pham": "E002 Luxury",
+          "ten_san_pham": "Bồn cầu thông minh",
+          "gia_niem_yet": "21,060,000 VNĐ",
+          "danh_muc": "Bồn cầu thông minh",
+          "hinh_anh": "assets/products/E002_Luxury.jpg",
+          "bbox_page": {
+            "x": 53.34,
+            "y": 35.63,
+            "w": 44.52,
+            "h": 21.38
+          }
+        },
+        {
+          "id": "sp-021-e003_luxury",
+          "ma_san_pham": "E003 Luxury",
+          "ten_san_pham": "Bồn cầu thông minh",
+          "gia_niem_yet": "63,180,000 VNĐ",
+          "danh_muc": "Bồn cầu thông minh",
+          "hinh_anh": "assets/products/E003_Luxury.jpg",
+          "bbox_page": {
+            "x": 53.34,
+            "y": 67.7,
+            "w": 44.52,
+            "h": 23.16
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 17,
+      "trang_catalogue": "29 - 30",
+      "tieu_de": "Tủ Gương Lavabo TUSLO - Đa Tầng Lưu Trữ & Chống Ẩm Vượt Trội",
+      "chuyen_muc": "Tủ chậu lavabo",
+      "hinh_anh": "assets/pages/page_17.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 18,
+      "trang_catalogue": "31 - 32",
+      "tieu_de": "Bộ Tủ Gương & Lavabo Luxury & 2026 Collection (C001 - C013 Luxury)",
+      "chuyen_muc": "Tủ chậu lavabo",
+      "hinh_anh": "assets/pages/page_18.jpg",
+      "so_san_pham": 11,
+      "san_pham": [
+        {
+          "id": "sp-022-c007_luxury",
+          "ma_san_pham": "C007 Luxury",
+          "ten_san_pham": "Bộ tủ gương & lavabo",
+          "gia_niem_yet": "5,616,000 VNĐ",
+          "danh_muc": "Tủ chậu lavabo",
+          "hinh_anh": "assets/products/C007_Luxury.jpg",
+          "bbox_page": {
+            "x": 4.37,
+            "y": 2.61,
+            "w": 12.85,
+            "h": 40.27
+          }
+        },
+        {
+          "id": "sp-023-c009_luxury",
+          "ma_san_pham": "C009 Luxury",
+          "ten_san_pham": "Bộ tủ gương & lavabo",
+          "gia_niem_yet": "6,156,000 VNĐ",
+          "danh_muc": "Tủ chậu lavabo",
+          "hinh_anh": "assets/products/C009_Luxury.jpg",
+          "bbox_page": {
+            "x": 18.65,
+            "y": 2.61,
+            "w": 13.1,
+            "h": 40.27
+          }
+        },
+        {
+          "id": "sp-024-c010_luxury",
+          "ma_san_pham": "C010 Luxury",
+          "ten_san_pham": "Bộ tủ gương & lavabo",
+          "gia_niem_yet": "7,344,000 VNĐ",
+          "danh_muc": "Tủ chậu lavabo",
+          "hinh_anh": "assets/products/C010_Luxury.jpg",
+          "bbox_page": {
+            "x": 33.09,
+            "y": 2.61,
+            "w": 13.27,
+            "h": 40.27
+          }
+        },
+        {
+          "id": "sp-025-c001_luxury",
+          "ma_san_pham": "C001 Luxury",
+          "ten_san_pham": "Bộ tủ gương & lavabo",
+          "gia_niem_yet": "7,776,000 VNĐ",
+          "danh_muc": "Tủ chậu lavabo",
+          "hinh_anh": "assets/products/C001_Luxury.jpg",
+          "bbox_page": {
+            "x": 4.62,
+            "y": 52.5,
+            "w": 12.01,
+            "h": 38.37
+          }
+        },
+        {
+          "id": "sp-026-c003_luxury",
+          "ma_san_pham": "C003 Luxury",
+          "ten_san_pham": "Bộ tủ gương & lavabo",
+          "gia_niem_yet": "13,392,000 VNĐ",
+          "danh_muc": "Tủ chậu lavabo",
+          "hinh_anh": "assets/products/C003_Luxury.jpg",
+          "bbox_page": {
+            "x": 19.15,
+            "y": 52.5,
+            "w": 12.1,
+            "h": 38.37
+          }
+        },
+        {
+          "id": "sp-027-c004_luxury",
+          "ma_san_pham": "C004 Luxury",
+          "ten_san_pham": "Bộ tủ gương & lavabo",
+          "gia_niem_yet": "14,040,000 VNĐ",
+          "danh_muc": "Tủ chậu lavabo",
+          "hinh_anh": "assets/products/C004_Luxury.jpg",
+          "bbox_page": {
+            "x": 32.59,
+            "y": 52.5,
+            "w": 14.03,
+            "h": 38.37
+          }
+        },
+        {
+          "id": "sp-028-c005_luxury",
+          "ma_san_pham": "C005 Luxury",
+          "ten_san_pham": "Bộ tủ gương & lavabo",
+          "gia_niem_yet": "14,040,000 VNĐ",
+          "danh_muc": "Tủ chậu lavabo",
+          "hinh_anh": "assets/products/C005_Luxury.jpg",
+          "bbox_page": {
+            "x": 54.43,
+            "y": 2.97,
+            "w": 12.35,
+            "h": 39.91
+          }
+        },
+        {
+          "id": "sp-029-c006_luxury",
+          "ma_san_pham": "C006 Luxury",
+          "ten_san_pham": "Bộ tủ gương & lavabo",
+          "gia_niem_yet": "16,848,000 VNĐ",
+          "danh_muc": "Tủ chậu lavabo",
+          "hinh_anh": "assets/products/C006_Luxury.jpg",
+          "bbox_page": {
+            "x": 68.88,
+            "y": 2.97,
+            "w": 12.43,
+            "h": 39.91
+          }
+        },
+        {
+          "id": "sp-030-c011_luxury",
+          "ma_san_pham": "C011 Luxury",
+          "ten_san_pham": "Bộ tủ gương & lavabo",
+          "gia_niem_yet": "18,144,000 VNĐ",
+          "danh_muc": "Tủ chậu lavabo",
+          "hinh_anh": "assets/products/C011_Luxury.jpg",
+          "bbox_page": {
+            "x": 82.48,
+            "y": 2.97,
+            "w": 13.94,
+            "h": 39.91
+          }
+        },
+        {
+          "id": "sp-031-c012_luxury",
+          "ma_san_pham": "C012 Luxury",
+          "ten_san_pham": "Bộ tủ gương & lavabo",
+          "gia_niem_yet": "21,060,000 VNĐ",
+          "danh_muc": "Tủ chậu lavabo",
+          "hinh_anh": "assets/products/C012_Luxury.jpg",
+          "bbox_page": {
+            "x": 53.76,
+            "y": 52.03,
+            "w": 14.7,
+            "h": 38.84
+          }
+        },
+        {
+          "id": "sp-032-c013_luxury",
+          "ma_san_pham": "C013 Luxury",
+          "ten_san_pham": "Bộ tủ gương & lavabo",
+          "gia_niem_yet": "33,696,000 VNĐ",
+          "danh_muc": "Tủ chậu lavabo",
+          "hinh_anh": "assets/products/C013_Luxury.jpg",
+          "bbox_page": {
+            "x": 72.91,
+            "y": 52.03,
+            "w": 18.23,
+            "h": 38.84
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 19,
+      "trang_catalogue": "33 - 34",
+      "tieu_de": "Lavabo TUSLO - Đường Nét Tinh Tế & Men Sứ Trắng Sáng",
+      "chuyen_muc": "Lavabo",
+      "hinh_anh": "assets/pages/page_19.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 20,
+      "trang_catalogue": "35 - 36",
+      "tieu_de": "Lavabo Âm Bàn, Treo Tường & Đặt Bàn (L047 - L009)",
+      "chuyen_muc": "Lavabo",
+      "hinh_anh": "assets/pages/page_20.jpg",
+      "so_san_pham": 10,
+      "san_pham": [
+        {
+          "id": "sp-033-l047",
+          "ma_san_pham": "L047",
+          "ten_san_pham": "Lavabo âm bàn",
+          "gia_niem_yet": "980,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L047.jpg",
+          "bbox_page": {
+            "x": 2.1,
+            "y": 2.97,
+            "w": 46.45,
+            "h": 17.22
+          }
+        },
+        {
+          "id": "sp-034-l048",
+          "ma_san_pham": "L048",
+          "ten_san_pham": "Lavabo treo tường",
+          "gia_niem_yet": "1,242,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L048.jpg",
+          "bbox_page": {
+            "x": 2.1,
+            "y": 22.33,
+            "w": 46.45,
+            "h": 16.87
+          }
+        },
+        {
+          "id": "sp-035-l049",
+          "ma_san_pham": "L049",
+          "ten_san_pham": "Lavabo treo tường",
+          "gia_niem_yet": "1,350,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L049.jpg",
+          "bbox_page": {
+            "x": 2.1,
+            "y": 40.98,
+            "w": 46.45,
+            "h": 16.99
+          }
+        },
+        {
+          "id": "sp-036-l050",
+          "ma_san_pham": "L050",
+          "ten_san_pham": "Lavabo treo tường",
+          "gia_niem_yet": "1,350,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L050.jpg",
+          "bbox_page": {
+            "x": 2.1,
+            "y": 59.98,
+            "w": 46.45,
+            "h": 16.63
+          }
+        },
+        {
+          "id": "sp-037-l006",
+          "ma_san_pham": "L006",
+          "ten_san_pham": "Lavabo đặt bàn",
+          "gia_niem_yet": "1,350,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L006.jpg",
+          "bbox_page": {
+            "x": 2.1,
+            "y": 75.43,
+            "w": 45.36,
+            "h": 19.84
+          }
+        },
+        {
+          "id": "sp-038-l005",
+          "ma_san_pham": "L005",
+          "ten_san_pham": "Lavabo đặt bàn",
+          "gia_niem_yet": "1,404,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L005.jpg",
+          "bbox_page": {
+            "x": 52.5,
+            "y": 2.97,
+            "w": 46.2,
+            "h": 17.82
+          }
+        },
+        {
+          "id": "sp-039-l008",
+          "ma_san_pham": "L008",
+          "ten_san_pham": "Lavabo đặt bàn",
+          "gia_niem_yet": "1,404,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L008.jpg",
+          "bbox_page": {
+            "x": 52.5,
+            "y": 21.62,
+            "w": 46.2,
+            "h": 17.82
+          }
+        },
+        {
+          "id": "sp-040-l003",
+          "ma_san_pham": "L003",
+          "ten_san_pham": "Lavabo treo tường",
+          "gia_niem_yet": "1,512,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L003.jpg",
+          "bbox_page": {
+            "x": 52.5,
+            "y": 39.79,
+            "w": 45.36,
+            "h": 18.65
+          }
+        },
+        {
+          "id": "sp-041-l007",
+          "ma_san_pham": "L007",
+          "ten_san_pham": "Lavabo đặt bàn",
+          "gia_niem_yet": "1,620,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L007.jpg",
+          "bbox_page": {
+            "x": 52.24,
+            "y": 58.8,
+            "w": 45.61,
+            "h": 18.17
+          }
+        },
+        {
+          "id": "sp-042-l009",
+          "ma_san_pham": "L009",
+          "ten_san_pham": "Lavabo đặt bàn",
+          "gia_niem_yet": "1,620,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L009.jpg",
+          "bbox_page": {
+            "x": 52.5,
+            "y": 77.21,
+            "w": 46.2,
+            "h": 18.05
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 21,
+      "trang_catalogue": "37 - 38",
+      "tieu_de": "Lavabo Đặt Bàn & Treo Tường Pro (L010 - L037 Pro)",
+      "chuyen_muc": "Lavabo",
+      "hinh_anh": "assets/pages/page_21.jpg",
+      "so_san_pham": 8,
+      "san_pham": [
+        {
+          "id": "sp-043-l010",
+          "ma_san_pham": "L010",
+          "ten_san_pham": "Lavabo đặt bàn/treo tường",
+          "gia_niem_yet": "1,620,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L010.jpg",
+          "bbox_page": {
+            "x": 2.94,
+            "y": 2.61,
+            "w": 44.52,
+            "h": 17.82
+          }
+        },
+        {
+          "id": "sp-044-l011",
+          "ma_san_pham": "L011",
+          "ten_san_pham": "Lavabo đặt bàn/treo tường",
+          "gia_niem_yet": "1,620,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L011.jpg",
+          "bbox_page": {
+            "x": 2.94,
+            "y": 20.79,
+            "w": 45.36,
+            "h": 18.65
+          }
+        },
+        {
+          "id": "sp-045-l012",
+          "ma_san_pham": "L012",
+          "ten_san_pham": "Lavabo đặt bàn",
+          "gia_niem_yet": "1,620,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L012.jpg",
+          "bbox_page": {
+            "x": 2.94,
+            "y": 39.79,
+            "w": 44.94,
+            "h": 18.65
+          }
+        },
+        {
+          "id": "sp-046-l013_pro",
+          "ma_san_pham": "L013 Pro",
+          "ten_san_pham": "Lavabo đặt bàn",
+          "gia_niem_yet": "2,268,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L013_Pro.jpg",
+          "bbox_page": {
+            "x": 2.94,
+            "y": 58.44,
+            "w": 44.1,
+            "h": 18.53
+          }
+        },
+        {
+          "id": "sp-047-l015_pro",
+          "ma_san_pham": "L015 Pro",
+          "ten_san_pham": "Lavabo đặt bàn/treo tường",
+          "gia_niem_yet": "2,268,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L015_Pro.jpg",
+          "bbox_page": {
+            "x": 2.69,
+            "y": 76.61,
+            "w": 44.35,
+            "h": 18.17
+          }
+        },
+        {
+          "id": "sp-048-l014_pro",
+          "ma_san_pham": "L014 Pro",
+          "ten_san_pham": "Lavabo đặt bàn",
+          "gia_niem_yet": "2,376,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L014_Pro.jpg",
+          "bbox_page": {
+            "x": 53.34,
+            "y": 2.61,
+            "w": 45.36,
+            "h": 18.17
+          }
+        },
+        {
+          "id": "sp-049-l036_pro",
+          "ma_san_pham": "L036 Pro",
+          "ten_san_pham": "Lavabo treo tường",
+          "gia_niem_yet": "2,808,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L036_Pro.jpg",
+          "bbox_page": {
+            "x": 53.08,
+            "y": 19.6,
+            "w": 45.61,
+            "h": 19.84
+          }
+        },
+        {
+          "id": "sp-050-l037_pro",
+          "ma_san_pham": "L037 Pro",
+          "ten_san_pham": "Lavabo treo tường",
+          "gia_niem_yet": "3,132,000 VNĐ",
+          "danh_muc": "Lavabo",
+          "hinh_anh": "assets/products/L037_Pro.jpg",
+          "bbox_page": {
+            "x": 53.08,
+            "y": 39.79,
+            "w": 45.61,
+            "h": 18.65
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 22,
+      "trang_catalogue": "39 - 40",
+      "tieu_de": "Vòi Lavabo TUSLO - Tuyệt Tác Tinh Thể Chrome & PVD",
+      "chuyen_muc": "Vòi lavabo",
+      "hinh_anh": "assets/pages/page_22.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 23,
+      "trang_catalogue": "41 - 42",
+      "tieu_de": "Vòi Lavabo Lạnh & Nóng Lạnh Thân Đồng Thau (F001 - F018)",
+      "chuyen_muc": "Vòi lavabo",
+      "hinh_anh": "assets/pages/page_23.jpg",
+      "so_san_pham": 18,
+      "san_pham": [
+        {
+          "id": "sp-051-f011",
+          "ma_san_pham": "F011",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "950,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F011.jpg",
+          "bbox_page": {
+            "x": 3.78,
+            "y": 3.33,
+            "w": 13.44,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-052-f017",
+          "ma_san_pham": "F017",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "993,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F017.jpg",
+          "bbox_page": {
+            "x": 19.15,
+            "y": 3.33,
+            "w": 13.19,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-053-f016",
+          "ma_san_pham": "F016",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "1,058,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F016.jpg",
+          "bbox_page": {
+            "x": 34.27,
+            "y": 3.33,
+            "w": 13.19,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-054-f010",
+          "ma_san_pham": "F010",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "1,188,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F010.jpg",
+          "bbox_page": {
+            "x": 3.78,
+            "y": 26.37,
+            "w": 13.44,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-055-f012",
+          "ma_san_pham": "F012",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "1,188,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F012.jpg",
+          "bbox_page": {
+            "x": 19.15,
+            "y": 26.37,
+            "w": 13.19,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-056-f014",
+          "ma_san_pham": "F014",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "1,188,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F014.jpg",
+          "bbox_page": {
+            "x": 34.27,
+            "y": 26.37,
+            "w": 13.19,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-057-f018",
+          "ma_san_pham": "F018",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "1,296,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F018.jpg",
+          "bbox_page": {
+            "x": 3.78,
+            "y": 49.65,
+            "w": 13.44,
+            "h": 23.4
+          }
+        },
+        {
+          "id": "sp-058-f001_luxury",
+          "ma_san_pham": "F001 Luxury",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "1,404,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F001_Luxury.jpg",
+          "bbox_page": {
+            "x": 19.15,
+            "y": 49.65,
+            "w": 13.19,
+            "h": 23.4
+          }
+        },
+        {
+          "id": "sp-059-f002_luxury",
+          "ma_san_pham": "F002 Luxury",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "1,404,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F002_Luxury.jpg",
+          "bbox_page": {
+            "x": 34.27,
+            "y": 49.65,
+            "w": 13.19,
+            "h": 23.4
+          }
+        },
+        {
+          "id": "sp-060-f005_luxury",
+          "ma_san_pham": "F005 Luxury",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "2,160,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F005_Luxury.jpg",
+          "bbox_page": {
+            "x": 3.78,
+            "y": 73.05,
+            "w": 13.44,
+            "h": 23.52
+          }
+        },
+        {
+          "id": "sp-061-f013",
+          "ma_san_pham": "F013",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "1,836,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F013.jpg",
+          "bbox_page": {
+            "x": 19.15,
+            "y": 73.05,
+            "w": 13.19,
+            "h": 23.52
+          }
+        },
+        {
+          "id": "sp-062-f015",
+          "ma_san_pham": "F015",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "1,944,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F015.jpg",
+          "bbox_page": {
+            "x": 34.27,
+            "y": 73.05,
+            "w": 13.19,
+            "h": 23.52
+          }
+        },
+        {
+          "id": "sp-063-f003_luxury",
+          "ma_san_pham": "F003 Luxury",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "2,160,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F003_Luxury.jpg",
+          "bbox_page": {
+            "x": 53.76,
+            "y": 3.33,
+            "w": 13.02,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-064-f004_luxury",
+          "ma_san_pham": "F004 Luxury",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "2,160,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F004_Luxury.jpg",
+          "bbox_page": {
+            "x": 69.04,
+            "y": 3.33,
+            "w": 13.1,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-065-f006_luxury",
+          "ma_san_pham": "F006 Luxury",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "2,160,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F006_Luxury.jpg",
+          "bbox_page": {
+            "x": 84.41,
+            "y": 3.33,
+            "w": 13.44,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-066-f008_luxury",
+          "ma_san_pham": "F008 Luxury",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "3,024,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F008_Luxury.jpg",
+          "bbox_page": {
+            "x": 53.76,
+            "y": 26.73,
+            "w": 13.02,
+            "h": 22.81
+          }
+        },
+        {
+          "id": "sp-067-f007_luxury",
+          "ma_san_pham": "F007 Luxury",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "3,024,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F007_Luxury.jpg",
+          "bbox_page": {
+            "x": 69.04,
+            "y": 26.73,
+            "w": 13.1,
+            "h": 22.81
+          }
+        },
+        {
+          "id": "sp-068-f009_luxury",
+          "ma_san_pham": "F009 Luxury",
+          "ten_san_pham": "Vòi lavabo",
+          "gia_niem_yet": "3,024,000 VNĐ",
+          "danh_muc": "Vòi lavabo",
+          "hinh_anh": "assets/products/F009_Luxury.jpg",
+          "bbox_page": {
+            "x": 84.41,
+            "y": 26.73,
+            "w": 13.44,
+            "h": 22.81
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 24,
+      "trang_catalogue": "43 - 44",
+      "tieu_de": "Vòi Lavabo Cảm Ứng Luxury & Công Nghệ Cảm Biến Hồng Ngoại (F019 - F024)",
+      "chuyen_muc": "Vòi cảm ứng",
+      "hinh_anh": "assets/pages/page_24.jpg",
+      "so_san_pham": 6,
+      "san_pham": [
+        {
+          "id": "sp-069-f020_luxury",
+          "ma_san_pham": "F020 Luxury",
+          "ten_san_pham": "Vòi lavabo cảm ứng",
+          "gia_niem_yet": "5,076,000 VNĐ",
+          "danh_muc": "Vòi cảm ứng",
+          "hinh_anh": "assets/products/F020_Luxury.jpg",
+          "bbox_page": {
+            "x": 54.18,
+            "y": 2.38,
+            "w": 13.44,
+            "h": 25.54
+          }
+        },
+        {
+          "id": "sp-070-f022_luxury",
+          "ma_san_pham": "F022 Luxury",
+          "ten_san_pham": "Vòi lavabo cảm ứng",
+          "gia_niem_yet": "5,188,000 VNĐ",
+          "danh_muc": "Vòi cảm ứng",
+          "hinh_anh": "assets/products/F022_Luxury.jpg",
+          "bbox_page": {
+            "x": 69.55,
+            "y": 2.38,
+            "w": 13.44,
+            "h": 25.54
+          }
+        },
+        {
+          "id": "sp-071-f019_luxury",
+          "ma_san_pham": "F019 Luxury",
+          "ten_san_pham": "Vòi lavabo cảm ứng",
+          "gia_niem_yet": "5,508,000 VNĐ",
+          "danh_muc": "Vòi cảm ứng",
+          "hinh_anh": "assets/products/F019_Luxury.jpg",
+          "bbox_page": {
+            "x": 84.67,
+            "y": 2.38,
+            "w": 13.44,
+            "h": 25.54
+          }
+        },
+        {
+          "id": "sp-072-f021_luxury",
+          "ma_san_pham": "F021 Luxury",
+          "ten_san_pham": "Vòi lavabo cảm ứng",
+          "gia_niem_yet": "7,344,000 VNĐ",
+          "danh_muc": "Vòi cảm ứng",
+          "hinh_anh": "assets/products/F021_Luxury.jpg",
+          "bbox_page": {
+            "x": 54.18,
+            "y": 31.83,
+            "w": 13.44,
+            "h": 24.35
+          }
+        },
+        {
+          "id": "sp-073-f023_luxury",
+          "ma_san_pham": "F023 Luxury",
+          "ten_san_pham": "Vòi lavabo cảm ứng",
+          "gia_niem_yet": "7,452,000 VNĐ",
+          "danh_muc": "Vòi cảm ứng",
+          "hinh_anh": "assets/products/F023_Luxury.jpg",
+          "bbox_page": {
+            "x": 69.55,
+            "y": 31.83,
+            "w": 13.44,
+            "h": 24.35
+          }
+        },
+        {
+          "id": "sp-074-f024_luxury",
+          "ma_san_pham": "F024 Luxury",
+          "ten_san_pham": "Vòi lavabo cảm ứng",
+          "gia_niem_yet": "10,368,000 VNĐ",
+          "danh_muc": "Vòi cảm ứng",
+          "hinh_anh": "assets/products/F024_Luxury.jpg",
+          "bbox_page": {
+            "x": 84.67,
+            "y": 31.83,
+            "w": 13.44,
+            "h": 24.35
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 25,
+      "trang_catalogue": "45 - 46",
+      "tieu_de": "Sen Tắm TUSLO - Đánh Thức Mọi Giác Quan",
+      "chuyen_muc": "Sen tắm",
+      "hinh_anh": "assets/pages/page_25.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 26,
+      "trang_catalogue": "47 - 48",
+      "tieu_de": "Sen Dây & Sen Cây TUSLO (S001 Luxury - S021)",
+      "chuyen_muc": "Sen tắm",
+      "hinh_anh": "assets/pages/page_26.jpg",
+      "so_san_pham": 12,
+      "san_pham": [
+        {
+          "id": "sp-075-s020",
+          "ma_san_pham": "S020",
+          "ten_san_pham": "Sen dây",
+          "gia_niem_yet": "864,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S020.jpg",
+          "bbox_page": {
+            "x": 2.52,
+            "y": 7.13,
+            "w": 14.11,
+            "h": 39.55
+          }
+        },
+        {
+          "id": "sp-076-s012",
+          "ma_san_pham": "S012",
+          "ten_san_pham": "Sen dây",
+          "gia_niem_yet": "1,706,400 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S012.jpg",
+          "bbox_page": {
+            "x": 17.47,
+            "y": 7.13,
+            "w": 13.44,
+            "h": 39.55
+          }
+        },
+        {
+          "id": "sp-077-s014",
+          "ma_san_pham": "S014",
+          "ten_san_pham": "Sen dây",
+          "gia_niem_yet": "2,160,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S014.jpg",
+          "bbox_page": {
+            "x": 32.09,
+            "y": 7.13,
+            "w": 13.44,
+            "h": 39.55
+          }
+        },
+        {
+          "id": "sp-078-s001_luxury",
+          "ma_san_pham": "S001 Luxury",
+          "ten_san_pham": "Sen dây",
+          "gia_niem_yet": "2,160,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S001_Luxury.jpg",
+          "bbox_page": {
+            "x": 2.52,
+            "y": 52.86,
+            "w": 14.11,
+            "h": 39.67
+          }
+        },
+        {
+          "id": "sp-079-s011",
+          "ma_san_pham": "S011",
+          "ten_san_pham": "Sen dây",
+          "gia_niem_yet": "2,376,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S011.jpg",
+          "bbox_page": {
+            "x": 17.47,
+            "y": 52.86,
+            "w": 13.44,
+            "h": 39.67
+          }
+        },
+        {
+          "id": "sp-080-s013",
+          "ma_san_pham": "S013",
+          "ten_san_pham": "Sen dây",
+          "gia_niem_yet": "2,376,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S013.jpg",
+          "bbox_page": {
+            "x": 32.09,
+            "y": 52.86,
+            "w": 13.44,
+            "h": 39.67
+          }
+        },
+        {
+          "id": "sp-081-s002_luxury",
+          "ma_san_pham": "S002 Luxury",
+          "ten_san_pham": "Sen dây",
+          "gia_niem_yet": "2,700,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S002_Luxury.jpg",
+          "bbox_page": {
+            "x": 52.92,
+            "y": 7.13,
+            "w": 13.44,
+            "h": 39.55
+          }
+        },
+        {
+          "id": "sp-082-s021",
+          "ma_san_pham": "S021",
+          "ten_san_pham": "Sen cây",
+          "gia_niem_yet": "1,944,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S021.jpg",
+          "bbox_page": {
+            "x": 67.36,
+            "y": 5.94,
+            "w": 13.69,
+            "h": 40.74
+          }
+        },
+        {
+          "id": "sp-083-s005",
+          "ma_san_pham": "S005",
+          "ten_san_pham": "Sen cây",
+          "gia_niem_yet": "2,700,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S005.jpg",
+          "bbox_page": {
+            "x": 82.15,
+            "y": 7.13,
+            "w": 13.61,
+            "h": 39.55
+          }
+        },
+        {
+          "id": "sp-084-s006",
+          "ma_san_pham": "S006",
+          "ten_san_pham": "Sen cây",
+          "gia_niem_yet": "3,240,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S006.jpg",
+          "bbox_page": {
+            "x": 52.92,
+            "y": 52.86,
+            "w": 13.44,
+            "h": 39.67
+          }
+        },
+        {
+          "id": "sp-085-s009",
+          "ma_san_pham": "S009",
+          "ten_san_pham": "Sen cây",
+          "gia_niem_yet": "2,700,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S009.jpg",
+          "bbox_page": {
+            "x": 67.36,
+            "y": 52.86,
+            "w": 13.69,
+            "h": 39.67
+          }
+        },
+        {
+          "id": "sp-086-s007",
+          "ma_san_pham": "S007",
+          "ten_san_pham": "Sen cây",
+          "gia_niem_yet": "3,888,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S007.jpg",
+          "bbox_page": {
+            "x": 82.15,
+            "y": 52.86,
+            "w": 13.61,
+            "h": 39.67
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 27,
+      "trang_catalogue": "49 - 50",
+      "tieu_de": "Sen Cây Cao Cấp & Công Nghệ Mạ Chrome 4 Lớp (S003 Luxury - S018 Luxury)",
+      "chuyen_muc": "Sen tắm",
+      "hinh_anh": "assets/pages/page_27.jpg",
+      "so_san_pham": 6,
+      "san_pham": [
+        {
+          "id": "sp-087-s004",
+          "ma_san_pham": "S004",
+          "ten_san_pham": "Sen cây",
+          "gia_niem_yet": "4,104,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S004.jpg",
+          "bbox_page": {
+            "x": 4.03,
+            "y": 7.13,
+            "w": 13.19,
+            "h": 39.32
+          }
+        },
+        {
+          "id": "sp-088-s003_luxury",
+          "ma_san_pham": "S003 Luxury",
+          "ten_san_pham": "Sen cây",
+          "gia_niem_yet": "4,212,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S003_Luxury.jpg",
+          "bbox_page": {
+            "x": 18.65,
+            "y": 7.13,
+            "w": 13.27,
+            "h": 39.32
+          }
+        },
+        {
+          "id": "sp-089-s008",
+          "ma_san_pham": "S008",
+          "ten_san_pham": "Sen cây",
+          "gia_niem_yet": "4,428,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S008.jpg",
+          "bbox_page": {
+            "x": 33.18,
+            "y": 7.13,
+            "w": 14.28,
+            "h": 39.32
+          }
+        },
+        {
+          "id": "sp-090-s010",
+          "ma_san_pham": "S010",
+          "ten_san_pham": "Sen cây",
+          "gia_niem_yet": "4,428,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S010.jpg",
+          "bbox_page": {
+            "x": 4.03,
+            "y": 52.86,
+            "w": 13.19,
+            "h": 39.2
+          }
+        },
+        {
+          "id": "sp-091-s017_luxury",
+          "ma_san_pham": "S017 Luxury",
+          "ten_san_pham": "Sen cây",
+          "gia_niem_yet": "14,904,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S017_Luxury.jpg",
+          "bbox_page": {
+            "x": 18.65,
+            "y": 52.86,
+            "w": 13.27,
+            "h": 39.2
+          }
+        },
+        {
+          "id": "sp-092-s018_luxury",
+          "ma_san_pham": "S018 Luxury",
+          "ten_san_pham": "Sen cây",
+          "gia_niem_yet": "8,064,360 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S018_Luxury.jpg",
+          "bbox_page": {
+            "x": 33.18,
+            "y": 52.86,
+            "w": 14.28,
+            "h": 39.2
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 28,
+      "trang_catalogue": "51 - 52",
+      "tieu_de": "Nghệ Thuật Của Ánh Sáng - Gương & Gương LED TUSLO (M001 - M006)",
+      "chuyen_muc": "Gương",
+      "hinh_anh": "assets/pages/page_28.jpg",
+      "so_san_pham": 6,
+      "san_pham": [
+        {
+          "id": "sp-093-m001",
+          "ma_san_pham": "M001",
+          "ten_san_pham": "Gương",
+          "gia_niem_yet": "313,200 VNĐ",
+          "danh_muc": "Gương",
+          "hinh_anh": "assets/products/M001.jpg",
+          "bbox_page": {
+            "x": 53.34,
+            "y": 8.55,
+            "w": 13.02,
+            "h": 33.02
+          }
+        },
+        {
+          "id": "sp-094-m002",
+          "ma_san_pham": "M002",
+          "ten_san_pham": "Gương",
+          "gia_niem_yet": "313,200 VNĐ",
+          "danh_muc": "Gương",
+          "hinh_anh": "assets/products/M002.jpg",
+          "bbox_page": {
+            "x": 68.46,
+            "y": 8.55,
+            "w": 13.02,
+            "h": 33.02
+          }
+        },
+        {
+          "id": "sp-095-m003",
+          "ma_san_pham": "M003",
+          "ten_san_pham": "Gương khung",
+          "gia_niem_yet": "1,069,000 VNĐ",
+          "danh_muc": "Gương",
+          "hinh_anh": "assets/products/M003.jpg",
+          "bbox_page": {
+            "x": 83.32,
+            "y": 8.55,
+            "w": 12.85,
+            "h": 33.02
+          }
+        },
+        {
+          "id": "sp-096-m004",
+          "ma_san_pham": "M004",
+          "ten_san_pham": "Gương khung",
+          "gia_niem_yet": "1,069,000 VNĐ",
+          "danh_muc": "Gương",
+          "hinh_anh": "assets/products/M004.jpg",
+          "bbox_page": {
+            "x": 53.34,
+            "y": 56.06,
+            "w": 13.02,
+            "h": 33.02
+          }
+        },
+        {
+          "id": "sp-097-m005",
+          "ma_san_pham": "M005",
+          "ten_san_pham": "Gương khung đèn Led",
+          "gia_niem_yet": "1,965,000 VNĐ",
+          "danh_muc": "Gương",
+          "hinh_anh": "assets/products/M005.jpg",
+          "bbox_page": {
+            "x": 68.46,
+            "y": 56.06,
+            "w": 13.02,
+            "h": 33.02
+          }
+        },
+        {
+          "id": "sp-098-m006",
+          "ma_san_pham": "M006",
+          "ten_san_pham": "Gương khung đèn Led",
+          "gia_niem_yet": "1,965,000 VNĐ",
+          "danh_muc": "Gương",
+          "hinh_anh": "assets/products/M006.jpg",
+          "bbox_page": {
+            "x": 83.32,
+            "y": 56.06,
+            "w": 12.85,
+            "h": 33.02
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 29,
+      "trang_catalogue": "53 - 54",
+      "tieu_de": "Bồn Tắm TUSLO - Trải Nghiệm Spa Tại Gia",
+      "chuyen_muc": "Bồn tắm",
+      "hinh_anh": "assets/pages/page_29.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 30,
+      "trang_catalogue": "55 - 56",
+      "tieu_de": "Bồn Tắm Đặt Sàn, Bồn Tắm Massage, Sen Bồn Tắm & Buồng Tắm Đứng (B001 - R001)",
+      "chuyen_muc": "Bồn tắm",
+      "hinh_anh": "assets/pages/page_30.jpg",
+      "so_san_pham": 7,
+      "san_pham": [
+        {
+          "id": "sp-099-b004_luxury",
+          "ma_san_pham": "B004 Luxury",
+          "ten_san_pham": "Bồn tắm đặt sàn",
+          "gia_niem_yet": "18,144,000 VNĐ",
+          "danh_muc": "Bồn tắm",
+          "hinh_anh": "assets/products/B004_Luxury.jpg",
+          "bbox_page": {
+            "x": 3.78,
+            "y": 15.44,
+            "w": 27.47,
+            "h": 39.79
+          }
+        },
+        {
+          "id": "sp-100-s022_luxury",
+          "ma_san_pham": "S022 Luxury",
+          "ten_san_pham": "Bộ sen vòi bồn tắm",
+          "gia_niem_yet": "4,320,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S022_Luxury.jpg",
+          "bbox_page": {
+            "x": 31.5,
+            "y": 34.45,
+            "w": 13.44,
+            "h": 23.76
+          }
+        },
+        {
+          "id": "sp-101-b005_luxury",
+          "ma_san_pham": "B005 Luxury",
+          "ten_san_pham": "Bồn tắm đặt sàn",
+          "gia_niem_yet": "33,480,000 VNĐ",
+          "danh_muc": "Bồn tắm",
+          "hinh_anh": "assets/products/B005_Luxury.jpg",
+          "bbox_page": {
+            "x": 3.19,
+            "y": 69.49,
+            "w": 27.72,
+            "h": 30.51
+          }
+        },
+        {
+          "id": "sp-102-s023_luxury",
+          "ma_san_pham": "S023 Luxury",
+          "ten_san_pham": "Vòi sen đặt sàn",
+          "gia_niem_yet": "8,640,000 VNĐ",
+          "danh_muc": "Sen tắm",
+          "hinh_anh": "assets/products/S023_Luxury.jpg",
+          "bbox_page": {
+            "x": 30.66,
+            "y": 67.47,
+            "w": 15.96,
+            "h": 32.31
+          }
+        },
+        {
+          "id": "sp-103-b001_luxury",
+          "ma_san_pham": "B001 Luxury",
+          "ten_san_pham": "Bồn tắm massage chân yếm (đặt sàn)",
+          "gia_niem_yet": "22,680,000 VNĐ",
+          "danh_muc": "Bồn tắm",
+          "hinh_anh": "assets/products/B001_Luxury.jpg",
+          "bbox_page": {
+            "x": 50.56,
+            "y": 2.14,
+            "w": 25.7,
+            "h": 42.4
+          }
+        },
+        {
+          "id": "sp-104-b002_luxury",
+          "ma_san_pham": "B002 Luxury",
+          "ten_san_pham": "Bồn tắm massage chân yếm (đặt sàn)",
+          "gia_niem_yet": "28,944,000 VNĐ",
+          "danh_muc": "Bồn tắm",
+          "hinh_anh": "assets/products/B002_Luxury.jpg",
+          "bbox_page": {
+            "x": 52.24,
+            "y": 35.04,
+            "w": 26.04,
+            "h": 37.06
+          }
+        },
+        {
+          "id": "sp-105-r001_luxury",
+          "ma_san_pham": "R001 Luxury",
+          "ten_san_pham": "Buồng tắm đứng",
+          "gia_niem_yet": "8,856,000 VNĐ",
+          "danh_muc": "Bồn tắm",
+          "hinh_anh": "assets/products/R001_Luxury.jpg",
+          "bbox_page": {
+            "x": 58.38,
+            "y": 65.92,
+            "w": 15.54,
+            "h": 34.08
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 31,
+      "trang_catalogue": "57 - 58",
+      "tieu_de": "Bồn Tiểu Nam & Van Xả Tiểu Cảm Ứng / Nút Nhấn (U001, U002, A052, A053)",
+      "chuyen_muc": "Bồn tiểu nam",
+      "hinh_anh": "assets/pages/page_31.jpg",
+      "so_san_pham": 4,
+      "san_pham": [
+        {
+          "id": "sp-106-a052_luxury",
+          "ma_san_pham": "A052 Luxury",
+          "ten_san_pham": "Van xả tiểu cảm ứng",
+          "gia_niem_yet": "3,142,800 VNĐ",
+          "danh_muc": "Bồn tiểu nam",
+          "hinh_anh": "assets/products/A052_Luxury.jpg",
+          "bbox_page": {
+            "x": 5.46,
+            "y": 6.53,
+            "w": 8.4,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-107-a053_luxury",
+          "ma_san_pham": "A053 Luxury",
+          "ten_san_pham": "Van xả tiểu nút nhấn",
+          "gia_niem_yet": "896,000 VNĐ",
+          "danh_muc": "Bồn tiểu nam",
+          "hinh_anh": "assets/products/A053_Luxury.jpg",
+          "bbox_page": {
+            "x": 27.72,
+            "y": 6.53,
+            "w": 7.14,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-108-u001_luxury",
+          "ma_san_pham": "U001 Luxury",
+          "ten_san_pham": "Bồn tiểu nam treo tường",
+          "gia_niem_yet": "2,916,000 VNĐ",
+          "danh_muc": "Bồn tiểu nam",
+          "hinh_anh": "assets/products/U001_Luxury.jpg",
+          "bbox_page": {
+            "x": 5.21,
+            "y": 23.52,
+            "w": 8.4,
+            "h": 31.48
+          }
+        },
+        {
+          "id": "sp-109-u002_luxury",
+          "ma_san_pham": "U002 Luxury",
+          "ten_san_pham": "Bồn tiểu nam treo tường",
+          "gia_niem_yet": "3,564,000 VNĐ",
+          "danh_muc": "Bồn tiểu nam",
+          "hinh_anh": "assets/products/U002_Luxury.jpg",
+          "bbox_page": {
+            "x": 27.05,
+            "y": 23.52,
+            "w": 8.06,
+            "h": 31.48
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 32,
+      "trang_catalogue": "59 - 60",
+      "tieu_de": "Phụ Kiện Và Tiện Nghi Phòng Tắm TUSLO",
+      "chuyen_muc": "Phụ kiện nhà tắm",
+      "hinh_anh": "assets/pages/page_32.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 33,
+      "trang_catalogue": "61 - 62",
+      "tieu_de": "Phụ Kiện Phòng Tắm: Thoát Sàn, Giá Khăn, Hộp Giấy, Kệ Kính (A006 - A097)",
+      "chuyen_muc": "Phụ kiện nhà tắm",
+      "hinh_anh": "assets/pages/page_33.jpg",
+      "so_san_pham": 32,
+      "san_pham": [
+        {
+          "id": "sp-110-a041",
+          "ma_san_pham": "A041",
+          "ten_san_pham": "Thoát sàn",
+          "gia_niem_yet": "216,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A041.jpg",
+          "bbox_page": {
+            "x": 3.53,
+            "y": 4.51,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-111-a042",
+          "ma_san_pham": "A042",
+          "ten_san_pham": "Thoát sàn",
+          "gia_niem_yet": "216,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A042.jpg",
+          "bbox_page": {
+            "x": 14.45,
+            "y": 4.51,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-112-a043",
+          "ma_san_pham": "A043",
+          "ten_san_pham": "Thoát sàn",
+          "gia_niem_yet": "216,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A043.jpg",
+          "bbox_page": {
+            "x": 25.37,
+            "y": 4.51,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-113-a045",
+          "ma_san_pham": "A045",
+          "ten_san_pham": "Thoát sàn",
+          "gia_niem_yet": "216,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A045.jpg",
+          "bbox_page": {
+            "x": 36.29,
+            "y": 4.51,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-114-a046",
+          "ma_san_pham": "A046",
+          "ten_san_pham": "Thoát sàn",
+          "gia_niem_yet": "270,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A046.jpg",
+          "bbox_page": {
+            "x": 3.53,
+            "y": 28.03,
+            "w": 10.58,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-115-a047",
+          "ma_san_pham": "A047",
+          "ten_san_pham": "Thoát sàn",
+          "gia_niem_yet": "324,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A047.jpg",
+          "bbox_page": {
+            "x": 14.45,
+            "y": 28.03,
+            "w": 10.58,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-116-a071",
+          "ma_san_pham": "A071",
+          "ten_san_pham": "Thoát sàn",
+          "gia_niem_yet": "1,296,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A071.jpg",
+          "bbox_page": {
+            "x": 25.37,
+            "y": 28.03,
+            "w": 10.58,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-117-a072",
+          "ma_san_pham": "A072",
+          "ten_san_pham": "Thoát sàn",
+          "gia_niem_yet": "1,458,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A072.jpg",
+          "bbox_page": {
+            "x": 36.29,
+            "y": 28.03,
+            "w": 10.58,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-118-a073",
+          "ma_san_pham": "A073",
+          "ten_san_pham": "Thoát sàn",
+          "gia_niem_yet": "2,052,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A073.jpg",
+          "bbox_page": {
+            "x": 3.53,
+            "y": 53.45,
+            "w": 10.58,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-119-a029",
+          "ma_san_pham": "A029",
+          "ten_san_pham": "Giá treo khăn",
+          "gia_niem_yet": "723,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A029.jpg",
+          "bbox_page": {
+            "x": 14.45,
+            "y": 53.45,
+            "w": 10.58,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-120-a031",
+          "ma_san_pham": "A031",
+          "ten_san_pham": "Giá treo khăn",
+          "gia_niem_yet": "486,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A031.jpg",
+          "bbox_page": {
+            "x": 25.37,
+            "y": 53.45,
+            "w": 10.58,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-121-a094",
+          "ma_san_pham": "A094",
+          "ten_san_pham": "Giá treo khăn",
+          "gia_niem_yet": "2,376,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A094.jpg",
+          "bbox_page": {
+            "x": 36.29,
+            "y": 53.45,
+            "w": 10.58,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-122-a096",
+          "ma_san_pham": "A096",
+          "ten_san_pham": "Thanh treo khăn",
+          "gia_niem_yet": "1,296,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A096.jpg",
+          "bbox_page": {
+            "x": 3.53,
+            "y": 76.73,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-123-a097",
+          "ma_san_pham": "A097",
+          "ten_san_pham": "Thanh treo khăn",
+          "gia_niem_yet": "1,080,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A097.jpg",
+          "bbox_page": {
+            "x": 14.45,
+            "y": 76.73,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-124-a028",
+          "ma_san_pham": "A028",
+          "ten_san_pham": "Thanh treo khăn",
+          "gia_niem_yet": "345,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A028.jpg",
+          "bbox_page": {
+            "x": 25.37,
+            "y": 76.73,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-125-a030",
+          "ma_san_pham": "A030",
+          "ten_san_pham": "Thanh treo khăn",
+          "gia_niem_yet": "270,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A030.jpg",
+          "bbox_page": {
+            "x": 36.29,
+            "y": 76.73,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-126-a032",
+          "ma_san_pham": "A032",
+          "ten_san_pham": "Giá treo khăn thông minh",
+          "gia_niem_yet": "2,592,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A032.jpg",
+          "bbox_page": {
+            "x": 53.59,
+            "y": 4.51,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-127-a033",
+          "ma_san_pham": "A033",
+          "ten_san_pham": "Giá treo khăn thông minh",
+          "gia_niem_yet": "4,104,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A033.jpg",
+          "bbox_page": {
+            "x": 64.51,
+            "y": 4.51,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-128-a035",
+          "ma_san_pham": "A035",
+          "ten_san_pham": "Kệ kính",
+          "gia_niem_yet": "552,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A035.jpg",
+          "bbox_page": {
+            "x": 75.43,
+            "y": 4.51,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-129-a006",
+          "ma_san_pham": "A006",
+          "ten_san_pham": "Van cấp nước",
+          "gia_niem_yet": "140,400 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A006.jpg",
+          "bbox_page": {
+            "x": 86.35,
+            "y": 4.51,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-130-a036",
+          "ma_san_pham": "A036",
+          "ten_san_pham": "Kệ treo giấy vệ sinh",
+          "gia_niem_yet": "540,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A036.jpg",
+          "bbox_page": {
+            "x": 53.59,
+            "y": 28.03,
+            "w": 10.58,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-131-a037",
+          "ma_san_pham": "A037",
+          "ten_san_pham": "Kệ treo giấy vệ sinh",
+          "gia_niem_yet": "324,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A037.jpg",
+          "bbox_page": {
+            "x": 64.51,
+            "y": 28.03,
+            "w": 10.58,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-132-a078_pro",
+          "ma_san_pham": "A078 Pro",
+          "ten_san_pham": "Hộp đựng giấy vệ sinh",
+          "gia_niem_yet": "658,800 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A078_Pro.jpg",
+          "bbox_page": {
+            "x": 75.43,
+            "y": 28.03,
+            "w": 10.58,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-133-a079_pro",
+          "ma_san_pham": "A079 Pro",
+          "ten_san_pham": "Hộp đựng giấy vệ sinh",
+          "gia_niem_yet": "658,800 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A079_Pro.jpg",
+          "bbox_page": {
+            "x": 86.35,
+            "y": 28.03,
+            "w": 10.58,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-134-a081_pro",
+          "ma_san_pham": "A081 Pro",
+          "ten_san_pham": "Hộp đựng giấy vệ sinh",
+          "gia_niem_yet": "550,800 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A081_Pro.jpg",
+          "bbox_page": {
+            "x": 53.59,
+            "y": 53.45,
+            "w": 10.58,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-135-a082_pro",
+          "ma_san_pham": "A082 Pro",
+          "ten_san_pham": "Hộp đựng giấy vệ sinh",
+          "gia_niem_yet": "442,800 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A082_Pro.jpg",
+          "bbox_page": {
+            "x": 64.51,
+            "y": 53.45,
+            "w": 10.58,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-136-a038",
+          "ma_san_pham": "A038",
+          "ten_san_pham": "Móc áo",
+          "gia_niem_yet": "432,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A038.jpg",
+          "bbox_page": {
+            "x": 75.43,
+            "y": 53.45,
+            "w": 10.58,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-137-a040",
+          "ma_san_pham": "A040",
+          "ten_san_pham": "Móc áo",
+          "gia_niem_yet": "551,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A040.jpg",
+          "bbox_page": {
+            "x": 86.35,
+            "y": 53.45,
+            "w": 10.58,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-138-a095",
+          "ma_san_pham": "A095",
+          "ten_san_pham": "Móc áo",
+          "gia_niem_yet": "324,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A095.jpg",
+          "bbox_page": {
+            "x": 53.59,
+            "y": 76.73,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-139-a027",
+          "ma_san_pham": "A027",
+          "ten_san_pham": "Kệ đựng bàn chải đánh răng",
+          "gia_niem_yet": "313,200 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A027.jpg",
+          "bbox_page": {
+            "x": 64.51,
+            "y": 76.73,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-140-a034",
+          "ma_san_pham": "A034",
+          "ten_san_pham": "Kệ đựng xà phòng",
+          "gia_niem_yet": "324,000 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A034.jpg",
+          "bbox_page": {
+            "x": 75.43,
+            "y": 76.73,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-141-a050",
+          "ma_san_pham": "A050",
+          "ten_san_pham": "Bộ xả lavabo nút nhấn Inox",
+          "gia_niem_yet": "410,400 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A050.jpg",
+          "bbox_page": {
+            "x": 86.35,
+            "y": 76.73,
+            "w": 10.58,
+            "h": 22.69
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 34,
+      "trang_catalogue": "63 - 64",
+      "tieu_de": "Phụ Kiện Khác: Vòi Xịt, Bát Sen, Tay Sen, Hộp Xà Phòng, Máy Sấy Tay (A003 - A093)",
+      "chuyen_muc": "Phụ kiện khác",
+      "hinh_anh": "assets/pages/page_34.jpg",
+      "so_san_pham": 33,
+      "san_pham": [
+        {
+          "id": "sp-142-a051",
+          "ma_san_pham": "A051",
+          "ten_san_pham": "Bộ xả lavabo nút nhấn sứ",
+          "gia_niem_yet": "410,400 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A051.jpg",
+          "bbox_page": {
+            "x": 3.53,
+            "y": 4.51,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-143-a004",
+          "ma_san_pham": "A004",
+          "ten_san_pham": "Van góc chữ T",
+          "gia_niem_yet": "129,000 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A004.jpg",
+          "bbox_page": {
+            "x": 14.45,
+            "y": 4.51,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-144-a005",
+          "ma_san_pham": "A005",
+          "ten_san_pham": "Dây cấp nước Inox 304",
+          "gia_niem_yet": "75,600 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A005.jpg",
+          "bbox_page": {
+            "x": 25.37,
+            "y": 4.51,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-145-a003",
+          "ma_san_pham": "A003",
+          "ten_san_pham": "Vòi xịt vệ sinh",
+          "gia_niem_yet": "194,400 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A003.jpg",
+          "bbox_page": {
+            "x": 36.29,
+            "y": 4.51,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-146-a023_pro",
+          "ma_san_pham": "A023 Pro",
+          "ten_san_pham": "Vòi xịt vệ sinh",
+          "gia_niem_yet": "345,600 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A023_Pro.jpg",
+          "bbox_page": {
+            "x": 3.53,
+            "y": 28.03,
+            "w": 10.58,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-147-a024_pro",
+          "ma_san_pham": "A024 Pro",
+          "ten_san_pham": "Vòi xịt vệ sinh",
+          "gia_niem_yet": "302,400 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A024_Pro.jpg",
+          "bbox_page": {
+            "x": 14.45,
+            "y": 28.03,
+            "w": 10.58,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-148-a025_pro",
+          "ma_san_pham": "A025 Pro",
+          "ten_san_pham": "Vòi xịt vệ sinh",
+          "gia_niem_yet": "410,400 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A025_Pro.jpg",
+          "bbox_page": {
+            "x": 25.37,
+            "y": 28.03,
+            "w": 10.58,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-149-a026_pro",
+          "ma_san_pham": "A026 Pro",
+          "ten_san_pham": "Vòi xịt vệ sinh",
+          "gia_niem_yet": "345,600 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A026_Pro.jpg",
+          "bbox_page": {
+            "x": 36.29,
+            "y": 28.03,
+            "w": 10.58,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-150-a012",
+          "ma_san_pham": "A012",
+          "ten_san_pham": "Bát sen",
+          "gia_niem_yet": "756,000 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A012.jpg",
+          "bbox_page": {
+            "x": 3.53,
+            "y": 53.45,
+            "w": 10.58,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-151-a013",
+          "ma_san_pham": "A013",
+          "ten_san_pham": "Bát sen",
+          "gia_niem_yet": "367,200 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A013.jpg",
+          "bbox_page": {
+            "x": 14.45,
+            "y": 53.45,
+            "w": 10.58,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-152-a014",
+          "ma_san_pham": "A014",
+          "ten_san_pham": "Bát sen",
+          "gia_niem_yet": "367,200 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A014.jpg",
+          "bbox_page": {
+            "x": 25.37,
+            "y": 53.45,
+            "w": 10.58,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-153-a015",
+          "ma_san_pham": "A015",
+          "ten_san_pham": "Bát sen",
+          "gia_niem_yet": "367,200 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A015.jpg",
+          "bbox_page": {
+            "x": 36.29,
+            "y": 53.45,
+            "w": 10.58,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-154-a016",
+          "ma_san_pham": "A016",
+          "ten_san_pham": "Tay sen",
+          "gia_niem_yet": "216,000 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A016.jpg",
+          "bbox_page": {
+            "x": 3.53,
+            "y": 76.73,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-155-a017",
+          "ma_san_pham": "A017",
+          "ten_san_pham": "Tay sen",
+          "gia_niem_yet": "216,000 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A017.jpg",
+          "bbox_page": {
+            "x": 14.45,
+            "y": 76.73,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-156-a018",
+          "ma_san_pham": "A018",
+          "ten_san_pham": "Tay sen",
+          "gia_niem_yet": "324,000 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A018.jpg",
+          "bbox_page": {
+            "x": 25.37,
+            "y": 76.73,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-157-a019",
+          "ma_san_pham": "A019",
+          "ten_san_pham": "Tay sen",
+          "gia_niem_yet": "248,400 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A019.jpg",
+          "bbox_page": {
+            "x": 36.29,
+            "y": 76.73,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-158-a020",
+          "ma_san_pham": "A020",
+          "ten_san_pham": "Tay sen",
+          "gia_niem_yet": "194,400 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A020.jpg",
+          "bbox_page": {
+            "x": 53.59,
+            "y": 4.51,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-159-a021",
+          "ma_san_pham": "A021",
+          "ten_san_pham": "Tay sen",
+          "gia_niem_yet": "248,400 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A021.jpg",
+          "bbox_page": {
+            "x": 64.51,
+            "y": 4.51,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-160-a022",
+          "ma_san_pham": "A022",
+          "ten_san_pham": "Tay sen",
+          "gia_niem_yet": "194,400 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A022.jpg",
+          "bbox_page": {
+            "x": 75.43,
+            "y": 4.51,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-161-a010",
+          "ma_san_pham": "A010",
+          "ten_san_pham": "Thanh trượt sen tắm",
+          "gia_niem_yet": "432,000 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A010.jpg",
+          "bbox_page": {
+            "x": 86.35,
+            "y": 4.51,
+            "w": 10.58,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-162-a011",
+          "ma_san_pham": "A011",
+          "ten_san_pham": "Thanh trượt sen tắm",
+          "gia_niem_yet": "432,000 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A011.jpg",
+          "bbox_page": {
+            "x": 53.59,
+            "y": 28.03,
+            "w": 10.58,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-163-a054",
+          "ma_san_pham": "A054",
+          "ten_san_pham": "Hộp đựng xà phòng cảm ứng",
+          "gia_niem_yet": "1,965,600 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A054.jpg",
+          "bbox_page": {
+            "x": 64.51,
+            "y": 28.03,
+            "w": 10.58,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-164-a055",
+          "ma_san_pham": "A055",
+          "ten_san_pham": "Hộp đựng xà phòng cảm ứng",
+          "gia_niem_yet": "1,965,600 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A055.jpg",
+          "bbox_page": {
+            "x": 75.43,
+            "y": 28.03,
+            "w": 10.58,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-165-a083_pro",
+          "ma_san_pham": "A083 Pro",
+          "ten_san_pham": "Hộp đựng xà phòng",
+          "gia_niem_yet": "496,800 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A083_Pro.jpg",
+          "bbox_page": {
+            "x": 86.35,
+            "y": 28.03,
+            "w": 10.58,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-166-a084_pro",
+          "ma_san_pham": "A084 Pro",
+          "ten_san_pham": "Hộp đựng xà phòng",
+          "gia_niem_yet": "442,800 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A084_Pro.jpg",
+          "bbox_page": {
+            "x": 53.59,
+            "y": 53.45,
+            "w": 10.58,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-167-a085_pro",
+          "ma_san_pham": "A085 Pro",
+          "ten_san_pham": "Hộp đựng xà phòng đôi",
+          "gia_niem_yet": "626,400 VNĐ",
+          "danh_muc": "Phụ kiện nhà tắm",
+          "hinh_anh": "assets/products/A085_Pro.jpg",
+          "bbox_page": {
+            "x": 64.51,
+            "y": 53.45,
+            "w": 10.58,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-168-a089",
+          "ma_san_pham": "A089",
+          "ten_san_pham": "Dây sen",
+          "gia_niem_yet": "140,400 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A089.jpg",
+          "bbox_page": {
+            "x": 75.43,
+            "y": 53.45,
+            "w": 10.58,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-169-a090",
+          "ma_san_pham": "A090",
+          "ten_san_pham": "Dây sen",
+          "gia_niem_yet": "172,800 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A090.jpg",
+          "bbox_page": {
+            "x": 86.35,
+            "y": 53.45,
+            "w": 10.58,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-170-a091",
+          "ma_san_pham": "A091",
+          "ten_san_pham": "Rửa cơ gắn bồn cầu",
+          "gia_niem_yet": "540,000 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A091.jpg",
+          "bbox_page": {
+            "x": 53.76,
+            "y": 76.73,
+            "w": 7.98,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-171-a093",
+          "ma_san_pham": "A093",
+          "ten_san_pham": "Nắp rửa cơ",
+          "gia_niem_yet": "1,620,000 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A093.jpg",
+          "bbox_page": {
+            "x": 62.16,
+            "y": 76.73,
+            "w": 7.98,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-172-a087_pro",
+          "ma_san_pham": "A087 Pro",
+          "ten_san_pham": "Máy sấy tay",
+          "gia_niem_yet": "3,266,000 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A087_Pro.jpg",
+          "bbox_page": {
+            "x": 70.56,
+            "y": 76.73,
+            "w": 8.4,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-173-a088_pro",
+          "ma_san_pham": "A088 Pro",
+          "ten_san_pham": "Máy sấy tay",
+          "gia_niem_yet": "5,949,000 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A088_Pro.jpg",
+          "bbox_page": {
+            "x": 79.38,
+            "y": 76.73,
+            "w": 8.4,
+            "h": 22.69
+          }
+        },
+        {
+          "id": "sp-174-a092",
+          "ma_san_pham": "A092",
+          "ten_san_pham": "Giá treo vòi sen",
+          "gia_niem_yet": "49,680 VNĐ",
+          "danh_muc": "Phụ kiện khác",
+          "hinh_anh": "assets/products/A092.jpg",
+          "bbox_page": {
+            "x": 88.61,
+            "y": 76.73,
+            "w": 8.4,
+            "h": 22.69
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 35,
+      "trang_catalogue": "65 - 66",
+      "tieu_de": "Chậu Rửa Chén LUSHINE - Trái Tim Của Gian Bếp Hiện Đại",
+      "chuyen_muc": "Chậu rửa chén",
+      "hinh_anh": "assets/pages/page_35.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 36,
+      "trang_catalogue": "67 - 68",
+      "tieu_de": "Công Nghệ Chậu Đá Nhân Tạo & Inox 304 Nano LUSHINE",
+      "chuyen_muc": "Chậu rửa chén",
+      "hinh_anh": "assets/pages/page_36.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 37,
+      "trang_catalogue": "69 - 70",
+      "tieu_de": "Chậu Rửa Chén Inox 304 LUSHINE (D001 - D007, D011 Cenderine)",
+      "chuyen_muc": "Chậu rửa chén",
+      "hinh_anh": "assets/pages/page_37.jpg",
+      "so_san_pham": 8,
+      "san_pham": [
+        {
+          "id": "sp-175-d006",
+          "ma_san_pham": "D006",
+          "ten_san_pham": "Chậu rửa chén inox",
+          "gia_niem_yet": "1,922,400 VNĐ",
+          "danh_muc": "Chậu rửa chén",
+          "hinh_anh": "assets/products/D006.jpg",
+          "bbox_page": {
+            "x": 3.78,
+            "y": 1.78,
+            "w": 44.52,
+            "h": 21.38
+          }
+        },
+        {
+          "id": "sp-176-d007",
+          "ma_san_pham": "D007",
+          "ten_san_pham": "Chậu rửa chén inox",
+          "gia_niem_yet": "2,808,000 VNĐ",
+          "danh_muc": "Chậu rửa chén",
+          "hinh_anh": "assets/products/D007.jpg",
+          "bbox_page": {
+            "x": 3.78,
+            "y": 23.76,
+            "w": 44.52,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-177-d005",
+          "ma_san_pham": "D005",
+          "ten_san_pham": "Chậu rửa chén inox",
+          "gia_niem_yet": "2,916,000 VNĐ",
+          "danh_muc": "Chậu rửa chén",
+          "hinh_anh": "assets/products/D005.jpg",
+          "bbox_page": {
+            "x": 3.78,
+            "y": 48.11,
+            "w": 44.52,
+            "h": 21.38
+          }
+        },
+        {
+          "id": "sp-178-d001",
+          "ma_san_pham": "D001",
+          "ten_san_pham": "Chậu rửa chén inox",
+          "gia_niem_yet": "4,104,000 VNĐ",
+          "danh_muc": "Chậu rửa chén",
+          "hinh_anh": "assets/products/D001.jpg",
+          "bbox_page": {
+            "x": 3.78,
+            "y": 70.67,
+            "w": 44.52,
+            "h": 23.76
+          }
+        },
+        {
+          "id": "sp-179-d004",
+          "ma_san_pham": "D004",
+          "ten_san_pham": "Chậu rửa chén inox",
+          "gia_niem_yet": "5,292,000 VNĐ",
+          "danh_muc": "Chậu rửa chén",
+          "hinh_anh": "assets/products/D004.jpg",
+          "bbox_page": {
+            "x": 53.76,
+            "y": 1.78,
+            "w": 44.52,
+            "h": 21.38
+          }
+        },
+        {
+          "id": "sp-180-d003",
+          "ma_san_pham": "D003",
+          "ten_san_pham": "Chậu rửa chén inox",
+          "gia_niem_yet": "5,400,000 VNĐ",
+          "danh_muc": "Chậu rửa chén",
+          "hinh_anh": "assets/products/D003.jpg",
+          "bbox_page": {
+            "x": 53.76,
+            "y": 23.76,
+            "w": 44.52,
+            "h": 21.97
+          }
+        },
+        {
+          "id": "sp-181-d002",
+          "ma_san_pham": "D002",
+          "ten_san_pham": "Chậu rửa chén inox",
+          "gia_niem_yet": "5,508,000 VNĐ",
+          "danh_muc": "Chậu rửa chén",
+          "hinh_anh": "assets/products/D002.jpg",
+          "bbox_page": {
+            "x": 53.76,
+            "y": 46.92,
+            "w": 44.52,
+            "h": 23.4
+          }
+        },
+        {
+          "id": "sp-182-d011",
+          "ma_san_pham": "D011 “Cenderine”",
+          "ten_san_pham": "Chậu rửa chén inox Cenderine",
+          "gia_niem_yet": "8,100,000 VNĐ",
+          "danh_muc": "Chậu rửa chén",
+          "hinh_anh": "assets/products/D011.jpg",
+          "bbox_page": {
+            "x": 53.76,
+            "y": 70.67,
+            "w": 44.52,
+            "h": 24.11
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 38,
+      "trang_catalogue": "71 - 72",
+      "tieu_de": "Chậu Rửa Chén PVD Nano, Đá Granite & Sóng Siêu Âm UV (D008 - D015)",
+      "chuyen_muc": "Chậu rửa chén",
+      "hinh_anh": "assets/pages/page_38.jpg",
+      "so_san_pham": 7,
+      "san_pham": [
+        {
+          "id": "sp-183-d009",
+          "ma_san_pham": "D009 “Celestia”",
+          "ten_san_pham": "Chậu rửa chén inox Celestia",
+          "gia_niem_yet": "8,640,000 VNĐ",
+          "danh_muc": "Chậu rửa chén",
+          "hinh_anh": "assets/products/D009.jpg",
+          "bbox_page": {
+            "x": 3.78,
+            "y": 0.59,
+            "w": 43.68,
+            "h": 23.4
+          }
+        },
+        {
+          "id": "sp-184-d010",
+          "ma_san_pham": "D010 “Onyrix”",
+          "ten_san_pham": "Chậu rửa chén inox Onyrix",
+          "gia_niem_yet": "8,964,000 VNĐ",
+          "danh_muc": "Chậu rửa chén",
+          "hinh_anh": "assets/products/D010.jpg",
+          "bbox_page": {
+            "x": 3.78,
+            "y": 23.76,
+            "w": 43.68,
+            "h": 23.16
+          }
+        },
+        {
+          "id": "sp-185-d014",
+          "ma_san_pham": "D014 “Oslo Granite”",
+          "ten_san_pham": "Chậu rửa chén đá Oslo Granite",
+          "gia_niem_yet": "9,180,000 VNĐ",
+          "danh_muc": "Chậu rửa chén",
+          "hinh_anh": "assets/products/D014.jpg",
+          "bbox_page": {
+            "x": 3.78,
+            "y": 48.7,
+            "w": 43.68,
+            "h": 20.79
+          }
+        },
+        {
+          "id": "sp-186-d008",
+          "ma_san_pham": "D008 “Aristo”",
+          "ten_san_pham": "Chậu rửa chén inox Aristo",
+          "gia_niem_yet": "9,504,000 VNĐ",
+          "danh_muc": "Chậu rửa chén",
+          "hinh_anh": "assets/products/D008.jpg",
+          "bbox_page": {
+            "x": 3.78,
+            "y": 69.84,
+            "w": 43.68,
+            "h": 27.08
+          }
+        },
+        {
+          "id": "sp-187-d013",
+          "ma_san_pham": "D013 “Milantitanium”",
+          "ten_san_pham": "Chậu rửa chén đá Milantitanium",
+          "gia_niem_yet": "9,990,000 VNĐ",
+          "danh_muc": "Chậu rửa chén",
+          "hinh_anh": "assets/products/D013.jpg",
+          "bbox_page": {
+            "x": 53.76,
+            "y": 1.78,
+            "w": 43.51,
+            "h": 21.38
+          }
+        },
+        {
+          "id": "sp-188-d015",
+          "ma_san_pham": "D015 “Los Órganos”",
+          "ten_san_pham": "Chậu rửa chén đá Los Órganos",
+          "gia_niem_yet": "9,828,000 VNĐ",
+          "danh_muc": "Chậu rửa chén",
+          "hinh_anh": "assets/products/D015.jpg",
+          "bbox_page": {
+            "x": 53.76,
+            "y": 24.71,
+            "w": 43.51,
+            "h": 20.67
+          }
+        },
+        {
+          "id": "sp-189-d012",
+          "ma_san_pham": "D012",
+          "ten_san_pham": "Chậu rửa chén thông minh sóng siêu âm & UV",
+          "gia_niem_yet": "38,232,000 VNĐ",
+          "danh_muc": "Chậu rửa chén",
+          "hinh_anh": "assets/products/D012.jpg",
+          "bbox_page": {
+            "x": 53.76,
+            "y": 45.73,
+            "w": 43.68,
+            "h": 24.94
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 39,
+      "trang_catalogue": "73 - 74",
+      "tieu_de": "Vòi Bếp LUSHINE - Linh Hoạt & Tinh Tế Trong Từng Chuyển Động",
+      "chuyen_muc": "Vòi bếp",
+      "hinh_anh": "assets/pages/page_39.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 40,
+      "trang_catalogue": "75 - 76",
+      "tieu_de": "Vòi Rửa Chén Lạnh, Nóng Lạnh, Dây Rút & Cảm Ứng LUSHINE (K001 - K014)",
+      "chuyen_muc": "Vòi bếp",
+      "hinh_anh": "assets/pages/page_40.jpg",
+      "so_san_pham": 14,
+      "san_pham": [
+        {
+          "id": "sp-190-k009",
+          "ma_san_pham": "K009",
+          "ten_san_pham": "Vòi rửa chén nóng lạnh",
+          "gia_niem_yet": "1,188,000 VNĐ",
+          "danh_muc": "Vòi bếp",
+          "hinh_anh": "assets/products/K009.jpg",
+          "bbox_page": {
+            "x": 4.37,
+            "y": 4.99,
+            "w": 12.85,
+            "h": 25.06
+          }
+        },
+        {
+          "id": "sp-191-k012",
+          "ma_san_pham": "K012",
+          "ten_san_pham": "Vòi rửa chén lạnh",
+          "gia_niem_yet": "1,188,000 VNĐ",
+          "danh_muc": "Vòi bếp",
+          "hinh_anh": "assets/products/K012.jpg",
+          "bbox_page": {
+            "x": 19.32,
+            "y": 4.99,
+            "w": 12.77,
+            "h": 25.06
+          }
+        },
+        {
+          "id": "sp-192-k011",
+          "ma_san_pham": "K011",
+          "ten_san_pham": "Vòi rửa chén lạnh",
+          "gia_niem_yet": "1,620,000 VNĐ",
+          "danh_muc": "Vòi bếp",
+          "hinh_anh": "assets/products/K011.jpg",
+          "bbox_page": {
+            "x": 34.27,
+            "y": 4.99,
+            "w": 12.77,
+            "h": 25.06
+          }
+        },
+        {
+          "id": "sp-193-k005",
+          "ma_san_pham": "K005",
+          "ten_san_pham": "Vòi rửa chén nóng lạnh",
+          "gia_niem_yet": "2,160,000 VNĐ",
+          "danh_muc": "Vòi bếp",
+          "hinh_anh": "assets/products/K005.jpg",
+          "bbox_page": {
+            "x": 4.37,
+            "y": 37.06,
+            "w": 12.85,
+            "h": 24.83
+          }
+        },
+        {
+          "id": "sp-194-k006",
+          "ma_san_pham": "K006",
+          "ten_san_pham": "Vòi rửa chén nóng lạnh",
+          "gia_niem_yet": "2,160,000 VNĐ",
+          "danh_muc": "Vòi bếp",
+          "hinh_anh": "assets/products/K006.jpg",
+          "bbox_page": {
+            "x": 19.32,
+            "y": 37.06,
+            "w": 12.77,
+            "h": 24.83
+          }
+        },
+        {
+          "id": "sp-195-k007",
+          "ma_san_pham": "K007",
+          "ten_san_pham": "Vòi rửa chén nóng lạnh",
+          "gia_niem_yet": "2,160,000 VNĐ",
+          "danh_muc": "Vòi bếp",
+          "hinh_anh": "assets/products/K007.jpg",
+          "bbox_page": {
+            "x": 34.27,
+            "y": 37.06,
+            "w": 12.77,
+            "h": 24.83
+          }
+        },
+        {
+          "id": "sp-196-k008",
+          "ma_san_pham": "K008",
+          "ten_san_pham": "Vòi rửa chén nóng lạnh",
+          "gia_niem_yet": "2,160,000 VNĐ",
+          "danh_muc": "Vòi bếp",
+          "hinh_anh": "assets/products/K008.jpg",
+          "bbox_page": {
+            "x": 4.37,
+            "y": 68.89,
+            "w": 12.85,
+            "h": 24.94
+          }
+        },
+        {
+          "id": "sp-197-k001_luxury",
+          "ma_san_pham": "K001 Luxury",
+          "ten_san_pham": "Vòi rửa chén nóng lạnh",
+          "gia_niem_yet": "2,268,000 VNĐ",
+          "danh_muc": "Vòi bếp",
+          "hinh_anh": "assets/products/K001_Luxury.jpg",
+          "bbox_page": {
+            "x": 19.32,
+            "y": 68.89,
+            "w": 12.77,
+            "h": 24.94
+          }
+        },
+        {
+          "id": "sp-198-k002_luxury",
+          "ma_san_pham": "K002 Luxury",
+          "ten_san_pham": "Vòi rửa chén nóng lạnh",
+          "gia_niem_yet": "2,268,000 VNĐ",
+          "danh_muc": "Vòi bếp",
+          "hinh_anh": "assets/products/K002_Luxury.jpg",
+          "bbox_page": {
+            "x": 34.27,
+            "y": 68.89,
+            "w": 12.77,
+            "h": 24.94
+          }
+        },
+        {
+          "id": "sp-199-k004",
+          "ma_san_pham": "K004",
+          "ten_san_pham": "Vòi rửa chén nóng lạnh",
+          "gia_niem_yet": "2,160,000 VNĐ",
+          "danh_muc": "Vòi bếp",
+          "hinh_anh": "assets/products/K004.jpg",
+          "bbox_page": {
+            "x": 54.43,
+            "y": 4.99,
+            "w": 12.94,
+            "h": 25.06
+          }
+        },
+        {
+          "id": "sp-200-k003_luxury",
+          "ma_san_pham": "K003 Luxury",
+          "ten_san_pham": "Vòi rửa chén nóng lạnh",
+          "gia_niem_yet": "3,024,000 VNĐ",
+          "danh_muc": "Vòi bếp",
+          "hinh_anh": "assets/products/K003_Luxury.jpg",
+          "bbox_page": {
+            "x": 69.3,
+            "y": 4.99,
+            "w": 12.85,
+            "h": 25.06
+          }
+        },
+        {
+          "id": "sp-201-k010",
+          "ma_san_pham": "K010",
+          "ten_san_pham": "Vòi rửa chén nóng lạnh",
+          "gia_niem_yet": "3,132,000 VNĐ",
+          "danh_muc": "Vòi bếp",
+          "hinh_anh": "assets/products/K010.jpg",
+          "bbox_page": {
+            "x": 84.16,
+            "y": 4.99,
+            "w": 13.1,
+            "h": 25.06
+          }
+        },
+        {
+          "id": "sp-202-k014",
+          "ma_san_pham": "K014",
+          "ten_san_pham": "Vòi rửa chén cảm ứng",
+          "gia_niem_yet": "10,476,000 VNĐ",
+          "danh_muc": "Vòi bếp",
+          "hinh_anh": "assets/products/K014.jpg",
+          "bbox_page": {
+            "x": 54.43,
+            "y": 37.06,
+            "w": 12.94,
+            "h": 24.83
+          }
+        },
+        {
+          "id": "sp-203-k013",
+          "ma_san_pham": "K013",
+          "ten_san_pham": "Vòi rửa chén cảm ứng",
+          "gia_niem_yet": "12,852,000 VNĐ",
+          "danh_muc": "Vòi bếp",
+          "hinh_anh": "assets/products/K013.jpg",
+          "bbox_page": {
+            "x": 69.3,
+            "y": 37.06,
+            "w": 12.85,
+            "h": 24.83
+          }
+        }
+      ],
+      "combos": []
+    },
+    {
+      "trang_pdf": 41,
+      "trang_catalogue": "77 - 78",
+      "tieu_de": "11 Combo Thiết Bị Nhà Tắm TUSLO - Giải Pháp Đồng Bộ Hoàn Hảo",
+      "chuyen_muc": "Combo nhà tắm",
+      "hinh_anh": "assets/pages/page_41.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 42,
+      "trang_catalogue": "79 - 80",
+      "tieu_de": "Combo Nhà Tắm Eco 01 & Eco 02",
+      "chuyen_muc": "Combo nhà tắm",
+      "hinh_anh": "assets/pages/page_42.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": [
+        {
+          "id": "combo-eco-01",
+          "ma_combo": "Eco 01",
+          "ten_combo": "Combo Tuslo Eco 01 — “Đủ Để Bắt Đầu, Đẹp Để Ở Lâu”",
+          "phan_khuc": "Eco",
+          "hinh_anh": "assets/combos/combo-eco-01.jpg",
+          "so_luong_san_pham": 11,
+          "tong_gia_tri_fmt": "8,468,000 VNĐ",
+          "bbox_page": {
+            "x": 55.02,
+            "y": 5.7,
+            "w": 39.48,
+            "h": 41.22
+          }
+        },
+        {
+          "id": "combo-eco-02",
+          "ma_combo": "Eco 02",
+          "ten_combo": "Combo Tuslo Eco 02 — “Đủ Đầy Tiện Nghi, Đầu Tư Hợp Lý”",
+          "phan_khuc": "Eco",
+          "hinh_anh": "assets/combos/combo-eco-02.jpg",
+          "so_luong_san_pham": 13,
+          "tong_gia_tri_fmt": "10,379,400 VNĐ",
+          "bbox_page": {
+            "x": 55.02,
+            "y": 51.31,
+            "w": 39.48,
+            "h": 41.34
+          }
+        }
+      ]
+    },
+    {
+      "trang_pdf": 43,
+      "trang_catalogue": "81 - 82",
+      "tieu_de": "Combo Nhà Tắm Plus 01, Plus 02, Plus 03 & Plus 04",
+      "chuyen_muc": "Combo nhà tắm",
+      "hinh_anh": "assets/pages/page_43.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": [
+        {
+          "id": "combo-plus-01",
+          "ma_combo": "Plus 01",
+          "ten_combo": "Combo Tuslo Plus 01 — “Thuận Mắt Khi Nhìn, Tiện Ích Khi Dùng”",
+          "phan_khuc": "Plus",
+          "hinh_anh": "assets/combos/combo-plus-01.jpg",
+          "so_luong_san_pham": 15,
+          "tong_gia_tri_fmt": "14,850,000 VNĐ",
+          "bbox_page": {
+            "x": 5.71,
+            "y": 5.7,
+            "w": 38.64,
+            "h": 41.22
+          }
+        },
+        {
+          "id": "combo-plus-02",
+          "ma_combo": "Plus 02",
+          "ten_combo": "Combo Tuslo Plus 02 — “Một Lần Chọn, Trải Nghiệm Dài Lâu”",
+          "phan_khuc": "Plus",
+          "hinh_anh": "assets/combos/combo-plus-02.jpg",
+          "so_luong_san_pham": 14,
+          "tong_gia_tri_fmt": "15,726,000 VNĐ",
+          "bbox_page": {
+            "x": 5.71,
+            "y": 51.31,
+            "w": 38.64,
+            "h": 41.34
+          }
+        },
+        {
+          "id": "combo-plus-03",
+          "ma_combo": "Plus 03",
+          "ten_combo": "Combo Tuslo Plus 03 — “Đẹp Hôm Nay, Hợp Mãi Về Sau”",
+          "phan_khuc": "Plus",
+          "hinh_anh": "assets/combos/combo-plus-03.jpg",
+          "so_luong_san_pham": 14,
+          "tong_gia_tri_fmt": "14,775,000 VNĐ",
+          "bbox_page": {
+            "x": 55.6,
+            "y": 5.7,
+            "w": 38.89,
+            "h": 41.22
+          }
+        },
+        {
+          "id": "combo-plus-04",
+          "ma_combo": "Plus 04",
+          "ten_combo": "Combo Tuslo Plus 04 — “Không Gian Xứng Đáng Với Ngôi Nhà Của Bạn”",
+          "phan_khuc": "Plus",
+          "hinh_anh": "assets/combos/combo-plus-04.jpg",
+          "so_luong_san_pham": 14,
+          "tong_gia_tri_fmt": "15,855,000 VNĐ",
+          "bbox_page": {
+            "x": 55.6,
+            "y": 51.31,
+            "w": 38.89,
+            "h": 41.34
+          }
+        }
+      ]
+    },
+    {
+      "trang_pdf": 44,
+      "trang_catalogue": "83 - 84",
+      "tieu_de": "Combo Nhà Tắm Premium 01 (“Nét Đẹp Nguyên Bản”)",
+      "chuyen_muc": "Combo nhà tắm",
+      "hinh_anh": "assets/pages/page_44.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": [
+        {
+          "id": "combo-premium-01",
+          "ma_combo": "Premium 01",
+          "ten_combo": "Combo Tuslo Premium 01 — “Nét Đẹp Nguyên Bản”",
+          "phan_khuc": "Premium",
+          "hinh_anh": "assets/combos/combo-premium-01.jpg",
+          "so_luong_san_pham": 18,
+          "tong_gia_tri_fmt": "51,455,200 VNĐ",
+          "bbox_page": {
+            "x": 49.98,
+            "y": 0.0,
+            "w": 49.98,
+            "h": 99.89
+          }
+        }
+      ]
+    },
+    {
+      "trang_pdf": 45,
+      "trang_catalogue": "85 - 86",
+      "tieu_de": "Combo Nhà Tắm Premium 02 (“Chạm”) & Premium 03 (“Chốn Riêng”)",
+      "chuyen_muc": "Combo nhà tắm",
+      "hinh_anh": "assets/pages/page_45.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": [
+        {
+          "id": "combo-premium-02",
+          "ma_combo": "Premium 02",
+          "ten_combo": "Combo Tuslo Premium 02 — “Chạm”",
+          "phan_khuc": "Premium",
+          "hinh_anh": "assets/combos/combo-premium-02.jpg",
+          "so_luong_san_pham": 18,
+          "tong_gia_tri_fmt": "53,237,200 VNĐ",
+          "bbox_page": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 49.98,
+            "h": 99.89
+          }
+        },
+        {
+          "id": "combo-premium-03",
+          "ma_combo": "Premium 03",
+          "ten_combo": "Combo Tuslo Premium 03 — “Chốn Riêng”",
+          "phan_khuc": "Premium",
+          "hinh_anh": "assets/combos/combo-premium-03.jpg",
+          "so_luong_san_pham": 18,
+          "tong_gia_tri_fmt": "64,361,200 VNĐ",
+          "bbox_page": {
+            "x": 49.98,
+            "y": 0.0,
+            "w": 49.98,
+            "h": 99.89
+          }
+        }
+      ]
+    },
+    {
+      "trang_pdf": 46,
+      "trang_catalogue": "87 - 88",
+      "tieu_de": "Combo Nhà Tắm Signature 01 & Signature 02",
+      "chuyen_muc": "Combo nhà tắm",
+      "hinh_anh": "assets/pages/page_46.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": [
+        {
+          "id": "combo-signature-01",
+          "ma_combo": "Signature 01",
+          "ten_combo": "Combo Tuslo Signature 01 — “Mỗi Chi Tiết, Một Tuyên Ngôn”",
+          "phan_khuc": "Signature",
+          "hinh_anh": "assets/combos/combo-signature-01.jpg",
+          "so_luong_san_pham": 19,
+          "tong_gia_tri_fmt": "187,680,600 VNĐ",
+          "bbox_page": {
+            "x": 0.0,
+            "y": 0.0,
+            "w": 49.98,
+            "h": 99.89
+          }
+        },
+        {
+          "id": "combo-signature-02",
+          "ma_combo": "Signature 02",
+          "ten_combo": "Combo Tuslo Signature 02 — “Dấu Ấn Tinh Tuyển”",
+          "phan_khuc": "Signature",
+          "hinh_anh": "assets/combos/combo-signature-02.jpg",
+          "so_luong_san_pham": 19,
+          "tong_gia_tri_fmt": "98,490,960 VNĐ",
+          "bbox_page": {
+            "x": 49.98,
+            "y": 0.0,
+            "w": 49.98,
+            "h": 99.89
+          }
+        }
+      ]
+    },
+    {
+      "trang_pdf": 47,
+      "trang_catalogue": "89 - 90",
+      "tieu_de": "Không Gian Phòng Tắm Thực Tế TUSLO I",
+      "chuyen_muc": "Phối cảnh thực tế",
+      "hinh_anh": "assets/pages/page_47.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 48,
+      "trang_catalogue": "91 - 92",
+      "tieu_de": "Không Gian Phòng Tắm Thực Tế TUSLO II",
+      "chuyen_muc": "Phối cảnh thực tế",
+      "hinh_anh": "assets/pages/page_48.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 49,
+      "trang_catalogue": "93 - 94",
+      "tieu_de": "Không Gian Phòng Tắm Thực Tế TUSLO III",
+      "chuyen_muc": "Phối cảnh thực tế",
+      "hinh_anh": "assets/pages/page_49.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 50,
+      "trang_catalogue": "95 - 96",
+      "tieu_de": "Trang Lót Bìa Sau",
+      "chuyen_muc": "Bìa & Giới thiệu",
+      "hinh_anh": "assets/pages/page_50.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    },
+    {
+      "trang_pdf": 51,
+      "trang_catalogue": "97 (Bìa sau)",
+      "tieu_de": "Bìa Sau - Hệ Thống Siêu Thị Vật Liệu Xây Dựng & Nội Thất Hoa Sen Home",
+      "chuyen_muc": "Bìa & Giới thiệu",
+      "hinh_anh": "assets/pages/page_51.jpg",
+      "so_san_pham": 0,
+      "san_pham": [],
+      "combos": []
+    }
+  ]
+};
