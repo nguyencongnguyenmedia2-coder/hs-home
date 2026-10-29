@@ -203,6 +203,52 @@
         closeQuoteModal();
       }
     });
+
+    // Scroll listener: Back-to-top button & Header section indicator
+    const backToTopBtn = document.getElementById("backToTopBtn");
+    const trackSections = [
+      { id: "showroomSection" },
+      { id: "combosSection" },
+      { id: "techShowcaseSection" },
+      { id: "lookbookSection" },
+      { id: "catalogueExplorerSection" }
+    ];
+
+    window.addEventListener(
+      "scroll",
+      () => {
+        const scrollY = window.scrollY || window.pageYOffset;
+        if (backToTopBtn) {
+          if (scrollY > 320) {
+            backToTopBtn.classList.add("visible");
+          } else {
+            backToTopBtn.classList.remove("visible");
+          }
+        }
+
+        let currentSec = "";
+        for (const sec of trackSections) {
+          const el = document.getElementById(sec.id);
+          if (el) {
+            const top = el.getBoundingClientRect().top;
+            if (top <= 180) {
+              currentSec = sec.id;
+            }
+          }
+        }
+        if (currentSec) {
+          document.querySelectorAll(".header-actions .nav-btn").forEach((btn) => {
+            const onclickAttr = btn.getAttribute("onclick") || "";
+            if (onclickAttr.includes(currentSec)) {
+              btn.classList.add("active");
+            } else if (onclickAttr.includes("scrollToSection")) {
+              btn.classList.remove("active");
+            }
+          });
+        }
+      },
+      { passive: true }
+    );
   }
 
   // ==========================================================================
@@ -528,7 +574,8 @@
             <div class="card-price">${p.gia_niem_yet}</div>
             <div class="card-actions">
               <button class="icon-btn ${quoteQty > 0 ? "quote-active" : ""}" onclick="app.addToQuote('${p.id}', 1)" title="Thêm sản phẩm vào Bảng Báo Giá & Dự Toán">
-                ${quoteQty > 0 ? `🧾 Đã chọn (${quoteQty})` : "+ Báo giá"}
+                <span class="quote-btn-desktop">${quoteQty > 0 ? `🧾 Đã chọn (${quoteQty})` : "+ Báo giá"}</span>
+                <span class="quote-btn-mobile">${quoteQty > 0 ? `🧾 ${quoteQty}` : "+ Báo giá"}</span>
               </button>
               <button class="icon-btn ${isCompared ? "compare-active" : ""}" onclick="app.toggleCompare('${p.id}')" title="Thêm vào so sánh">
                 ${isCompared ? "✓" : "⚖️"}
@@ -1306,7 +1353,7 @@
           <h4 style="font-size:0.92rem; font-weight:800; color:var(--text-primary); margin-bottom:10px;">
             ✨ ${activeFeats.length}/27 Tính năng Bồn cầu thông minh tích hợp trên ${p.ma_san_pham} (Đối chiếu Trang PDF 15):
           </h4>
-          <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(280px, 1fr)); gap:8px; font-size:0.8rem;">
+          <div class="product-features-grid">
             ${activeFeats
               .map(
                 (f) => `
@@ -1450,7 +1497,7 @@
           ? `
         <div style="margin-top:26px; padding-top:18px; border-top:1px solid var(--border-light);">
           <h4 style="font-size:0.95rem; font-weight:800; margin-bottom:12px;">🔄 Sản phẩm cùng danh mục ${p.danh_muc}</h4>
-          <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(220px, 1fr)); gap:12px;">
+          <div class="related-products-grid">
             ${related
               .map(
                 (r) => `
@@ -1548,7 +1595,7 @@
       .join("");
 
     body.innerHTML = `
-      <div style="display:grid; grid-template-columns: 1.05fr 1.35fr; gap:22px; align-items:start;">
+      <div class="combo-modal-grid">
         <div>
           <div style="border-radius:12px; overflow:hidden; border:1px solid var(--border-gold); cursor:zoom-in;" onclick="app.openLightbox('${cb.hinh_anh}', '${cb.ten_combo} — Trang PDF ${cb.trang_pdf}')">
             <img src="${cb.hinh_anh}" alt="${cb.ten_combo}" style="width:100%; height:auto; display:block;" />
@@ -1761,7 +1808,7 @@
         </div>
       </div>
 
-      <div style="display:grid; grid-template-columns:repeat(4, 1fr); gap:12px; margin-bottom:20px;">
+      <div class="stats-overview-grid">
         <div style="background:var(--bg-elevated); padding:14px; border-radius:10px; border:1px solid var(--border-light);">
           <div style="font-size:0.75rem; color:var(--text-muted);">Tổng số sản phẩm</div>
           <div style="font-size:1.5rem; font-weight:800; color:var(--gold-primary);">${DATA.products.length} SP</div>
@@ -2467,7 +2514,7 @@
         </div>
       </div>
 
-      <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(340px, 1fr)); gap:12px; max-height:52vh; overflow-y:auto; padding:2px;">
+      <div class="configurator-slots-grid">
         ${slotsHTML}
       </div>
 
